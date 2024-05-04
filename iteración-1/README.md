@@ -98,7 +98,14 @@ _[Existe evidencia sobre el registro de actividades y horas de cada integrante d
 
 ### Artefactos principales
 
+- Feedback recibido en la Sprint Review
+
+[Sprint Review](Sprint-Review.md) 
+
 - Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
+
+[Sprint Retrospective](Sprint-Retrospective.md) 
+
 - Planificación y seguimiento de las acciones de mejora.
 
 # Identificar y definir el problema a resolver
