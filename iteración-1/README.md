@@ -16,9 +16,9 @@
 Se decidió utilizar SCRUM para este proyecto sobre la aplicación de pencas deportivas. Se establecieron los acuerdos detallados a continuación para adaptarse a la realidad de los integrantes.
 
 #### Roles:
-- Product Owner: [Nombre]. define y prioriza los elementos del Backlog en función del valor para el usuario y el negocio.
-- Scrum Master: [Nombre]. Se encarga de llevar adelante y asegurar que se realicen los eventos SCRUM. .
-- Development Team: [Nombres]. Responsables de desarrollar los incrementos.
+- Product Owner: Germán. Define y prioriza los elementos del Backlog en función del valor para el usuario y el negocio.
+- Scrum Master: Gabriel. Se encarga de llevar adelante y asegurar que se realicen los eventos SCRUM, y ayudar a quitar los obstáculos que le impiden avanzar al equipo de proyecto.
+- Development Team: Maxi, Ana Belén, Gabriel, Santi Alfonso, Santi López, Bruno. Responsables de desarrollar los incrementos.
 
 ### Artefactos principales
 
@@ -27,6 +27,13 @@ Se decidió utilizar SCRUM para este proyecto sobre la aplicación de pencas dep
 - Políticas de trabajo del equipo:
   - Definition of Done.
   - Definition of Ready.
+
+#### Definiciones:
+
+- Definition of Ready: los elementos del Backlog deben estar claros, tener criterios de aceptación definidos y ser priorizados antes de ser seleccionados para su inclusión en el Sprint.
+
+- Definition of Done: los elementos del Backlog completados durante el Sprint deben cumplir con los criterios de aceptación definidos, estar probados y listos para su entrega.
+
 
 #### Eventos:
 - **Daily Scrum**: Dentro de las adpataciones del marco de trabajo se realizarán adaptaciones que se describen mas adelante. Esto se justifica porque dado que muchos de los integrantes del equipo trbajan y estudian, además de las responsabilidades familiares que cada uno tiene, solo es viable coincidir en ciertos horarios que son los que se han definido a continuación.
@@ -61,11 +68,6 @@ Como resultado de estas definiciones de los eventos Scrum para el proyecto, en l
 
 [Daly Scrum](Daily-Scrum.md)
 
-
-#### Definiciones:
-- Done: los elementos del Backlog completados durante el Sprint deben cumplir con los criterios de aceptación definidos, estar probados y listos para su entrega.
-
-- Ready: los elementos del Backlog deben estar claros, tener criterios de aceptación definidos y ser priorizados antes de ser seleccionados para su inclusión en el Sprint.
 
 ## Planificación de la iteración
 
