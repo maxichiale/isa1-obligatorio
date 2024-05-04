@@ -13,8 +13,6 @@
 
 ## Definición del marco de trabajo
 
-_[Definición del marco de trabajo SCRUM con los acuerdos principales del equipo y evidencia de sus prácticas aplicadas en la iteración. Deben estar los roles definidos para cada integrante del equipo y la justificación de la adaptación del marco de trabajo al contexto de la iteración.]_
-
 Se decidió utilizar SCRUM para este proyecto sobre la aplicación de pencas deportivas. Se establecieron los acuerdos detallados a continuación para adaptarse a la realidad de los integrantes.
 
 #### Roles:
@@ -96,8 +94,6 @@ _[Existe evidencia sobre el registro de actividades y horas de cada integrante d
 
 ## Inspección y adaptación del proceso
 
-_[Existe evidencia sobre la inspección del proceso con aprendizajes principales y acciones de mejora implementadas durante el desarrollo del proyecto.]_
-
 ### Artefactos principales
 
 - Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
@@ -118,7 +114,21 @@ Para ello, realizamos encuestas a personas de diferentes edades (14 a 70 años) 
 - Lista de funcionalidades por cada interesado.
 - Análisis y estudio de competidores.
 
-[Analisis de Perfiles de usuario y Aplicaciones](resources/PerfilesUsuarioYAplicaciones.xlsx)
+### Analisis de Perfiles de usuario y Aplicaciones
+
+#### Estudio de competidores
+
+Para realizar el estudio de competidores, buscamos en aplicaciones que ya conociamos sobre pencas y algunas que no tanto para poder investigar como funcionan y que funcionalidades tienen.
+
+Nos basamos en tres aplicaciones principales: Ovacion, Montevideo Portal, Supermatch y también en pencas que las personas crean por su cuenta y no estan basados en una app, a estas les llamamos "Penca Personales".
+
+Para esto armamos una tabla con las distintas funcionalidades en la cual luego basamos nuestra encuesta.
+
+#### Perfiles
+
+Para evaluar los distintos perfiles de nuestra app, realizamos encuestas a distintas personas en las que buscamos conocer que funcionalidades de la app que usan les interesa mas, que no le interesa o no le gusta de esa app y que le gustaria que tenga pero no lo tiene.
+
+Tanto el estudio de competidores como las respuesta de las encuesta se puede ver en el siguiente archivo. [Analisis de Perfiles de usuario y Aplicaciones](resources/PerfilesUsuarioYAplicaciones.xlsx)
 
 ## Definición del problema/solución
 
