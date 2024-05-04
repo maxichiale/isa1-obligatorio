@@ -30,12 +30,39 @@ Se decidió utilizar SCRUM para este proyecto sobre la aplicación de pencas dep
   - Definition of Done.
   - Definition of Ready.
 
-
 #### Eventos:
-- Daily Scrum: Se llevará a cabo de manera virtual cada integrante envía su actualización mediante whatsapp los días martes, viernes y domingo para sincronizar al equipo, compartir progreso y discutir posibles impedimentos.
-- Sprint Planning: al comienzo de cada iteración para definir los objetivos del Sprint y seleccionar los elementos del Backlog a incluir.
-- Sprint Review: al final de cada iteración para revisar el incremento desarrollado y recopilar feedback.
-- Sprint Retrospective: al final de cada iteración para analizar el proceso y el trabajo realizado con el fin de identificar mejoras y planificar acciones para corregir/mejorar.
+- **Daily Scrum**: Dentro de las adpataciones del marco de trabajo se realizarán adaptaciones que se describen mas adelante. Esto se justifica porque dado que muchos de los integrantes del equipo trbajan y estudian, además de las responsabilidades familiares que cada uno tiene, solo es viable coincidir en ciertos horarios que son los que se han definido a continuación.
+
+La coordinación y los intercambios se realizarán por whatsapp, en el grupo creado para ese fin llamado: 
+`ORT - ISA1 - Equipo2`
+
+![Integrantes](img/whatsapp-integrantes.PNG) 
+
+Los martes en la noche, se realizara una Daily Scrum "offline" donde cada integrante mandará su actualización en forma de mensaje por whatsapp, incuyendo:
+  - ¿Que pudo avanzar?
+  - ¿Qué es lo próximo que va a realizar?
+  - ¿Si tiene algún impedimento para avanzar?
+
+Los viernes a las 21hs se realizará una reunión por Teams (daily scrum "online"), para tratar los mismos temas en la primera parte, y luego se tiene tiempo agendado para otras coordinaciones que sean necesarias.
+
+Los sábados se realizará una daily scrum "online" por teams, previo a la Sprint Review, Retro y Planning.
+
+Por lo tanto al agenda semanal para las Daily Scrums queda de la siguiente forma.
+![dayly viernes](img/daily-scrum.PNG) 
+
+- **Sprint Planning**: Al comienzo de cada iteración, luego de la Sprint Retrospective del sprint anterior, para definir los objetivos del Sprint y seleccionar los elementos del Backlog a incluir en el Sprint Backlog
+
+- **Sprint Review**: Al final de cada iteración para revisar el incremento desarrollado y recopilar feedback. Esta reunión se agendó para los sábados luego de la daily, para poder tener este feedback antes de la Retro de forma de poder tener mas insumos para la Retro y Planning que vienen a continuación.
+
+- **Sprint Retrospective**: Se definió tenerla luego del final de cada iteración y luego de la Sprint Review para poder incluir tambien como insumo el feedback recibido en la Sprint Review, y de esa manera poder identificar mejor elementos del proceso que sean necesarios modificar o mejorar. También consideramos incluirla antes de la Sprint Planning para que si a raiz de la Retro surgen Action Items que realizar, estos se puedan incluir en el backlog para poder ser tenidos en consideración en la planificación del siguiente sprint.
+
+Como resultado de estas definiciones de los eventos Scrum para el proyecto, en las semanas que finaliza el Sprint esta sería la agenda definida.
+![scrum meetings](img/scrum-meetings.PNG) 
+
+##### Evidencias
+
+[Daly Scrum](Daily-Scrum.md)
+
 
 #### Definiciones:
 - Done: los elementos del Backlog completados durante el Sprint deben cumplir con los criterios de aceptación definidos, estar probados y listos para su entrega.
