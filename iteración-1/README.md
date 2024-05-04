@@ -94,7 +94,10 @@ _[Existe un Product Backlog definido con su jerarquía de épicas e historias de
 
 ### Artefactos principales
 
+-Product backlog:
+
 - Product backlog con épicas e historias de usuario para prototipar.
 - Historias de usuario cumpliendo el Definition of Ready con sus criterios de aceptación.
 - Propuesta de valor diferenciadora de la competencia.
 - Story map del roadmap inicial del proyecto.
+
