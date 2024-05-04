@@ -109,6 +109,9 @@ _[Existe evidencia sobre la inspección del proceso con aprendizajes principales
 
 _[Entendimiento claro del problema del negocio a resolver con la identificación de los usuarios y escenarios principales con su valor de negocio asociado. Existe a su vez evidencia que se analiza y compara aplicaciones similares existentes del mercado.]_
 
+El problema a resolver que se nos plantea, es la identificación de los distintos perfiles de usuarios y sus requerimientos y/o expectativas con respecto a una aplicación de pencas deportivas.
+Para ello, realizamos encuestas a personas de diferentes edades (14 a 71 años) y ambientes sociales, para poder identificar necesidades claves dentro de la aplicación a desarrollar, y a su vez, usar como base de discusión otras aplicaciones ya existentes (Ovación, Supermatch, Montevideo Portal, Pencas Personales), para poder identificar fácilmente cuáles son las características que más le gustan de dicha aplicación y qué otras funcionalidades le gustaría que tuviese la aplicación que actualmente no proporciona.
+
 ### Artefactos principales
 
 - Identificación de interesados con sus perfiles asociados.
