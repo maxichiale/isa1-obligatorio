@@ -71,22 +71,10 @@ Como resultado de estas definiciones de los eventos Scrum para el proyecto, en l
 
 ## Planificación de la iteración
 
-[Sprint](Sprint.md)
+[Sprint Planning](Sprint.md)
 
 ## Seguimiento de la iteración
 
-_[Existe evidencia sobre el registro de actividades y horas de cada integrante del equipo con el seguimiento general de cada iteración del proyecto sobre lo planificado inicialmente.]_
-
-### Artefactos principales
-
-- Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
-  - ¿Que logramos hacer?
-  - ¿Qué planificamos hacer?
-  - ¿Qué impedimentos tenemos?
-- Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
-- Seguimiento visual de la iteración con burndown y/o burnup charts.
-
-## Inspección y adaptación del proceso
 
 ### Artefactos principales
 
