@@ -118,6 +118,8 @@ Para ello, realizamos encuestas a personas de diferentes edades (14 a 71 años) 
 - Lista de funcionalidades por cada interesado.
 - Análisis y estudio de competidores.
 
+[Analisis de Perfiles de usuario y Aplicaciones](resources/PerfilesUsuarioYAplicaciones.xlsx)
+
 ## Definición del problema/solución
 
 _[Existe un Product Backlog definido con su jerarquía de épicas e historias de usuario con sus criterios de aceptación asociados. Existe una priorización de los prototipos principales que se buscarán idear, construir y validar como parte del ciclo de descubrimiento.]_
