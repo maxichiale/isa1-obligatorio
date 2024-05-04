@@ -138,7 +138,8 @@ Tanto el estudio de competidores como las respuesta de las encuesta se puede ver
 
 - Historias de usuario cumpliendo el Definition of Ready con sus criterios de aceptación.
 
-![Ejemplo US 1](img/EjemploUS-1.PNG) 
+![Ejemplo US 1](img/EjemploUS-1.PNG)
+
 ![Ejemplo US 2](img/EjemploUS-2.PNG) 
 
 - Propuesta de valor diferenciadora de la competencia.
