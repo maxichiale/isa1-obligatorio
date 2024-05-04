@@ -71,15 +71,7 @@ Como resultado de estas definiciones de los eventos Scrum para el proyecto, en l
 
 ## Planificación de la iteración
 
-_[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener las historias de usuario priorizadas y las tareas planificadas basadas en la capacidad y velocidad disponible del equipo.]_
-
-### Artefactos principales
-
-- Minuta de la sprint planning con su agenda, actividades y resultados.
-- Objetivos de la iteración.
-- Sprint backlog con historias de usuarios y tareas asociadas.
-- Planificación de acuerdo a la capacidad del equipo.
-- Técnicas de priorización y estimación utilizadas.
+[Sprint](Sprint.md)
 
 ## Seguimiento de la iteración
 
@@ -112,16 +104,11 @@ _[Existe evidencia sobre el registro de actividades y horas de cada integrante d
 
 ## Identificación del problema a resolver
 
-_[Entendimiento claro del problema del negocio a resolver con la identificación de los usuarios y escenarios principales con su valor de negocio asociado. Existe a su vez evidencia que se analiza y compara aplicaciones similares existentes del mercado.]_
-
 El problema a resolver que se nos plantea, es la identificación de los distintos perfiles de usuarios y sus requerimientos y/o expectativas con respecto a una aplicación de pencas deportivas.
 Para ello, realizamos encuestas a personas de diferentes edades (14 a 70 años) y ambientes sociales, para poder identificar necesidades claves dentro de la aplicación a desarrollar, y a su vez, usar como base de discusión otras aplicaciones ya existentes (Ovación, Supermatch, Montevideo Portal, Pencas Personales), para poder identificar fácilmente cuáles son las características que más le gustan de dicha aplicación y qué otras funcionalidades le gustaría que tuviese la aplicación que actualmente no proporciona.
 
 ### Artefactos principales
 
-- Identificación de interesados con sus perfiles asociados.
-- Lista de funcionalidades por cada interesado.
-- Análisis y estudio de competidores.
 
 ### Analisis de Perfiles de usuario y Aplicaciones
 
@@ -140,8 +127,6 @@ Para evaluar los distintos perfiles de nuestra app, realizamos encuestas a disti
 Tanto el estudio de competidores como las respuesta de las encuesta se puede ver en el siguiente archivo. [Analisis de Perfiles de usuario y Aplicaciones](resources/PerfilesUsuarioYAplicaciones.xlsx)
 
 ## Definición del problema/solución
-
-_[Existe un Product Backlog definido con su jerarquía de épicas e historias de usuario con sus criterios de aceptación asociados. Existe una priorización de los prototipos principales que se buscarán idear, construir y validar como parte del ciclo de descubrimiento.]_
 
 ### Artefactos principales
 
