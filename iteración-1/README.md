@@ -15,6 +15,13 @@
 
 _[Definición del marco de trabajo SCRUM con los acuerdos principales del equipo y evidencia de sus prácticas aplicadas en la iteración. Deben estar los roles definidos para cada integrante del equipo y la justificación de la adaptación del marco de trabajo al contexto de la iteración.]_
 
+Se decidió utilizar SCRUM para este proyecto sobre la aplicación de pencas deportivas. Se establecieron los acuerdos detallados a continuación para adaptarse a la realidad de los integrantes.
+
+#### Roles:
+- Product Owner: [Nombre]. define y prioriza los elementos del Backlog en función del valor para el usuario y el negocio.
+- Scrum Master: [Nombre]. Se encarga de llevar adelante y asegurar que se realicen los eventos SCRUM. .
+- Development Team: [Nombres]. Responsables de desarrollar los incrementos.
+
 ### Artefactos principales
 
 - Definición del calendario de eventos con justificación de su adaptación al contexto de la iteración.
@@ -22,6 +29,18 @@ _[Definición del marco de trabajo SCRUM con los acuerdos principales del equipo
 - Políticas de trabajo del equipo:
   - Definition of Done.
   - Definition of Ready.
+
+
+#### Eventos:
+- Daily Scrum: Se llevará a cabo de manera virtual cada integrante envía su actualización mediante whatsapp los días martes, viernes y domingo para sincronizar al equipo, compartir progreso y discutir posibles impedimentos.
+- Sprint Planning: al comienzo de cada iteración para definir los objetivos del Sprint y seleccionar los elementos del Backlog a incluir.
+- Sprint Review: al final de cada iteración para revisar el incremento desarrollado y recopilar feedback.
+- Sprint Retrospective: al final de cada iteración para analizar el proceso y el trabajo realizado con el fin de identificar mejoras y planificar acciones para corregir/mejorar.
+
+#### Definiciones:
+- Done: los elementos del Backlog completados durante el Sprint deben cumplir con los criterios de aceptación definidos, estar probados y listos para su entrega.
+
+- Ready: los elementos del Backlog deben estar claros, tener criterios de aceptación definidos y ser priorizados antes de ser seleccionados para su inclusión en el Sprint.
 
 ## Planificación de la iteración
 
