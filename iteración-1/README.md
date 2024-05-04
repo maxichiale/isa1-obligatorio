@@ -129,7 +129,18 @@ _[Existe un Product Backlog definido con su jerarquía de épicas e historias de
 -Product backlog:
 
 - Product backlog con épicas e historias de usuario para prototipar.
+
+![Integrantes](img/Backlog.PNG) 
+
 - Historias de usuario cumpliendo el Definition of Ready con sus criterios de aceptación.
+
+![Ejemplo US 1](img/EjemploUS-1.PNG) 
+![Ejemplo US 2](img/EjemploUS-2.PNG) 
+
 - Propuesta de valor diferenciadora de la competencia.
+
+![Ejemplo US 2](img/AgreganValor.PNG) 
+
 - Story map del roadmap inicial del proyecto.
 
+![Ejemplo US 2](img/ISA1-Equipo2-Pencas-StoryMap.png) 
