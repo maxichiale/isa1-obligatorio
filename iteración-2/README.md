@@ -69,6 +69,10 @@ Tareas principales realizada por cada integrante del equipo:
 - Santiago Alfonso
 
 - Santiago Lopez
+  - Reuniones
+  - Baja de usuarios
+  - Actualizacion de estilos en: Ver resultados en vivo
+  - Actualizar User Stories de Enviar invitacion, Ver resultados en vivo y Baja de usuarios  
 
 - Belén Martinez
 
