@@ -1,22 +1,18 @@
 # Sprint Retrospective
 
-**¿Que salió bien?**
+En esta ocasion para la retrospective, utilizamos la herramienta metro retro con el template de "The Good, The Bad, and The Ugly".
 
-- El equipo logró integrarse.
-- Reuniones efectivas.
-- No hubo conflictos.
-- Todos aportaron.
+En las imagenes a continuacion se pueden ver los 4 items: las cosas buenas, las malas, las que pueden mejorar, el objetivo principal y tambien las acciones a tomar para mejorar en futuras iteraciones.
 
-**¿Qué salió mal?**
+Tambien se puede acceder desde el siguiente [link](https://metroretro.io/BO0KOK1LZZW7).
 
-- Costó la coordinación inicial
-- Habia entregas que nos complicaron de tiempo
-- Dificultad en coordinar los tiempos de cada uno con tanta cantidad de personas
+![Retro Bad](img/retro-bad.PNG) 
 
-**¿Qué podemos mejorar? Action Items.**
+![Retro Good](img/retro-good.PNG) 
 
-- Planificar mejor el trabajo, contemplando las futuras entregas de todas las materias
-- Dejar definido un horario fijo para las reuniones/eventos de Scrum
-- Asegurarse de tomar notas en cada reunión para contar con evidencia
+![Retro Ugly](img/retro-ugly.PNG) 
 
-![Sprint Review](img/2024-05-04-Review-Retro-Planning.PNG) 
+![Retro Treasure](img/retro-treasure.PNG) 
+
+![Retro Action Items](img/retro-action-items.PNG) 
+
