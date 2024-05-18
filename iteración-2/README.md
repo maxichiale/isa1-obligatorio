@@ -104,8 +104,8 @@ _[Existe evidencia de instancias de inspección y validación del producto con u
 
 ### Artefactos principales
 
-- Minutas de sprint review.
-- Evidencia de los usability testing con usuarios finales.
-  - Descripción de las tareas propuestas a los usuarios finales.
-  - Cobertura obtenida de validación de los usuarios de la aplicación.
-- Feedback recibido de los usuarios finales con la priorización de las propuestas de cambio.
+- Se incluyen resultados del Sprint Review en el siguiente enlace:
+[Sprint Review](Sprint-Review.md)
+
+- Se incluyen resultados del Sprint Retrospective en el siguiente enlace:
+[Sprint Retrospective](Sprint-Retrospective.md) 

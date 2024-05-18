@@ -1,17 +1,18 @@
 # Sprint Review
 
-**Feedback sobre los resultados del relevamiento con usuarios sobre el uso de sistemas de pencas**
+**Feedback sobre los resultados del review con Stakeholders**
 
-- Se obtuvo información de las funcionalidades preferidas de los usuarios
-- Se obtuvo también información de las características negativas de algunos sistemas que deberíamos tratar de evitar
-- También se consiguió entender un poco algunas de las features que les gustaría que el sistema pudiera tener y que la aplicación que evaluaron no tenía
-- Todo esto ayuda a poder identificar qué características pueden aportar mas valor y que deberán tener mayor prioridad.
+- Se contrastó las funcionalidades implementadas con las User Story definidas según los Criterios de Aceptación.
+- Se contrastó también lo implementado con lo recibido del relevamiento inicial con usuarios.
+- El Product Owner comprobó lo implementado, y dió su feedback.
 
 **Feedback sobre el backlog construido**
 
-- Se logró crear un buen número de UserStories y agruparlas por funcionalidad.
-- El product owner ayudó a priorizar las UserStories de forma que pueda servir para planificar el siguiente Sprint.
+- Se entiende que el comportamiento especificado fué alcanzado.
+- En los prototipos de Framer, se fué un poco mas allá de lo indicado en la User Story. Eso es bueno, pero habrá que validarlo con usuarios, si lo adicionado es lo deseado.
 
-- Se identificó como un debe el hecho de que no se logró guardar evidencia de todas las actividades realizadas, como ser la planing inicial o agendas de las dailies scrum meetings
 
-![Sprint Review](img/2024-05-04-Review-Retro-Planning.PNG) 
+**Feedback sobre el proceso llevado a acabo**
+- Si bien se mejoró en algunos aspectos como ser en la recolección de evidencia de la Sprint Retrospective, el registro de horas, y la organización, se identificó como un debe el hecho de que no se logró guardar buena evidencia de otras actividades realizadas, como las agendas de las dailies scrum meetings
+
+![Sprint Review](img/2024-05-18-Review-Retro.PNG) 

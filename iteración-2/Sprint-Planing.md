@@ -1,17 +1,15 @@
 # Sprint Planning
 
-**Feedback sobre los resultados del relevamiento con usuarios sobre el uso de sistemas de pencas**
+Se incluye una captura de los elementos del Sprint Backlog para la Itreación 2.
 
-- Se obtuvo información de las funcionalidades preferidas de los usuarios
-- Se obtuvo también información de las características negativas de algunos sistemas que deberíamos tratar de evitar
-- También se consiguió entender un poco algunas de las features que les gustaría que el sistema pudiera tener y que la aplicación que evaluaron no tenía
-- Todo esto ayuda a poder identificar qué características pueden aportar mas valor y que deberán tener mayor prioridad.
+![Sprint Review](img/SprintBacklog-Iteracion2.PNG) 
 
-**Feedback sobre el backlog construido**
+La técnica de estimación utilizada fué la de Story Points utilizando números de Fibnoacci.
 
-- Se logró crear un buen número de UserStories y agruparlas por funcionalidad.
-- El product owner ayudó a priorizar las UserStories de forma que pueda servir para planificar el siguiente Sprint.
+Se incluye planilla con las estimaciones realizadas por el equipo.
 
-- Se identificó como un debe el hecho de que no se logró guardar evidencia de todas las actividades realizadas, como ser la planing inicial o agendas de las dailies scrum meetings
+[Horas de trabajo](resources/Planning.xlsx)
 
-![Sprint Review](img/2024-05-04-Review-Retro-Planning.PNG) 
+Se incluye como evidencia la asistencia a la reunion donde se realizó la Sprint Planning
+
+![Sprint Review](img/2024-05-04-Planning.PNG) 
