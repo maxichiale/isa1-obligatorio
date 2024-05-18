@@ -104,8 +104,10 @@ Tareas principales realizada por cada integrante del equipo:
 ## Inspección y adaptación del proceso
 
 En esta iteración implementamos varias mejoras con respecto a la pasada, entre ellas el uso de Metro Retro para la Sprint Retrospective, lo cual facilitó en gran medida la comunicación y pudimos ir viendo punto a punto lo que pensaba cada integrante del equipo acerca de nuestro desempeño como equipo en la iteración.
+
 A su vez, debido al uso de esta herramienta, ya tenemos en mente acciones a tomar para la siguiente iteración, por lo cual comparada con la anterior tenemos ventaja, ya que desde el día 1 vamos con esos puntos bien claros.
 
+Por otro lado, otro aspecto en el que se mejoró considerablemente fue en el trabajo grupal en tareas específicas, trabajando muchas veces en sub-grupos, lo cual hacía que el trabajo fuera mucho más eficiente y de mayor calidad.
 ### Artefactos principales
 
 - Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
