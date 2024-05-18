@@ -36,16 +36,10 @@ Se decidió utilizar SCRUM para este proyecto sobre la aplicación de pencas dep
 
 ## Planificación de la iteración
 
-_[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener las historias de usuario priorizadas y las tareas planificadas basadas en la capacidad y velocidad disponible del equipo.]_
-
 ### Artefactos principales
 
-- Minuta de la sprint planning con su agenda, actividades y resultados.
-- Objetivos de la iteración.
-- Sprint backlog con historias de usuarios y tareas asociadas.
-- Planificación de acuerdo a la capacidad del equipo.
-- Técnicas de priorización y estimación utilizadas.
-- Uso de métricas relevantes para la planificación como la velocidad y productividad.
+Se incluyen los detalles de la Sprint Planing en el siguiente enlace:
+[Sprint Planning](Sprint-Planing.md)
 
 ## Seguimiento de la iteración
 
@@ -90,7 +84,10 @@ Tareas principales realizada por cada integrante del equipo:
 - Gabi
 
 - Germán
-
+  - Reuniones
+  - Creación/Modificación/Adustes de User Stories
+  - Trabajo en Framer
+  - Escribir en archivos de Github
 
 ### Artefactos principales
 
