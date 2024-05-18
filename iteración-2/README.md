@@ -67,11 +67,19 @@ Tareas principales realizada por cada integrante del equipo:
   - Ajustes a la Creación de Pencas
 
 - Santiago Alfonso
+  - Participación en las distitnas reuniones
+  
+  - Creación de historias de usuario
+  
+  - Creación del canvas relacionado a unirse a pencas
 
 - Santiago Lopez
   - Reuniones
+
   - Baja de usuarios
+  
   - Actualizacion de estilos en: Ver resultados en vivo
+  
   - Actualizar User Stories de Enviar invitacion, Ver resultados en vivo y Baja de usuarios  
 
 - Belén Martinez
