@@ -49,39 +49,35 @@ Se incluye una planilla con el tiempo dedicado por cada uno de los integrantes d
 Tareas principales realizada por cada integrante del equipo:
 
 - Maxi
-
-- Bruno
+  - Participación en las distitnas reuniones
+  - Creación de historias de usuario
+  - Trabajo en Framer
   
+- Bruno
   - Reuniones
-
   - Realizar una primera versión de la Creación de Pencas
-
   - Creación/Modificación de User Stories
-
   - Ajustes a la Creación de Pencas
 
 - Santiago Alfonso
   - Participación en las distitnas reuniones
-  
   - Creación de historias de usuario
-  
   - Creación del canvas relacionado a unirse a pencas
 
 - Santiago Lopez
   - Reuniones
-
   - Baja de usuarios
-  
   - Actualizacion de estilos en: Ver resultados en vivo
-  
   - Actualizar User Stories de Enviar invitacion, Ver resultados en vivo y Baja de usuarios  
 
 - Belén Martinez
   - Reuniones
-  
   - Realizar prototipo en Framer de la UH ver resultados en vivo
 
 - Gabi
+  - Participación en las distitnas reuniones
+  - Creación de historias de usuario
+  - Trabajo en Framer
 
 - Germán
   - Reuniones
@@ -91,12 +87,9 @@ Tareas principales realizada por cada integrante del equipo:
 
 ### Artefactos principales
 
-- Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
-  - ¿Que logramos hacer?
-  - ¿Qué planificamos hacer?
-  - ¿Qué impedimentos tenemos?
-- Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
-- Seguimiento visual de la iteración con burndown y/o burnup charts.
+Se incluye información de las reuniones Daily Scrum meetings en el siguiente enlace.
+[Daily Scrum](Daily-Scrum.md)
+
 
 ## Inspección y adaptación del proceso
 
@@ -105,25 +98,29 @@ En esta iteración implementamos varias mejoras con respecto a la pasada, entre 
 A su vez, debido al uso de esta herramienta, ya tenemos en mente acciones a tomar para la siguiente iteración, por lo cual comparada con la anterior tenemos ventaja, ya que desde el día 1 vamos con esos puntos bien claros.
 
 Por otro lado, otro aspecto en el que se mejoró considerablemente fue en el trabajo grupal en tareas específicas, trabajando muchas veces en sub-grupos, lo cual hacía que el trabajo fuera mucho más eficiente y de mayor calidad.
+
+
 ### Artefactos principales
 
 - Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
 - Planificación y seguimiento de las acciones de mejora.
+[Sprint Retrospective](Sprint-Retrospective.md) 
 
 # Construir y validar posibles soluciones del MVP a través de prototipos
 
 ## Prototipos con posibles soluciones
 
-_[Existen diferentes propuestas de solución para entregar valor y resolver el problema identificado implementado a través de prototipos. Los prototipos deberán ser exportados en algún formato de imagen (como png o jpg) a efectos de poder ser visualizados fácilmente dentro del propio repo de github.]_
-
 ### Artefactos principales
 
 - Prototipos interactivos para ser navegados.
+[Framer](https://framer.com/projects/ISA1-Grupo2--FG5QPtFysJqFRPHoCGpA-4XUYI?node=t5V1sOLQ7)
+
 - Prototipos asociados como bocetos a las historias de usuario.
 
 ## Inspección y adaptación del producto
 
-_[Existe evidencia de instancias de inspección y validación del producto con usuarios y la recolección de su feedback con ajustes finales a los prototipos.]_
+- Se incluye evidencia de la revisión realizada en el siguiente enlace:
+[Sprint Review](Sprint-Review.md)
 
 ### Artefactos principales
 
