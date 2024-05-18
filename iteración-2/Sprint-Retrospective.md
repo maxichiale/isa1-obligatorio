@@ -8,13 +8,13 @@ En las imagenes a continuacion se pueden ver los 4 items: las cosas buenas, las 
 
 Tambien se puede acceder desde el siguiente [link](https://metroretro.io/BO0KOK1LZZW7).
 
-![Retro Bad](img/retro-bad.PNG) 
+![Retro Bad](img/retro-bad.png) 
 
-![Retro Good](img/retro-good.PNG) 
+![Retro Good](img/retro-good.png) 
 
-![Retro Ugly](img/retro-ugly.PNG) 
+![Retro Ugly](img/retro-ugly.png) 
 
-![Retro Treasure](img/retro-treasure.PNG) 
+![Retro Treasure](img/retro-treasure.png) 
 
-![Retro Action Items](img/retro-action-items.PNG) 
+![Retro Action Items](img/retro-action-items.png) 
 
