@@ -13,7 +13,12 @@
 
 ## Definición del marco de trabajo
 
-_[Definición del marco de trabajo SCRUM con los acuerdos principales del equipo y evidencia de sus prácticas aplicadas en la iteración. Deben estar los roles definidos para cada integrante del equipo y la justificación de la adaptación del marco de trabajo al contexto de la iteración.]_
+Se decidió utilizar SCRUM para este proyecto sobre la aplicación de pencas deportivas. Se establecieron los acuerdos detallados a continuación para adaptarse a la realidad de los integrantes.
+
+#### Roles:
+- Product Owner: Germán. Define y prioriza los elementos del Backlog en función del valor para el usuario y el negocio.
+- Scrum Master: Gabriel. Se encarga de llevar adelante y asegurar que se realicen los eventos SCRUM, y ayudar a quitar los obstáculos que le impiden avanzar al equipo de proyecto.
+- Development Team: Maxi, Ana Belén, Gabriel, Santi Alfonso, Santi López, Bruno, German. Responsables de desarrollar los incrementos.
 
 ### Artefactos principales
 
@@ -22,6 +27,12 @@ _[Definición del marco de trabajo SCRUM con los acuerdos principales del equipo
 - Políticas de trabajo del equipo:
   - Definition of Done.
   - Definition of Ready.
+
+#### Definiciones:
+
+- Definition of Ready: los elementos del Backlog deben estar claros, tener criterios de aceptación definidos y ser priorizados antes de ser seleccionados para su inclusión en el Sprint.
+
+- Definition of Done: los elementos del Backlog completados durante el Sprint deben cumplir con los criterios de aceptación definidos, estar probados y listos para su entrega.
 
 ## Planificación de la iteración
 
@@ -38,7 +49,25 @@ _[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener la
 
 ## Seguimiento de la iteración
 
-_[Existe evidencia sobre el registro de actividades y horas de cada integrante del equipo con el seguimiento general de cada iteración del proyecto sobre lo planificado inicialmente.]_
+Se incluye una planilla con el tiempo dedicado por cada uno de los integrantes del equipo.
+[Horas de trabajo](resources/Horas-de-trabajo.xlsx)
+
+Tareas principales realizada por cada integrante del equipo:
+
+- Maxi
+
+- Bruno
+
+- Santiago Alfonso
+
+- Santiago Lopez
+
+- Belén Martinez
+
+- Gabi
+
+- Germán
+
 
 ### Artefactos principales
 
