@@ -13,7 +13,12 @@
 
 ## Definición del marco de trabajo
 
-_[Definición del marco de trabajo SCRUM con los acuerdos principales del equipo y evidencia de sus prácticas aplicadas en la iteración. Deben estar los roles definidos para cada integrante del equipo y la justificación de la adaptación del marco de trabajo al contexto de la iteración.]_
+Se decidió utilizar SCRUM para este proyecto sobre la aplicación de pencas deportivas. Se establecieron los acuerdos detallados a continuación para adaptarse a la realidad de los integrantes.
+
+#### Roles:
+- Product Owner: Germán. Define y prioriza los elementos del Backlog en función del valor para el usuario y el negocio.
+- Scrum Master: Gabriel. Se encarga de llevar adelante y asegurar que se realicen los eventos SCRUM, y ayudar a quitar los obstáculos que le impiden avanzar al equipo de proyecto.
+- Development Team: Maxi, Ana Belén, Gabriel, Santi Alfonso, Santi López, Bruno, German. Responsables de desarrollar los incrementos.
 
 ### Artefactos principales
 
@@ -23,60 +28,104 @@ _[Definición del marco de trabajo SCRUM con los acuerdos principales del equipo
   - Definition of Done.
   - Definition of Ready.
 
-## Planificación de la iteración
+#### Definiciones:
 
-_[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener las historias de usuario priorizadas y las tareas planificadas basadas en la capacidad y velocidad disponible del equipo.]_
+- Definition of Ready: los elementos del Backlog deben estar claros, tener criterios de aceptación definidos y ser priorizados antes de ser seleccionados para su inclusión en el Sprint.
+
+- Definition of Done: los elementos del Backlog completados durante el Sprint deben cumplir con los criterios de aceptación definidos, estar probados y listos para su entrega.
+
+## Planificación de la iteración
 
 ### Artefactos principales
 
-- Minuta de la sprint planning con su agenda, actividades y resultados.
-- Objetivos de la iteración.
-- Sprint backlog con historias de usuarios y tareas asociadas.
-- Planificación de acuerdo a la capacidad del equipo.
-- Técnicas de priorización y estimación utilizadas.
-- Uso de métricas relevantes para la planificación como la velocidad y productividad.
+Se incluyen los detalles de la Sprint Planing en el siguiente enlace:
+[Sprint Planning](Sprint-Planing.md)
 
 ## Seguimiento de la iteración
 
-_[Existe evidencia sobre el registro de actividades y horas de cada integrante del equipo con el seguimiento general de cada iteración del proyecto sobre lo planificado inicialmente.]_
+Se incluye una planilla con el tiempo dedicado por cada uno de los integrantes del equipo.
+[Horas de trabajo](resources/Horas-de-trabajo.xlsx)
+
+Tareas principales realizada por cada integrante del equipo:
+
+- Maxi
+  - Participación en las distitnas reuniones
+  - Creación de historias de usuario
+  - Trabajo en Framer
+  
+- Bruno
+  - Reuniones
+  - Realizar una primera versión de la Creación de Pencas
+  - Creación/Modificación de User Stories
+  - Ajustes a la Creación de Pencas
+
+- Santiago Alfonso
+  - Participación en las distitnas reuniones
+  - Creación de historias de usuario
+  - Creación del canvas relacionado a unirse a pencas
+
+- Santiago Lopez
+  - Reuniones
+  - Baja de usuarios
+  - Actualizacion de estilos en: Ver resultados en vivo
+  - Actualizar User Stories de Enviar invitacion, Ver resultados en vivo y Baja de usuarios  
+
+- Belén Martinez
+  - Reuniones
+  - Realizar prototipo en Framer de la UH ver resultados en vivo
+
+- Gabi
+  - Participación en las distitnas reuniones
+  - Creación de historias de usuario
+  - Trabajo en Framer
+
+- Germán
+  - Reuniones
+  - Creación/Modificación/Adustes de User Stories
+  - Trabajo en Framer
+  - Escribir en archivos de Github
 
 ### Artefactos principales
 
-- Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
-  - ¿Que logramos hacer?
-  - ¿Qué planificamos hacer?
-  - ¿Qué impedimentos tenemos?
-- Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
-- Seguimiento visual de la iteración con burndown y/o burnup charts.
+Se incluye información de las reuniones Daily Scrum meetings en el siguiente enlace.
+[Daily Scrum](Daily-Scrum.md)
+
 
 ## Inspección y adaptación del proceso
 
-_[Existe evidencia sobre la inspección del proceso con aprendizajes principales y acciones de mejora implementadas durante el desarrollo del proyecto.]_
+En esta iteración implementamos varias mejoras con respecto a la pasada, entre ellas el uso de Metro Retro para la Sprint Retrospective, lo cual facilitó en gran medida la comunicación y pudimos ir viendo punto a punto lo que pensaba cada integrante del equipo acerca de nuestro desempeño como equipo en la iteración.
+
+A su vez, debido al uso de esta herramienta, ya tenemos en mente acciones a tomar para la siguiente iteración, por lo cual comparada con la anterior tenemos ventaja, ya que desde el día 1 vamos con esos puntos bien claros.
+
+Por otro lado, otro aspecto en el que se mejoró considerablemente fue en el trabajo grupal en tareas específicas, trabajando muchas veces en sub-grupos, lo cual hacía que el trabajo fuera mucho más eficiente y de mayor calidad.
+
 
 ### Artefactos principales
 
 - Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
 - Planificación y seguimiento de las acciones de mejora.
+[Sprint Retrospective](Sprint-Retrospective.md) 
 
 # Construir y validar posibles soluciones del MVP a través de prototipos
 
 ## Prototipos con posibles soluciones
 
-_[Existen diferentes propuestas de solución para entregar valor y resolver el problema identificado implementado a través de prototipos. Los prototipos deberán ser exportados en algún formato de imagen (como png o jpg) a efectos de poder ser visualizados fácilmente dentro del propio repo de github.]_
-
 ### Artefactos principales
 
 - Prototipos interactivos para ser navegados.
+[Framer](https://framer.com/projects/ISA1-Grupo2--FG5QPtFysJqFRPHoCGpA-4XUYI?node=t5V1sOLQ7)
+
 - Prototipos asociados como bocetos a las historias de usuario.
 
 ## Inspección y adaptación del producto
 
-_[Existe evidencia de instancias de inspección y validación del producto con usuarios y la recolección de su feedback con ajustes finales a los prototipos.]_
+- Se incluye evidencia de la revisión realizada en el siguiente enlace:
+[Sprint Review](Sprint-Review.md)
 
 ### Artefactos principales
 
-- Minutas de sprint review.
-- Evidencia de los usability testing con usuarios finales.
-  - Descripción de las tareas propuestas a los usuarios finales.
-  - Cobertura obtenida de validación de los usuarios de la aplicación.
-- Feedback recibido de los usuarios finales con la priorización de las propuestas de cambio.
+- Se incluyen resultados del Sprint Review en el siguiente enlace:
+[Sprint Review](Sprint-Review.md)
+
+- Se incluyen resultados del Sprint Retrospective en el siguiente enlace:
+[Sprint Retrospective](Sprint-Retrospective.md) 
