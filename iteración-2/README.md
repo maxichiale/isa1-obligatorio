@@ -57,6 +57,14 @@ Tareas principales realizada por cada integrante del equipo:
 - Maxi
 
 - Bruno
+  
+  - Reuniones
+
+  - Realizar una primera versión de la Creación de Pencas
+
+  - Creación/Modificación de User Stories
+
+  - Ajustes a la Creación de Pencas
 
 - Santiago Alfonso
 
