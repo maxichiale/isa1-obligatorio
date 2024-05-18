@@ -85,7 +85,7 @@ Tareas principales realizada por cada integrante del equipo:
 - Belén Martinez
   - Reuniones
   
-  - Realizar prototipo en Frames de la UH ver resultados en vivo
+  - Realizar prototipo en Framer de la UH ver resultados en vivo
 
 - Gabi
 
