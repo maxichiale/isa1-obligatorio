@@ -83,6 +83,9 @@ Tareas principales realizada por cada integrante del equipo:
   - Actualizar User Stories de Enviar invitacion, Ver resultados en vivo y Baja de usuarios  
 
 - Belén Martinez
+  - Reuniones
+  
+  - Realizar prototipo en Frames de la UH ver resultados en vivo
 
 - Gabi
 
