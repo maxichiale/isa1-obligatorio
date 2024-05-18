@@ -57,12 +57,35 @@ Tareas principales realizada por cada integrante del equipo:
 - Maxi
 
 - Bruno
+  
+  - Reuniones
+
+  - Realizar una primera versión de la Creación de Pencas
+
+  - Creación/Modificación de User Stories
+
+  - Ajustes a la Creación de Pencas
 
 - Santiago Alfonso
+  - Participación en las distitnas reuniones
+  
+  - Creación de historias de usuario
+  
+  - Creación del canvas relacionado a unirse a pencas
 
 - Santiago Lopez
+  - Reuniones
+
+  - Baja de usuarios
+  
+  - Actualizacion de estilos en: Ver resultados en vivo
+  
+  - Actualizar User Stories de Enviar invitacion, Ver resultados en vivo y Baja de usuarios  
 
 - Belén Martinez
+  - Reuniones
+  
+  - Realizar prototipo en Framer de la UH ver resultados en vivo
 
 - Gabi
 
@@ -80,7 +103,8 @@ Tareas principales realizada por cada integrante del equipo:
 
 ## Inspección y adaptación del proceso
 
-_[Existe evidencia sobre la inspección del proceso con aprendizajes principales y acciones de mejora implementadas durante el desarrollo del proyecto.]_
+En esta iteración implementamos varias mejoras con respecto a la pasada, entre ellas el uso de Metro Retro para la Sprint Retrospective, lo cual facilitó en gran medida la comunicación y pudimos ir viendo punto a punto lo que pensaba cada integrante del equipo acerca de nuestro desempeño como equipo en la iteración.
+A su vez, debido al uso de esta herramienta, ya tenemos en mente acciones a tomar para la siguiente iteración, por lo cual comparada con la anterior tenemos ventaja, ya que desde el día 1 vamos con esos puntos bien claros.
 
 ### Artefactos principales
 
