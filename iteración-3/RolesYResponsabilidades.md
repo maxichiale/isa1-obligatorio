@@ -1,5 +1,9 @@
 # Definición de Roles y Responsabilidades
 
+Se utilizarán los roles que el marco SCRUM define, con adaptaciones a la realidad del equipo y contexto del proyecto, a saber:
+
+- **Roles**: Product Owner, Scrum Master, Development team.
+
 ## Product Owner
 
 El Product Owner es esencial en asegurar que el equipo Scrum trabaje en las tareas correctas y que el producto desarrollado cumpla con las expectativas de los stakeholders y usuarios finales. Su habilidad para gestionar eficazmente el backlog del producto y comunicar la visión y prioridades es crucial para el éxito del proyecto.
@@ -12,7 +16,7 @@ El Product Owner es esencial en asegurar que el equipo Scrum trabaje en las tare
 - Negociación y Mediación: Capacidad para mediar entre diferentes intereses de los stakeholders y encontrar el equilibrio adecuado.
 - Orientación al Detalle y la Calidad: Enfocarse en los detalles sin perder de vista el panorama general, asegurando la calidad y el valor del producto final.
 
-Aplicación al proyecto:
+Adaptación al proyecto:
 - Fué una decisión en consenso por el equipo, dado que no se tiene herramientas ni historia previa como para evaluar las habilidades de cualquiera de los integrantes.
 Se decicició que este rol lo ocupe German Correa.
 
@@ -65,7 +69,7 @@ Para este proyecto es la siguiente:
 - Actúa como enlace entre clientes, usuarios, gerencia, etc, y el equipo de desarrollo. Debe entender sus necesidades y expectativas y ver de que se impacten en el producto.
 - Recopila feedback constante de los stakeholders y usuarios para validar las funcionalidades desarrolladas y hacer ajustes necesarios.
 
-Aplicación en el proyecto:
+Adaptación en el proyecto:
 - Coordina el trabajo de encuestas, y relevamiento de funcionalidades preferidas por usuarios, así como su consolidación.
 - Coordina las reviews con los usuarios potenciales, y demás personas interesadas, para obtener su feedback.
 
@@ -74,7 +78,7 @@ Aplicación en el proyecto:
 - Define los *Acceptance Criteria* para los elementos del backlog, y los utiliza para aprobar o rechazar el los incrementos completados.
 - Busca maximizar el valor del producto. En cada iteración debe haber cierto valor que se agrega.
 
-Aplicación en el proyecto:
+Adaptación en el proyecto:
 - Escribe los *Acceptance Criteria* en formato BDD (Dado, Cuando, Entoneces).
 - Prioriza las User Story que aportan mayor valor, estableciendo la prioridad en Azure Dev Ops (ADO) 
 
@@ -92,7 +96,7 @@ Aplicación en el proyecto:
 
 Se lo puede invitar a otros eventos (Daily Scrum, Sprint Retrospective, y otras que puedan fijarse)
 
-Aplicación al proyecto:
+Adaptación al proyecto:
 - Participa de todas las actividades mencionadas.
 - Además también participará en todos los eventos, inclusive los normalmente opcionales para él (Daily Scrum, Sprint Retrospective). Esto porque dado que es un proyecto tan corto, se necesita agilizar los tiempos de respuesta, y agilizar el proceso en sí, ante preguntas del equipo de desarrollo.
 
@@ -108,7 +112,7 @@ El Scrum Master es un facilitador y lider que esta al servicio del equipo Scrum,
 - Conocimiento en Metodología Ágil y Scrum: Profundo entendimiento de los principios ágiles y las prácticas de Scrum.
 - Facilitación y Coaching: Habilidad para facilitar reuniones y procesos, así como para entrenar y guiar al equipo hacia la autoorganización y la mejora continua.
 
-Aplicación al proyecto:
+Adaptación al proyecto:
 - Fué una decisión en consenso por el equipo, dado que no se tiene herramientas ni historia previa como para evaluar las habilidades de cualquiera de los integrantes.
 Se decicició que este rol lo ocupe Gabriel Lutz.
 
@@ -159,7 +163,7 @@ Adaptación al proyecto:
 ### Participación en las ceremonias de Scrum
 
 *Daily Scrum*
-- El Scrum Master asegura que la Daily Scrum se lleve a cabo cada día a la misma hora y lugar, y dentro del tiempo establecido (15 minutos).
+- El Scrum Master asegura que la Daily Scrum se lleve a cabo cada día a la misma hora y lugar, y dentro del tiempo establecido.
 - Convoca la reunión, y hace todo lo posible porque todos los que deben asistir lo hagan, asegurando que la reunión siga la agenda y los objetivos establecidos.
 - Conduce la reunión, ayudando a cada integrante a enfocarse en los 3 asuntos a cubrir, a saber: 
   - Cual fué el progreso desde la última reunión
@@ -224,6 +228,9 @@ El equipo de desarrollo en Scrum está compuesto por profesionales que trabajan 
 - Resolución de Problemas: Capacidad para identificar y resolver problemas técnicos y de proceso de manera proactiva.
 - Adaptabilidad: Disposición para adaptarse a cambios en los requisitos, prioridades y el entorno de trabajo.
 - Comunicación: Habilidad para comunicarse de manera clara y efectiva tanto dentro del equipo como con stakeholders externos.
+
+Adaptación al proyecto:
+- Todos los integrantes del equipo serán parte del Equipo de Desarrollo, inclusive los que ocupen los roles de Scrum Master y Product Owner ya que así fué establecido como requisito dado. Por lo tanto las personas que ocupen los roles de Scrum Master y Product Owner lo harán a tiempo parcial y el resto del tiempo lo dedicarán al trabajo en las User Story y demás tareas de documentación y gestión del proyecto.
 
 ### Autoorganización y Gestión del Trabajo
 
@@ -303,19 +310,6 @@ Mantienen una comunicación abierta y constante tanto dentro del equipo como con
 - Ayuda a asignar responsabilidades para las acciones de mejora, asegurando que cada miembro del equipo sepa qué debe hacer para contribuir a la mejora continua.
 - Revisa las mejoras implementadas en Sprints anteriores, evaluando su efectividad y discutiendo si deben mantenerse, ajustarse o abandonarse.
 
-## Artefactos principales
-
-Definición del calendario de eventos con justificación de su adaptación al contexto de la iteración.
-
-Adaptaciones al proyecto:
-- Dado que no estamos en un ambiente laboral real, no contamos un horario extenso donde todos estemos trabajando a la misma vez, y además tenemos horarios de trabajo, y estudio diferentes, por lo que se encuentra la dificultad de coordinar los horarios de todos los integrantes. Entonces se decidió utilizar ciertos slots de tiempo predefinidos, donde hay mas probabilidad de que podamos coincidir.
-- Dado que se realizarán Sprints de 2 semanas (la mitad de lo usual), y enfocadas en una tarea mas simple orientadas a prototipos por lo que las duraciones de las tareas que se realizan 1 vez por Sprint se podrán reducir en duración, a saber:
-  - Sprint Planning, al principio de cada Sprint cada 15 días, de 1h de duración.
-  - Sprint Review, al final de cada Sprint cada 15 días, de 1h de duración.
-  - Sprint Retrospective, luego del final del Sprint cada 15 días, de 1h de duración.
-- Dado que tendremos una menor frecuencia en las Daily Scrums, se extenderán un poco en su duración. Serán Martes, Viernes, y Sábado por media hora, pudiéndose extender los Viernes y Sábados según se necesite. A los que no puedan asistir, se les pide que reporten su progreso, y plan de lo siguiente que van a hacer, y si tienen algún impedimento o necesitan ayuda.
-
-
 ## Roles y responsabilidades definidos para cada integrante del equipo.
 
 Nro. Estudiante | Nombre | Rol
@@ -325,10 +319,5 @@ Nro. Estudiante | Nombre | Rol
 276763 | Santiago Federico Lopez Langenhin | Development Team
 296955 | Bruno Berois | Development Team
 223694 | Ana Belén Martínez | Development Team
-173507 | Gabriel Lutz | Scrum Master
-109606 | Germán Correa | Product Owner
-
-## Definiciones y Políticas de trabajo del equipo
-
-- Definition of Done.
-- Definition of Ready.
+173507 | Gabriel Lutz | Scrum Master y Development Team (parcial)
+109606 | Germán Correa | Product Owner y Development Team (parcial)

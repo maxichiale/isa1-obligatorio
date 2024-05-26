@@ -11,23 +11,34 @@
 
 # Gestión de la iteración
 
-## Definición del marco de trabajo
+## Definición del marco de trabajo y adaptación al proyecto
 
 _[Definición del marco de trabajo SCRUM con los acuerdos principales del equipo y evidencia de sus prácticas aplicadas en la iteración. Deben estar los roles definidos para cada integrante del equipo y la justificación de la adaptación del marco de trabajo al contexto de la iteración.]_
 
-Se decidió utilizar SCRUM como marco de trabajo ágil para este proyecto sobre la aplicación de pencas deportivas. Esto implica buscar aplicar los principios del manifiesto ágil para cada decisión que se tenga que tomar. En particular se trabajará en iteraciones y entregas incrementales, promoviendo la colaboración la flexibilidad frente al cambio y las situaciones que puedan surgir, buscando la mejora continua, con un equipo que se autoorganiza para lograrlo.
+Se define el marco de trabajo a utilizar, asi como las adaptaciones al contexto del proyecto. Ver el siguiente enlace.
 
-Se utilizarán los roles, eventos, y artefactos que el marco SCRUM define, con adaptaciones a la realidad del equipo y contexto del proyecto, a saber:
+[Marco de trabajo y adaptaciones](MarcoDeTrabajoYAdaptaciones.md)
 
-- **Roles**: Product Owner, Scrum Master, Development team.
-- **Eventos**: Daily Scrum, Sprint Planning, Sprint Review, Sprint Retrospective.
-- **Artefactos**: Product Backlog, Sprint Backlog, Increment.
+### Calendario de eventos y adaptación
+
+Se define el calendario de eventos correspondientes al marco de trabajo, su adaptación al proyecto, asi como su justificación.
+
+
 
 ### Descripción de los roles y responsabilidades
 
 Se detallan a continuación, los roles y las responsabilidades en el marco de Scrum, los acuerdos y adaptaciones al proyecto. También los integrantes del equipo de proyecto, y su asignación a dichos roles.
 
 [Definición de roles y responsabilidades](RolesYResponsabilidades.md)
+
+### Artefactos principales
+
+- Justificación de las adaptaciones principales del marco de trabajo al contexto del proyecto.
+- Definición del calendario de eventos con justificación de su adaptación al contexto de la iteración.
+- Roles y responsabilidades definidos para cada integrante del equipo.
+- Políticas de trabajo del equipo:
+  - Definition of Done.
+  - Definition of Ready.
 
 
 ## Planificación de la iteración
