@@ -112,10 +112,86 @@ o un post grande algo parecido a Twitter o como Instagram que subís historias y
 
 
 
+- Nombre: Martin
+
+- Edad: 24
+
+- Sexo: Masculino
+
+- Profesión o actividad: Despachante de aduana
+
+- Hobbies: Gym y jugar videojuegos
+
+- Habitúa pencas: No
+
+- Apuestas deportivas: No
+
+- Opinión General: Aplicación muy intuitiva y fácil de utilizar, con muchas funcionalidades prácticas.
+
+- Funcionalidades favoritas: Poder hacer pencas con grupos cerrados de amigos, teniendo una amplia variedad de deportes y torneos.
+En especial pudiendo ver las predicciones pasadas de mis amigos, ya que ayuda a poder molestar a algunos!
+
+- Se tranco en alguna parte: No
+
+- Funcionalidades que no le gustaron: Ninguna.
+
+- Posibles mejoras: Respecto a la aplicación ninguna, estaría bueno tener la misma aplicación también en formato web, para poder tenerlo abierto en la PC y mirar en el tiempo libre del trabajo.
+
+- Características que falten: Un chat grupal podría ser bueno, pero tampoco es algo muy necesario.
 
 
 
 
+- Nombre: Julieta
+
+- Edad: 32
+
+- Sexo: Femenino
+
+- Profesión o actividad: Chef
+
+- Hobbies: Leer y escuchar música.
+
+- Habitúa pencas: No
+
+- Apuestas deportivas: No
+
+- Opinión General: Buena aplicación.
+
+- Funcionalidades favoritas: Las notificaciones de que falta poner mi predicción para un partido, ya que suelo ser muy olvidadiza.
+
+- Se tranco en alguna parte: No
+
+- Funcionalidades que no le gustaron: No soy fan de las apuestas, preferiría que haya una opción para que no me aparezca nada relacionado.
+
+- Posibles mejoras: Cambiar un poco el aspecto de la aplicación, tiene un estilo muy Windows XP.
+
+- Características que falten: Algún sistema de misiones/logros que le de una dificultad y diversión extra al intentar completarlas.
 
 
 
+- Nombre: Jorge
+
+- Edad: 45
+
+- Sexo: Masculino
+
+- Profesión o actividad: Profesor
+
+- Hobbies: Andar en bicicleta.
+
+- Habitúa pencas: No
+
+- Apuestas deportivas: Si
+
+- Opinión General: Aplicación sencilla y completa, con buena integración con las apuestas.
+
+- Funcionalidades favoritas: Grupos de pencas con amigos, y tener acceso a apuestas en una misma aplicación.
+
+- Se tranco en alguna parte: No
+
+- Funcionalidades que no le gustaron: No hay ninguna funcionalidad que no me haya gustado.
+
+- Posibles mejoras: Tener forma de comunicarse dentro del grupo, un chat sería bueno, y si a su vez se pudiesen enviar mensajes de voz aún mejor.
+
+- Características que falten: Poder hacer apuestas internas en un grupo.
