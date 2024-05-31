@@ -231,6 +231,7 @@ El equipo de desarrollo en Scrum está compuesto por profesionales que trabajan 
 
 Adaptación al proyecto:
 - Todos los integrantes del equipo serán parte del Equipo de Desarrollo, inclusive los que ocupen los roles de Scrum Master y Product Owner ya que así fué establecido como requisito dado. Por lo tanto las personas que ocupen los roles de Scrum Master y Product Owner lo harán a tiempo parcial y el resto del tiempo lo dedicarán al trabajo en las User Story y demás tareas de documentación y gestión del proyecto.
+- Si bien en el marco teórico el equipo debería contar con un equipo de gente con diferentes habilidades (gestión, desarrollo, diseñadores, etc) sin embargo ahora somos todos de la misma carrera, por lo que la variedad de perfiles esta limitada.
 
 ### Autoorganización y Gestión del Trabajo
 

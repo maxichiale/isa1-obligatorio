@@ -113,7 +113,7 @@ La Sprint Review es una reunión que se lleva a cabo al final de cada Sprint. Su
 - La Sprint Planning sigue una estructura dividida en dos partes principales:
 
 #### Presentación del Incremento
-   - El **Equipo de Desarrollo** demuestra el trabajo completado durante el Sprint.
+   - El **Equipo de Desarrollo** demuestra el trabajo completado durante el Sprint. Solo los terminados en un 100%.
    - Se presentan las User Story, Features y cualquier otro trabajo que cumpla con la "Definition of Done".
 
 #### Discusión y Feedback
@@ -212,6 +212,8 @@ La Sprint Retrospective es una reunión esencial en Scrum donde el equipo reflex
   - Sprint Retrospective, luego del final del Sprint cada 15 días, de 1h de duración.
 
 - A los que no puedan asistir, se les pide que si tienen algo que reportar, lo hagan por medio del grupo de Whatsapp. También si se considera oportuno se les enviará la información de las decisiones o resultados de las reuniones que sea importante que sepan por esta vía.
+
+- Se utilizará la herramienta [Metro Retro](https://metroretro.io/) para facilitar las dinámicas.
 
 ## Resumen del calendario de eventos del proyecto
 
