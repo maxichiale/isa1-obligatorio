@@ -256,7 +256,7 @@ En especial pudiendo ver las predicciones pasadas de mis amigos, ya que ayuda a 
 
 - Edad: 32
 
-- Sexo: Femenino
+- Sexo: Masculino
 
 - Profesión o actividad: Empresario
 
