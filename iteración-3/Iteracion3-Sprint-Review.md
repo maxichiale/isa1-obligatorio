@@ -2,7 +2,7 @@
 
 ### Cita
 
-![Cita](img/2024-05-18-review-retro.PNG)
+![Cita](img/2024-05-18-review-retro.png)
 
 ## Pruebas con usuarios finales
 
