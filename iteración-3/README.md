@@ -60,6 +60,8 @@ _[Existe evidencia sobre el registro de actividades y horas de cada integrante d
 
 ### Artefactos principales
 
+[Daily Scrum](Iteracion3-Daily-Scrum.md)
+
 - Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
   - ¿Que logramos hacer?
   - ¿Qué planificamos hacer?
@@ -72,6 +74,8 @@ _[Existe evidencia sobre el registro de actividades y horas de cada integrante d
 _[Existe evidencia sobre la inspección del proceso con aprendizajes principales y acciones de mejora implementadas durante el desarrollo del proyecto.]_
 
 ### Artefactos principales
+
+[Sprint Retro](Iteracion3-Sprint-Retrospective.md)
 
 - Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
 - Planificación y seguimiento de las acciones de mejora.
@@ -98,6 +102,6 @@ _[Existe evidencia de instancias de inspección y validación del producto con u
   - Descripción de las tareas propuestas a los usuarios finales.
   - Cobertura obtenida de validación de los usuarios de la aplicación.
 
-
+[Sprint Review](Iteracion3-Sprint-Review.md)
 
 - Feedback recibido de los usuarios finales con la priorización de las propuestas de cambio.

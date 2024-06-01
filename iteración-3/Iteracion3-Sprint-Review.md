@@ -2,7 +2,7 @@
 
 ### Cita
 
-![Cita](img/2024-05-18-review-retro.PNG)
+![Cita](img/iteracion3/iteracion3-sprint-review-asistencia.PNG)
 
 ## Pruebas con usuarios finales
 
