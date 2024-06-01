@@ -111,37 +111,104 @@ El resultado de estas pruebas fue altamente satisfactorio. La gran mayoría de l
 - **Vinculo con pencas**: No es usuario de Pencas. No participa de apuestas deportivas.
 - **Revisión de nuestra APP**
     - **¿Opinión general?** Me pareció genial, hay un montón de cosas para hacer en la app, además, estamos recaudando fondos con mi equipo de vóley, y las varias posibilidades para compartir la app nos viene de lujo, vamos a poder hacer varias competencias.
-    - **Funcionalidades favoritas** Me llamo mucho la atención la parte de ver estadísticas, pero  
-a lo que le daría más uso es a ver el ranking y los pronósticos que hizo cada persona en el grupo de penca, se ve muy divertido.
-    - **Funcionalidades que no le gustaron** En particular no me gusto que añadan una parte de apuestas ya que me parece que las apuestas son un juego irresponsable, así que no creo que le de uso. 
-    - **¿Qué le parece que se debería mejorar?** Que tenga un chat de ayuda o un Bot con preguntas frecuentes, a lo mejor si lo quiero usar con gente mayor como mi padre o tíos capaz que se pierden un poco en la app y estaría bueno tener un centro de ayuda como ese. 
-    - **¿Alguna característica que le parece que le falta?** Un chat entre usuarios y que la app tuviera la oportunidad de ser multilenguaje.
+    - **Funcionalidades favoritas** Me llamo mucho la atención la parte de ver estadísticas, pero a lo que le daría más uso es a ver el ranking y los pronósticos que hizo cada persona en el grupo de penca, se ve muy divertido.
+    - **Funcionalidades que no le gustaron** No hubo cosas que no me gustaran, pero mi madre no estaría tan de acuerdo con que use una aplicación que está conectada con sitios de apuesta, aunque entiendo que la aplicación en si no se relaciona directamente con las mismas, sino que solo muestra información. 
+    - **¿Qué le parece que se debería mejorar?** Yo creo que debería de enfocarse un poco más en generar una especie de comunidad para postear y hablar
+    - **¿Alguna característica que le parece que le falta?** Como mencione antes capaz que faltaría un chat entre usuarios o un post grande algo parecido a Twitter o como Instagram que subís historias y fotos. 
+
+
+### Martin 
+
+- **Edad**: 24
+- **Sexo**: Masculino
+- **Profesión o actividad de la persona**: Despachante de aduana
+- **Hobbies**: Gym y jugar videojuegos.
+- **Vinculo con pencas**: No es usuario de Pencas. No participa de apuestas deportivas.
+- **Revisión de nuestra APP**
+    - **¿Opinión general?** Aplicación muy intuitiva y fácil de utilizar, con muchas funcionalidades prácticas.
+    - **Funcionalidades favoritas** Poder hacer pencas con grupos cerrados de amigos, teniendo una amplia variedad de deportes y torneos. En especial pudiendo ver las predicciones pasadas de mis amigos, ya que ayuda a poder molestar a algunos!
+    - **Funcionalidades que no le gustaron** Ninguna.
+    - **¿Qué le parece que se debería mejorar?** Respecto a la aplicación ninguna, estaría bueno tener la misma aplicación también en formato web, para poder tenerlo abierto en la PC y mirar en el tiempo libre del trabajo.
+    - **¿Alguna característica que le parece que le falta?** Un chat grupal podría ser bueno, pero tampoco es algo muy necesario.
+
+
+### Julieta 
+
+- **Edad**: 32
+- **Sexo**: Femenino
+- **Profesión o actividad de la persona**: Chef
+- **Hobbies**: Leer y escuchar música.
+- **Vinculo con pencas**: No es usuario de Pencas. No participa de apuestas deportivas.
+- **Revisión de nuestra APP**
+    - **¿Opinión general?** Buena aplicación.
+    - **Funcionalidades favoritas** Las notificaciones de que falta poner mi predicción para un partido, ya que suelo ser muy olvidadiza.
+    - **Funcionalidades que no le gustaron** No soy fan de las apuestas, preferiría que haya una opción para que no me aparezca nada relacionado.
+    - **¿Qué le parece que se debería mejorar?** Cambiar un poco el aspecto de la aplicación, tiene un estilo muy Windows XP.
+    - **¿Alguna característica que le parece que le falta?** Algún sistema de misiones/logros que le de una dificultad y diversión extra al intentar completarlas.
 
 
 
+### Jorge 
 
-- Funcionalidades favoritas: Me llamo mucho la atención la parte de ver estadísticas, pero  
-a lo que le daría más uso es a ver el ranking y los pronósticos que hizo cada  
-persona en el grupo de penca, se ve muy divertido. 
+- **Edad**: 45
+- **Sexo**: Masculino
+- **Profesión o actividad de la persona**: Profesor
+- **Hobbies**: Andar en bicicleta.
+- **Vinculo con pencas**: No es usuario de Pencas. Si participa de apuestas deportivas.
+- **Revisión de nuestra APP**
+    - **¿Opinión general?** Aplicación sencilla y completa, con buena integración con las apuestas.
+    - **Funcionalidades favoritas** Grupos de pencas con amigos, y tener acceso a apuestas en una misma aplicación.
+    - **Funcionalidades que no le gustaron** No hay ninguna funcionalidad que no me haya gustado.
+    - **¿Qué le parece que se debería mejorar?** Tener forma de comunicarse dentro del grupo, un chat sería bueno, y si a su vez se pudiesen enviar mensajes de voz aún mejor.
+    - **¿Alguna característica que le parece que le falta?** Poder hacer apuestas internas en un grupo.
+	
 
-  
-- Se tranco en alguna parte: No 
-  
+### Martina 
 
-- Funcionalidades que no le gustaron: No hubo cosas que no me gustaran, pero mi madre  
-no estaría tan de acuerdo con que use una aplicación que está conectada con sitios de apuesta, 
-aunque entiendo que la aplicación en si no se relaciona directamente con las mismas, sino que  
-solo muestra información. 
+- **Edad**: 28
+- **Sexo**: Femenino
+- **Profesión o actividad de la persona**: Empleada
+- **Hobbies**: Fotografía.
+- **Vinculo con pencas**: No es usuario de Pencas. No participa de apuestas deportivas.
+- **Revisión de nuestra APP**
+    - **¿Opinión general?** Una aplicación muy amigable y bien estructurada, especialmente útil para mantenerme al tanto de los eventos deportivos y competiciones con amigos.
+    - **Funcionalidades favoritas** Me encanta la opción de crear grupos de pencas con amigos, es genial poder compartir la emoción de competir juntos.
+    - **Funcionalidades que no le gustaron** No tengo ninguna queja en particular, no me parece muy util la parte de las apuestas.
+    - **¿Qué le parece que se debería mejorar?** Sería bueno incluir un sistema de notificaciones personalizables para recordar eventos importantes dentro de los grupos de pencas.
+    - **¿Alguna característica que le parece que le falta?** Un espacio para compartir experiencias y consejos sobre estrategias de pronósticos entre los miembros del grupo sería muy interesante.
+	
+	
+### Tomas 
+
+- **Edad**: 17
+- **Sexo**: Masculino
+- **Profesión o actividad de la persona**: Estudiante
+- **Hobbies**: Jugar al Fútbol.
+- **Vinculo con pencas**: No es usuario de Pencas. No participa de apuestas deportivas.
+- **Revisión de nuestra APP**
+    - **¿Opinión general?** Una aplicación facil de usar.
+    - **Funcionalidades favoritas** Formar grupo con solo mis amigos.
+    - **Funcionalidades que no le gustaron** No hay ninguna que no me haya gustado.
+    - **¿Qué le parece que se debería mejorar?** Esta bien así.
+    - **¿Alguna característica que le parece que le falta?** Un chat para hablar con mis amigos.	
 
 
-- Posibles mejoras: Yo creo que debería de enfocarse un poco más en generar una  
-especie de comunidad para postear y hablar 
 
+### Alváro 
 
-- Características que falten: Como mencione antes capaz que faltaría un chat entre usuarios 
-o un post grande algo parecido a Twitter o como Instagram que subís historias y fotos. 
-
-
+- **Edad**: 32
+- **Sexo**: Masculino
+- **Profesión o actividad de la persona**: Empresario
+- **Hobbies**: Jugar al Padel.
+- **Vinculo con pencas**: No es usuario de Pencas. No participa de apuestas deportivas pero le gustan las apuestas.
+- **Revisión de nuestra APP**
+    - **¿Opinión general?** Una aplicación muy útil y entretenida para los amantes del deporte, con una interfaz atractiva y fácil de navegar.
+    - **Funcionalidades favoritas** Poder ver las reglas para que todo sea justo y claro, tambien me gusto la parte de apuestas me parece que lo hace mas divertido.
+    - **Funcionalidades que no le gustaron** Me gustaron todas.
+    - **¿Qué le parece que se debería mejorar?** Mejorar logo y fondo de pantalla principal.
+    - **¿Alguna característica que le parece que le falta?** Sería interesante incluir una sección de noticias deportivas.	
+		
+	
 ### Análisis
 
 **Feedback sobre los resultados del review con Stakeholders**
@@ -153,7 +220,7 @@ o un post grande algo parecido a Twitter o como Instagram que subís historias y
 **Feedback sobre el backlog construido**
 
 - Se entiende que el comportamiento especificado fué alcanzado.
-- En los prototipos de Framer, se fué un poco mas allá de lo indicado en la User Story. E
+- En los prototipos de Framer, se fué un poco mas allá de lo indicado en la User Story.
 
 **Feedback sobre el proceso llevado a acabo**
 - Si bien se mejoró en algunos aspectos como ser en la recolección de evidencia de la Sprint Retrospective, el registro de horas, y la organización, se identificó como un debe el hecho de que no se logró guardar buena evidencia de otras actividades realizadas, como las agendas de las dailies scrum meetings
