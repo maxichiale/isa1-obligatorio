@@ -97,4 +97,14 @@ _[Existe evidencia de instancias de inspección y validación del producto con u
 - Evidencia de los usability testing con usuarios finales.
   - Descripción de las tareas propuestas a los usuarios finales.
   - Cobertura obtenida de validación de los usuarios de la aplicación.
+
+
+Para validar los prototipos diseñados y buscar oportunidades de mejora, llevamos a cabo una serie de pruebas de usabilidad con nuestra aplicación. En estas pruebas, invitamos a un grupo de posibles usuarios finales a interactuar con la aplicación, permitiéndoles usar y navegar por todas sus funcionalidades.
+
+Durante las sesiones de prueba, los usuarios pudieron explorar cada característica y opción disponible en la aplicación, lo que nos proporcionó una visión realista de cómo se comportarían en un entorno cotidiano. Posteriormente, les realizamos una breve encuesta con el objetivo de comprender sus percepciones generales sobre la aplicación. Queríamos saber qué les parecía en términos generales, qué aspectos sentían que se podían mejorar, y qué funcionalidades consideraban que faltaban y que la aplicación debería incorporar en el futuro.
+
+El resultado de estas pruebas fue altamente satisfactorio. La gran mayoría de los participantes coincidió en que la aplicación era muy intuitiva y fácil de usar. Este feedback positivo nos reafirma que estamos en el camino correcto en cuanto al diseño y la experiencia de usuario. No obstante, los usuarios también señalaron varios puntos que no habíamos considerado inicialmente. Estos comentarios fueron invaluables, ya que nos ofrecen una perspectiva fresca y nos ayudan a identificar áreas de mejora que podemos implementar en futuras versiones de la aplicación.
+
+Evidencia: adjuntar encuestas.
+
 - Feedback recibido de los usuarios finales con la priorización de las propuestas de cambio.
