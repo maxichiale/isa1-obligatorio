@@ -195,3 +195,83 @@ En especial pudiendo ver las predicciones pasadas de mis amigos, ya que ayuda a 
 - Posibles mejoras: Tener forma de comunicarse dentro del grupo, un chat sería bueno, y si a su vez se pudiesen enviar mensajes de voz aún mejor.
 
 - Características que falten: Poder hacer apuestas internas en un grupo.
+
+
+
+- Nombre: Martina
+
+- Edad: 28
+
+- Sexo: Femenino
+
+- Profesión o actividad: Empleada
+
+- Hobbies: Fotografía
+
+- Habitúa pencas: No
+
+- Apuestas deportivas: No
+
+- Opinión General: Una aplicación muy amigable y bien estructurada, especialmente útil para mantenerme al tanto de los eventos deportivos y competiciones con amigos.
+
+- Funcionalidades favoritas: Me encanta la opción de crear grupos de pencas con amigos, es genial poder compartir la emoción de competir y pronosticar resultados juntos.
+
+- Se tranco en alguna parte: No
+
+- Funcionalidades que no le gustaron: No tengo ninguna queja en particular, no me parece muy util la parte de las apuestas.
+
+- Posibles mejoras: Sería bueno incluir un sistema de notificaciones personalizables para recordar eventos importantes dentro de los grupos de pencas.
+
+- Características que falten: Un espacio para compartir experiencias y consejos sobre estrategias de pronósticos entre los miembros del grupo sería muy interesante.
+
+
+
+- Nombre: Tomas
+
+- Edad: 17
+
+- Sexo: Masculino
+
+- Profesión o actividad: Estudiante
+
+- Hobbies: Jugar al Fútbol
+
+- Habitúa pencas: No
+
+- Apuestas deportivas: No
+
+- Opinión General: Una aplicación facil de usar.
+
+- Funcionalidades favoritas: Formar grupo con solo mis amigos.
+
+- Se tranco en alguna parte: No
+
+- Funcionalidades que no le gustaron: No hay ninguna que no me haya gustado.
+
+- Posibles mejoras: Un chat para hablar con mis amigos.
+
+
+
+- Nombre: Alváro
+
+- Edad: 32
+
+- Sexo: Masculino
+
+- Profesión o actividad: Empresario
+
+- Hobbies: Jugar al padel
+
+- Habitúa pencas: No
+
+- Apuestas deportivas: No sobre deportes pero me gustan las apuestas.
+
+- Opinión General: Una aplicación muy útil y entretenida para los amantes del deporte, con una interfaz atractiva y fácil de navegar.
+
+- Funcionalidades favoritas: Poder ver las reglas para que todo sea justo y claro, tambien me gusto la parte de apuestas me parece que lo hace mas divertido.
+
+- Se tranco en alguna parte: No
+
+- Funcionalidades que no le gustaron: Me gustaron todas.
+
+- Posibles mejoras: Sería interesante incluir una sección de noticias deportivas.
