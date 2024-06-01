@@ -1,5 +1,7 @@
 # Marco de trabajo y adaptaciones al contexto del proyecto
 
+## Definiciones y Políticas de trabajo del equipo
+
 Se decidió utilizar SCRUM como marco de trabajo ágil para este proyecto sobre la aplicación de pencas deportivas. Esto implica buscar aplicar los principios del manifiesto ágil para cada decisión que se tenga que tomar. En particular se trabajará en iteraciones y entregas incrementales, promoviendo la colaboración la flexibilidad frente al cambio y las situaciones que puedan surgir, buscando la mejora continua, con un equipo que se autoorganiza para lograrlo.
 
 Se utilizarán los roles, eventos, y artefactos que el marco SCRUM define, con adaptaciones a la realidad del equipo y contexto del proyecto, a saber:
@@ -8,13 +10,15 @@ Se utilizarán los roles, eventos, y artefactos que el marco SCRUM define, con a
 - **Eventos**: Daily Scrum, Sprint Planning, Sprint Review, Sprint Retrospective.
 - **Artefactos**: Product Backlog, Sprint Backlog, Increment.
 
-## Definiciones y Políticas de trabajo del equipo
+Se incluye mas detalles sobre esto en la sección de [roles y responsabilidades](RolesYResponsabilidades.md)
 
-### Proceso de Ingeniería de Requerimientos Ágil
 
-Se utilizará la práctica **Card - Conversation - Confirmation** para poder construir las UserStories en reuniones de Grooming que se realizarán con el Product Owner, y con el input del relevamiento de aplicaciones y feedback de usuarios de pencas.
 
-[Relevamiento, feedback inicial de usuarios de pencas, análisis y conclusiones](AnalisisInicial.md)
+## Proceso de Ingeniería de Requerimientos Ágil
+
+Como input para esta parte del proceso se toman los resultados del trabajo de [relevamiento de aplicaciones, y feedback de usuarios de pencas](AnalisisInicial.md).
+
+Se utilizará la práctica **Card - Conversation - Confirmation** para poder construir las UserStories en reuniones de Grooming que se realizarán con el Product Owner, y con el input mencionado anteriormente.
 
 En la etapa **Card** se busca crear tarjetas con la historia de usuario. Esta tarjeta contiene una breve descripción de la historia escrita en un lenguaje sencillo y accesible. La tarjeta no necesita tener todos los detalles, sino que debe proporcionar suficiente información para iniciar una conversación.
 En el proyecto, en esta etapa se crea la tarjeta asignandole un título, y una narrativa basica escrita en el formato **Como Quiero Para**. En esta estapa se trabaja sobre la independencia de la tarjeta, y se discute sobre el valor que representa.
@@ -23,7 +27,7 @@ La **Conversation** es la discusión que se lleva a cabo entre el Product Owner,
 En el proyecto se identifican los escenarios, y se empiezan a escribir bocetos de especificación de los criterios de aceptación. En esta etapa se trata de acotar el tamaño y determinar las condiciones que deba cumplir para ser verificable.
 
 La **Confirmation** se refiere a que luego de la Conversation se escriben los criterios de aceptación que definen cuándo una historia de usuario se considera completada y satisfactoria. Estos criterios son especificaciones claras y medibles que permiten al equipo verificar que la historia ha sido implementada correctamente y cumple con los requisitos del Product Owner. Los criterios de aceptación proporcionan una base para las pruebas de aceptación y ayudan a asegurar la calidad del producto.
-En el proyecto se escriben los criterios de aceptación, escritos en BDD con **Dado Y Cuando Entonces**. Al realizar esto la UserStory queda lista para poder ser estimada.
+En el proyecto se escriben los criterios de aceptación, escritos en BDD con **Dado Cuando Y Entonces**. Al realizar esto la UserStory queda lista para poder ser estimada.
 
 ### User stories
 
@@ -37,12 +41,14 @@ Las User Story deben cumplir con lo siguiente, antes de ser seleccionados para s
     - **Estimable (Estimable)**: Una historia de usuario debe ser lo suficientemente clara para que el equipo de desarrollo pueda estimar el esfuerzo requerido para completarla. Esto generalmente implica entender el alcance y la complejidad de la historia. Si una historia es demasiado vaga, puede necesitar dividirse en partes más pequeñas y comprensibles.
     - **Small (Pequeña)**: Las historias de usuario deben ser lo suficientemente pequeñas para ser completadas dentro de un solo sprint. Las historias más pequeñas son más fáciles de estimar, gestionar y probar. También proporcionan retroalimentación más frecuente y permiten iteraciones más rápidas.
     - **Testable (Verificable)**: Una historia de usuario debe tener criterios de aceptación claros que hagan posible probar si la historia ha sido implementada con éxito. Si una historia no es verificable, probablemente sea demasiado vaga o amplia y necesite ser refinada.
-- Tener criterios de aceptación definidos y verificables
+- Tener criterios de aceptación definidos, especificados como escenarios y escritos en BDD (lenguaje Gherkin) y verificables
 - Estar priorizadas. Dicha priorización se realizará en general según el valor que aporte dicha UserStory (según lo manifieste el Product Owner), pero también teniendo en cuenta los criterios técnicos (como por ejemplo la factibilidad de poder ser incluidas dentro de los releases que se planifiquen) dados por el Equipo de Desarrollo. 
+
+En el marco del proyecto las UserStory estarán especificadas bajo estos lineamientos en la herramienta [Azure DevOps](https://dev.azure.com/) con criterios de aceptación escritos en BDD. Las mismas se agruparán en Epicas indicando las funcionalidades de alto nivel que tendrá la aplicación.
 
 ### Definition of Done
 
-Los elementos del Backlog completados durante el Sprint deben cumplir con los criterios de aceptación definidos, estar probados y listos para su entrega.
+Los elementos del Backlog completados durante el Sprint deben cumplir con los criterios de aceptación especificados, con las pruebas realizadas en forma exitosa (es decir llegando al resultado esperado segñun lo especificado). También debe estar en condición de ser liberado a los usuarios finales (listo para instalar o hacer deploy).
 
 ## Repositorio
 
@@ -69,7 +75,7 @@ Se incluye la siguiente imagen para ilustrar la metodología de trabajo descrita
 
 
 
-### Comandos Git utilizados:
+### Comandos Git a utilizar:
 
 1. `git --version`
     Muestra la version de Git que estamos corriendo localmente.
@@ -185,6 +191,3 @@ Se incluye la siguiente imagen para ilustrar la metodología de trabajo descrita
 En general se pretende seguir las recomendaciones principales indicadas por [Semantic Versioning](https://semver.org/)
 
 Pero para el proyecto particular para el que se trabajará sobre prototipos no se manejará una numeración de versiones ya que simplemente se hará merge a **main** al final de cada iteración
-
-
-[^1]: [Reference: Branching strategies](https://cloud.google.com/architecture/devops/devops-tech-trunk-based-development#:~:text=Trunk%2Dbased%20development%20is%20a,the%20system%20is%20always%20working.)
