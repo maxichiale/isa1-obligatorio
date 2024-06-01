@@ -1,37 +1,48 @@
 # Sprint Review
 
+### Cita
+
 ![Cita](img/2024-05-18-review-retro.PNG)
 
-**Evidencia de la revisión realizada**
+## Pruebas con usuarios finales
 
-[Paso 1](https://fi365-my.sharepoint.com/:v:/g/personal/gc109606_fi365_ort_edu_uy/Ec71mzdhVDlPi1wYFMqGnoEBYAqKR3EhuD3DZt6cXwuIXg?e=oDbuMk)
+Para validar los prototipos diseñados y buscar oportunidades de mejora, llevamos a cabo una serie de pruebas de usabilidad con nuestra aplicación. En estas pruebas, invitamos a un grupo de posibles usuarios finales a interactuar con la aplicación, permitiéndoles usar y navegar por todas sus funcionalidades.
 
-[Paso 2](https://fi365-my.sharepoint.com/:v:/g/personal/gc109606_fi365_ort_edu_uy/EUDW9sRZz95MjO0xgiYQlqEBnYtFvO-G0ezrD0CiJ0zxcA?e=UYaYm8)
+Durante las sesiones de prueba, los usuarios pudieron explorar cada característica y opción disponible en la aplicación, lo que nos proporcionó una visión realista de cómo se comportarían en un entorno cotidiano. Posteriormente, les realizamos una breve encuesta con el objetivo de comprender sus percepciones generales sobre la aplicación. Queríamos saber qué les parecía en términos generales, qué aspectos sentían que se podían mejorar, y qué funcionalidades consideraban que faltaban y que la aplicación debería incorporar en el futuro.
 
-[Paso 3](https://fi365-my.sharepoint.com/:v:/g/personal/gc109606_fi365_ort_edu_uy/ERkRdHqkmq5Arisz-9mxsf4BVgSzcyZGy63A-fNrtI-KJw?e=e1K183)
+El resultado de estas pruebas fue altamente satisfactorio. La gran mayoría de los participantes coincidió en que la aplicación era muy intuitiva y fácil de usar. Este feedback positivo nos reafirma que estamos en el camino correcto en cuanto al diseño y la experiencia de usuario. No obstante, los usuarios también señalaron varios puntos que no habíamos considerado inicialmente. Estos comentarios fueron invaluables, ya que nos ofrecen una perspectiva fresca y nos ayudan a identificar áreas de mejora que podemos implementar en futuras versiones de la aplicación.
 
-[Paso 4](https://fi365-my.sharepoint.com/:v:/g/personal/gc109606_fi365_ort_edu_uy/EWBnrZblvwRDrA9nBlGoXzsBumTRCMzUsropo2ydF4GGUw?e=9kpS9Q)
+### Contenido generado con usuarios y análisis sobre el mismo
 
-[Paso 5](https://fi365-my.sharepoint.com/:v:/g/personal/gc109606_fi365_ort_edu_uy/EWBnrZblvwRDrA9nBlGoXzsBumTRCMzUsropo2ydF4GGUw?e=v6GnsL)
+#### Carlos Fernández
 
-[Paso 6](https://fi365-my.sharepoint.com/:v:/g/personal/gc109606_fi365_ort_edu_uy/EbSLvBa-P1ZCjuu6pdkA2g4BysozF3TmXfCITER-10uwfg?e=crbKaP)
+![Cita](img/iteracion3/reviews/CarlosFernandez.png)
 
-[Paso 7](https://fi365-my.sharepoint.com/:v:/g/personal/gc109606_fi365_ort_edu_uy/EbSLvBa-P1ZCjuu6pdkA2g4BysozF3TmXfCITER-10uwfg?e=Fr1bVj)
+- **Edad**: 53
+- **Sexo**: Masculino
+- **Profesión o actividad de la persona**: Empleado estatal
+- **Hobbies**: Jardinería
+- **Vinculo con pencas**: Usuario ocasional de Penca Ovación. No participa de apuestas deportivas.
+- **Revisión de nuestra APP**
+    - **¿Opinión general?** Muy amigable la forma de manejarse en la aplicación. Los gráficos están bien. 
+    - **¿Qué le parece que se debería mejorar?** En la pantalla de inicio algo más relacionado con deportes (pelotas, raquetas, etc.)
+    - **¿Alguna característica que le parece que le falta?** Los favoritos solo se eligen y no se hace nada con ellos, por lo que estaría bueno anexarle algo que de información acerca de ellos (Noticias importantes de cada club, jugador o partido). 
+- **Analisis**: Con esto te puede tener enganchado a la aplicación sin necesidad de estar participando en una penca, ya que te mantiene notificando y teniendo presente la app.
 
-[Paso 8](https://fi365-my.sharepoint.com/:v:/g/personal/gc109606_fi365_ort_edu_uy/EUKfbywT0WJLnOIhb14HHEYB3s8yYX33cEUPeDLnxxi97w?e=4K3abc)
 
+
+### Análisis
 
 **Feedback sobre los resultados del review con Stakeholders**
 
 - Se contrastó las funcionalidades implementadas con las User Story definidas según los Criterios de Aceptación.
 - Se contrastó también lo implementado con lo recibido del relevamiento inicial con usuarios.
-- El Product Owner comprobó lo implementado, y dió su feedback.
+- El Product Owner comprobó lo implementado.
 
 **Feedback sobre el backlog construido**
 
 - Se entiende que el comportamiento especificado fué alcanzado.
-- En los prototipos de Framer, se fué un poco mas allá de lo indicado en la User Story. Eso es bueno, pero habrá que validarlo con usuarios, si lo adicionado es lo deseado.
-
+- En los prototipos de Framer, se fué un poco mas allá de lo indicado en la User Story. E
 
 **Feedback sobre el proceso llevado a acabo**
 - Si bien se mejoró en algunos aspectos como ser en la recolección de evidencia de la Sprint Retrospective, el registro de horas, y la organización, se identificó como un debe el hecho de que no se logró guardar buena evidencia de otras actividades realizadas, como las agendas de las dailies scrum meetings
