@@ -41,14 +41,15 @@ Las User Story deben cumplir con lo siguiente, antes de ser seleccionados para s
     - **Estimable (Estimable)**: Una historia de usuario debe ser lo suficientemente clara para que el equipo de desarrollo pueda estimar el esfuerzo requerido para completarla. Esto generalmente implica entender el alcance y la complejidad de la historia. Si una historia es demasiado vaga, puede necesitar dividirse en partes más pequeñas y comprensibles.
     - **Small (Pequeña)**: Las historias de usuario deben ser lo suficientemente pequeñas para ser completadas dentro de un solo sprint. Las historias más pequeñas son más fáciles de estimar, gestionar y probar. También proporcionan retroalimentación más frecuente y permiten iteraciones más rápidas.
     - **Testable (Verificable)**: Una historia de usuario debe tener criterios de aceptación claros que hagan posible probar si la historia ha sido implementada con éxito. Si una historia no es verificable, probablemente sea demasiado vaga o amplia y necesite ser refinada.
-- Tener criterios de aceptación definidos, especificados como escenarios y escritos en BDD (lenguaje Gherkin) y verificables
+- Tener criterios de aceptación bien definidos y verificables
 - Estar priorizadas. Dicha priorización se realizará en general según el valor que aporte dicha UserStory (según lo manifieste el Product Owner), pero también teniendo en cuenta los criterios técnicos (como por ejemplo la factibilidad de poder ser incluidas dentro de los releases que se planifiquen) dados por el Equipo de Desarrollo. 
 
-En el marco del proyecto las UserStory estarán especificadas bajo estos lineamientos en la herramienta [Azure DevOps](https://dev.azure.com/) con criterios de aceptación escritos en BDD. Las mismas se agruparán en Epicas indicando las funcionalidades de alto nivel que tendrá la aplicación.
+En el marco del proyecto las UserStory estarán especificadas bajo estos lineamientos en la herramienta [Azure DevOps](https://dev.azure.com/) con criterios de aceptación escritos en BDD, especificados como escenarios en lenguaje Gherkin. Las mismas se agruparán en Epicas indicando las funcionalidades de alto nivel que tendrá la aplicación.
 
 ### Definition of Done
 
-Los elementos del Backlog completados durante el Sprint deben cumplir con los criterios de aceptación especificados, con las pruebas realizadas en forma exitosa (es decir llegando al resultado esperado segñun lo especificado). También debe estar en condición de ser liberado a los usuarios finales (listo para instalar o hacer deploy).
+Establece las condiciones que deben cumplirse para determinar si un elemento de trabajo (historia de usuario, tarea, funcionalidad, entre otros) está completamente terminado y listo para ser entregado.
+Los elementos del Backlog completados durante el Sprint deben cumplir con los criterios de aceptación especificados, con las pruebas realizadas en forma exitosa (es decir llegando al resultado esperado según lo especificado). También debe estar en condición de ser liberado a los usuarios finales (listo para instalar o hacer deploy).
 
 ## Repositorio
 
@@ -68,6 +69,8 @@ Tendremos a **main** como rama principal con el código productivo.
 La rama **develop** sera la rama que consolida todos los cambios, pervio a pasarlos a main.
 
 Como excepción a lo anterior, se permitirá realizar tareas de documentación directamente en la rama develop, si el desarrollador lo prefiere.
+
+Cada vez que se vaya a realizar merge de una rama de Iteracion a Develop y de Develop a Main se realizara mediante la cración de un **Pull Request**, de forma de poder visualizar los cambios y evitar que se integren cambios no deseados. Al confirmar el Pull Request y confirmar la integración a la branch original, se deben eliminar la branch en la que se estuvo trabajando.
 
 Se incluye la siguiente imagen para ilustrar la metodología de trabajo descrita anteriormente:
 
