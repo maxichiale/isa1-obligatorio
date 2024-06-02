@@ -15,13 +15,31 @@
 
 _[Definición del marco de trabajo SCRUM con los acuerdos principales del equipo y evidencia de sus prácticas aplicadas en la iteración. Deben estar los roles definidos para cada integrante del equipo y la justificación de la adaptación del marco de trabajo al contexto de la iteración.]_
 
+Se define el marco de trabajo a utilizar, asi como las adaptaciones al contexto del proyecto. Ver el siguiente enlace.
+
+[Marco de trabajo y adaptaciones](MarcoDeTrabajoYAdaptaciones.md)
+
+### Calendario de eventos y adaptación
+
+Se define el calendario de eventos correspondientes al marco de trabajo, su adaptación al proyecto, asi como su justificación.
+
+[Calendario de eventos](CalendarioDeEventos.md)
+
+### Descripción de los roles y responsabilidades
+
+Se detallan a continuación, los roles y las responsabilidades en el marco de Scrum, los acuerdos y adaptaciones al proyecto. También los integrantes del equipo de proyecto, y su asignación a dichos roles.
+
+[Definición de roles y responsabilidades](RolesYResponsabilidades.md)
+
 ### Artefactos principales
 
-- Definición del calendario de eventos con justificación de su adaptación al contexto de la iteración.
-- Roles y responsabilidades definidos para cada integrante del equipo.
-- Políticas de trabajo del equipo:
-  - Definition of Done.
-  - Definition of Ready.
+- Justificación de las adaptaciones principales del marco de trabajo al contexto del proyecto. ([link](MarcoDeTrabajoYAdaptaciones.md))
+- Definición del calendario de eventos con justificación de su adaptación al contexto de la iteración. ([link](CalendarioDeEventos.md))
+- Roles y responsabilidades definidos para cada integrante del equipo. ([link](RolesYResponsabilidades.md))
+- Políticas de trabajo del equipo ([link](MarcoDeTrabajoYAdaptaciones.md)):
+  - Definition of Done. ([link](MarcoDeTrabajoYAdaptaciones.md#Definition-of-Done))
+  - Definition of Ready. ([link](MarcoDeTrabajoYAdaptaciones.md#Definition-of-Ready))
+
 
 ## Planificación de la iteración
 
@@ -29,18 +47,20 @@ _[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener la
 
 ### Artefactos principales
 
-- Minuta de la sprint planning con su agenda, actividades y resultados.
-- Objetivos de la iteración.
-- Sprint backlog con historias de usuarios y tareas asociadas.
-- Planificación de acuerdo a la capacidad del equipo.
-- Técnicas de priorización y estimación utilizadas.
-- Uso de métricas relevantes para la planificación como la velocidad y productividad.
+- Minuta de la sprint planning con su agenda, actividades y resultados. ([link](Iteracion3-Sprint-Planning.md#Agenda))
+- Objetivos de la iteración. ([link](Iteracion3-Sprint-Planning.md#Objetivos-de-la-iteración))
+- Sprint backlog con historias de usuarios y tareas asociadas.([link](Iteracion3-Sprint-Planning.md#Sprint-backlog-final))
+- Planificación de acuerdo a la capacidad del equipo. ([link](Iteracion3-Sprint-Planning.md#Capacidad-del-equipo))
+- Técnicas de priorización y estimación utilizadas. ([link](Iteracion3-Sprint-Planning.md#User-Stories-seleccionadas-para-incluir-en-el-Sprint))
+- Uso de métricas relevantes para la planificación como la velocidad y productividad. ([link](Iteracion3-Sprint-Planning.md#Velocity-de-sprints-anteriores))
 
 ## Seguimiento de la iteración
 
 _[Existe evidencia sobre el registro de actividades y horas de cada integrante del equipo con el seguimiento general de cada iteración del proyecto sobre lo planificado inicialmente.]_
 
 ### Artefactos principales
+
+[Daily Scrum](Iteracion3-Daily-Scrum.md)
 
 - Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
   - ¿Que logramos hacer?
@@ -55,6 +75,8 @@ _[Existe evidencia sobre la inspección del proceso con aprendizajes principales
 
 ### Artefactos principales
 
+[Sprint Retro](Iteracion3-Sprint-Retrospective.md)
+
 - Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
 - Planificación y seguimiento de las acciones de mejora.
 
@@ -66,8 +88,8 @@ _[Existen diferentes propuestas de solución para entregar valor y resolver el p
 
 ### Artefactos principales
 
-- Prototipos interactivos para ser navegados.
-- Prototipos asociados como bocetos a las historias de usuario.
+- Prototipos interactivos para ser navegados. ([link](Iteracion3-MVPconPrototipos.md#Prototipo-navegable))
+- Prototipos asociados como bocetos a las historias de usuario. ([link](Iteracion3-MVPconPrototipos.md#User-stories-incluidas-en-el-Sprint))
 
 ## Inspección y adaptación del producto
 
@@ -79,4 +101,7 @@ _[Existe evidencia de instancias de inspección y validación del producto con u
 - Evidencia de los usability testing con usuarios finales.
   - Descripción de las tareas propuestas a los usuarios finales.
   - Cobertura obtenida de validación de los usuarios de la aplicación.
+
+[Sprint Review](Iteracion3-Sprint-Review.md)
+
 - Feedback recibido de los usuarios finales con la priorización de las propuestas de cambio.
