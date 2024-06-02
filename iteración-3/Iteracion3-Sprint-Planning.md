@@ -32,6 +32,8 @@ O sea que se toma una **capacidad mínima de 10hs/persona**.
 En el sprint 2 se completaron 50 Story Points.
 Como fué el único que realizado, mejor, peor y caso promedio corresponden a ese valor.
 
+![Sprint2 Burndown](img/iteracion3/burndown-sprint2.PNG) 
+
 ### Objetivos de la iteración
 - Implementar las User Stories que no se pudieron finalizar en el Sprint 2, especialmente las que agregan un valor diferencial a la APP y las que quedaron relacionadas con la creacion y configuracion de pencas.
 - Implementar el resto de las User Story que están relacionadas a las notificaciones, administración de la aplicación y la gestion del perfil de usuarios. Esto para poder tener el feedback de usuarios en el Sprint Review ya con todas las User Story implementadas.

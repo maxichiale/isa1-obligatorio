@@ -41,6 +41,9 @@ Las siguientes carpetas deberán tener la entrega de cada iteración siguiendo l
 
 _[Con el desarrollo del proyecto se pueden ir encontrando mejoras a los entregables ya realizados de cada iteración. Enumerar en esta sección las principales mejoras realizadas posterior a cada entrega. Esto puede incluir la implementación de las sugerencias realizadas por los docentes durante el proyecto.]_
 
+Se aplicaron todas las mejoras en la documentacion del Sprint 3.
+Entendemos no se puede alterar la documentacion ya entregada.
+
 # Reflexiones y aprendizajes finales de los resultados del proyecto
 
 ## Informe académico

@@ -19,6 +19,19 @@ Temas tratados:
 
   ## Seguimiento de la iteración
 
+### Burndown chart
+
+Se observa el cumplimiento al final del sprint de la realizacion de todas las US planificadas.
+
+![Sprint3 Burndown chart](img/iteracion3/burndown-sprint3.PNG)
+
+También se puede ver el progreso de la productividad del equipo.
+Si bien el gráfico de Azure hace un promedio con el primer Sprint donde no hubo trabajo en UserStories, podemos ver que se realizaron 115 Story Points en comparacion con los 50 del sprint anterior.
+
+![Sprint3 Burndown chart](img/iteracion3/velocity.PNG)
+
+### Dedicacion horaria
+
 Se incluye una planilla con el tiempo dedicado por cada uno de los integrantes del equipo.
 
 ![Horas de trabajo](img/iteracion3/Horas.PNG)
@@ -27,32 +40,35 @@ Tareas principales realizada por cada integrante del equipo:
 
 - Maxi
   - Participación en las distitnas reuniones
-  - Creación de historias de usuario
+  - Creación/Modificación de User Stories
   - Trabajo en Framer
   
 - Bruno
-  - Reuniones
-  - Realizar una primera versión de la Creación de Pencas
+  - Participación en las distitnas reuniones
   - Creación/Modificación de User Stories
+  - Trabajo en Framer
 
 - Santiago Alfonso
-  - Reuniones
+  - Participación en las distitnas reuniones
+  - Creación/Modificación de User Stories
   - Trabajo en Framer
 
 - Santiago Lopez
-  - Reuniones
+  - Participación en las distitnas reuniones
+  - Creación/Modificación de User Stories
   - Trabajo en Framer
 
 - Belén Martinez
-  - Reuniones
-  - Realizar prototipo en Framer
+  - Participación en las distitnas reuniones
+  - Creación/Modificación de User Stories
+  - Trabajo en Framer
 
 - Gabi
-  - Reuniones
+  - Participación en las distitnas reuniones
+  - Creación/Modificación de User Stories
   - Trabajo en Framer
 
 - Germán
-  - Reuniones
+  - Participación en las distitnas reuniones
   - Creación/Modificación/Adustes de User Stories
   - Trabajo en Framer
-  - Escribir en archivos de Github

@@ -1,6 +1,6 @@
 # Sprint Retrospective
 
-![Cita](img/2024-05-18-review-retro.PNG)
+![Cita](img/iteracion3/iteracion3-sprint-retro-asistencia.PNG)
 
 En esta ocasion para la retrospective, utilizamos la herramienta metro retro con el template de "The Good, The Bad, and The Ugly".
 
