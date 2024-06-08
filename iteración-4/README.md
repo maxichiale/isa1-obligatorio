@@ -14,14 +14,30 @@
 
 _[Definición del marco de trabajo SCRUM con los acuerdos principales del equipo y evidencia de sus prácticas aplicadas en la iteración. Deben estar los roles definidos para cada integrante del equipo y la justificación de la adaptación del marco de trabajo al contexto de la iteración.]_
 
+Se define el marco de trabajo a utilizar, asi como las adaptaciones al contexto del proyecto. Ver el siguiente enlace.
+
+[Marco de trabajo y adaptaciones](MarcoDeTrabajoYAdaptaciones.md)
+
+### Calendario de eventos y adaptación
+
+Se define el calendario de eventos correspondientes al marco de trabajo, su adaptación al proyecto, asi como su justificación.
+
+[Calendario de eventos](CalendarioDeEventos.md)
+
+### Descripción de los roles y responsabilidades
+
+Se detallan a continuación, los roles y las responsabilidades en el marco de Scrum, los acuerdos y adaptaciones al proyecto. También los integrantes del equipo de proyecto, y su asignación a dichos roles.
+
+[Definición de roles y responsabilidades](RolesYResponsabilidades.md)
+
 ### Artefactos principales
 
-- Justificación de las adaptaciones principales del marco de trabajo al contexto del proyecto.
-- Definición del calendario de eventos con justificación de su adaptación al contexto de la iteración.
-- Roles y responsabilidades definidos para cada integrante del equipo.
-- Políticas de trabajo del equipo:
-  - Definition of Done.
-  - Definition of Ready.
+- Justificación de las adaptaciones principales del marco de trabajo al contexto del proyecto. ([link](MarcoDeTrabajoYAdaptaciones.md))
+- Definición del calendario de eventos con justificación de su adaptación al contexto de la iteración. ([link](CalendarioDeEventos.md))
+- Roles y responsabilidades definidos para cada integrante del equipo. ([link](RolesYResponsabilidades.md))
+- Políticas de trabajo del equipo ([link](MarcoDeTrabajoYAdaptaciones.md)):
+  - Definition of Done. ([link](MarcoDeTrabajoYAdaptaciones.md#Definition-of-Done))
+  - Definition of Ready. ([link](MarcoDeTrabajoYAdaptaciones.md#Definition-of-Ready))
 
 ## Planificación de la iteración
 

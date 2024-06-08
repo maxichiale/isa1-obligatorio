@@ -2,11 +2,11 @@
 
 ### Cita
 
-Realizada el 18/5/2024
+Realizada el 1/6/2024
 
-![Sprint planning date](img/iteracion3/iteracion3-sprint-planning.PNG) 
+![Sprint planning date](img/iteracion4/planning/iteracion4-sprint-planning-cita.PNG) 
 
-![Sprint planning date](img/iteracion3/iteracion3-sprint-planning-asistencia.PNG) 
+![Sprint planning date](img/iteracion4/planning/iteracion4-sprint-planning-asistencia.PNG) 
 
 ## Agenda
 
@@ -24,45 +24,50 @@ Realizada el 18/5/2024
 
 ### Capacidad del equipo
 
-Se establece que el equipo dedicará el doble de capacidad que lo requerido (5hs/persona) en este sprint para poder quedar libres o con una dedicación mínima para el siguiente Sprint.
-O sea que se toma una **capacidad mínima de 10hs/persona**.
+Como no se pudo dedicar todas las horas que se planificó en el Sprint anterior, se tiene que dedicar algo de tiempo en este sprint a terminar algunas US que quedaron, además de a las nuevas US que surgen como mejoras a partir de las reviews con usuarios.
+También hay que dedicar tiempo a la preparación de la documentación, video y presentación final.
+O sea que se toma una **capacidad de 5hs/persona/semana** en promedio, pero dado que parte de este tiempo se utilizará para el informe final, video, y presentación, quedará solo una parte para User Stories.
 
 ### Velocity de sprints anteriores
 
-En el sprint 2 se completaron 50 Story Points.
-Como fué el único que realizado, mejor, peor y caso promedio corresponden a ese valor.
+Tenemos los siguientes datos:
+- Sprint 2 con 50 puntos. Peor caso.
+- Sprint 3 con 115 puntos. Mejor caso.
+- Promedio: 82,5 puntos/sprint
 
-![Sprint2 Burndown](img/iteracion3/burndown-sprint2.PNG) 
+También se puede ver el progreso de la productividad del equipo.
+Podemos ver que se realizaron 115 Story Points en comparación con los 50 del sprint anterior.
+
+![Sprint3 velocity](img/iteracion4/planning/iteracion3-sprint-velocity.PNG)
+
+Se incluye la vista de la evolución de la cantidad de work items realizados a lo largo del tiempo como referencia adicional de productividad.
+
+![Sprint3 items productivity](img/iteracion4/planning/iteracion4-sprint-productivity.PNG)
 
 ### Objetivos de la iteración
-- Implementar las User Stories que no se pudieron finalizar en el Sprint 2, especialmente las que agregan un valor diferencial a la APP y las que quedaron relacionadas con la creacion y configuracion de pencas.
-- Implementar el resto de las User Story que están relacionadas a las notificaciones, administración de la aplicación y la gestion del perfil de usuarios. Esto para poder tener el feedback de usuarios en el Sprint Review ya con todas las User Story implementadas.
-- Tratar de no dejar tareas para el ultimo sprint de forma de quedar libres para las otras materias, puesto que la capacidad del equipo en ese Sprint será casi nula.
+
+- Implementar las User Stories que no se pudieron finalizar en el Sprint 3, especialmente las sugerencias de los usuarios que agregan un valor diferencial a la APP y que es viable hacer dentro de las otras actividades programadas para este sprint como ser la elaboración de la documentación, e informes, video y presentación.
+- Tener un review final con usuarios, especialmente con aquellos que hicieron sugerencias de mejora, que se decidan incluir en el sprint.
 
 ### User Stories seleccionadas para incluir en el Sprint
 
-Dado que en este Sprint se deben terminar todas las User Stories restantes, se agregan todas las que quedaban en el Backlog general.
+Para este Sprint se considera lo que no se pudo terminar del sprint 3 y también las sugerencias recibidas en las User Reviews.
 
-Se ajustan las prioridades de las User Stories según el valor que aportan.
+Se ajustan las prioridades de las User Stories según el valor que aportan en conjunto con el Product Owner.
 
-Esto abarca las siguientes:
-
-![Sprint Backlog](img/iteracion3/iteracion3-sprint-backlog.PNG) 
+Se estiman las User Stories nuevas (las que provienen sugerencias de usuarios), y se seleccionan las siguientes para agregar al Sprint Backlog.
 
 La técnica de estimación utilizada fué la de Story Points utilizando números de Fibnoacci.
 
+![Sprint Backlog](img/iteracion4/planning/iteracion4-sprint-backlog.PNG) 
+
 Se incluye la planilla con las estimaciones del equipo y cuales fueron las finalmente consensuadas.
 
-![Estimacion de User Stories en story points](img/iteracion3/USEstimations.PNG)
+![Estimacion de User Stories en story points](img/iteracion4/planning/iteracion4-sprint-backlog-estimations.PNG)
+
 
 ### Sprint backlog final
 
-Se incluyen capturas de las Task y User Stories que quedaron para el Sprint
+Luego de hacer el breakdown en tareas de cada User Story y estimarlas, se incluyen la captura de las Task y User Stories que quedaron para el Sprint, una vez asignadas.
 
-![Tasks 1](img/iteracion3/iteracion3-sprint-backlog-tasks-1.PNG)
-
-![Tasks 2](img/iteracion3/iteracion3-sprint-backlog-tasks-2.PNG)
-
-![Tasks 3](img/iteracion3/iteracion3-sprint-backlog-tasks-3.PNG)
-
-![Tasks 4](img/iteracion3/iteracion3-sprint-backlog-tasks-4.PNG)
+![Tasks sprint 4](img/iteracion4/planning/iteracion4-sprint-backlog-tasks.PNG)

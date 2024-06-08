@@ -23,7 +23,7 @@ Temas tratados:
 
 Se observa el cumplimiento al final del sprint de la realizacion de todas las US planificadas.
 
-![Sprint3 Burndown chart](img/iteracion3/burndown-sprint3.PNG)
+![Sprint4 Burndown chart](img/iteracion4/seguimiento/BurndownChart.PNG)
 
 También se puede ver el progreso de la productividad del equipo.
 Si bien el gráfico de Azure hace un promedio con el primer Sprint donde no hubo trabajo en UserStories, podemos ver que se realizaron 115 Story Points en comparacion con los 50 del sprint anterior.
