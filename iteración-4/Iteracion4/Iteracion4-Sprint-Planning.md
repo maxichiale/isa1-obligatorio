@@ -4,9 +4,9 @@
 
 Realizada el 1/6/2024
 
-![Sprint planning date](img/iteracion4/planning/iteracion4-sprint-planning-cita.PNG) 
+![Sprint planning date](img/planning/iteracion4-sprint-planning-cita.PNG) 
 
-![Sprint planning date](img/iteracion4/planning/iteracion4-sprint-planning-asistencia.PNG) 
+![Sprint planning date](img/planning/iteracion4-sprint-planning-asistencia.PNG) 
 
 ## Agenda
 
@@ -38,11 +38,11 @@ Tenemos los siguientes datos:
 También se puede ver el progreso de la productividad del equipo.
 Podemos ver que se realizaron 115 Story Points en comparación con los 50 del sprint anterior.
 
-![Sprint3 velocity](img/iteracion4/planning/iteracion3-sprint-velocity.PNG)
+![Sprint3 velocity](img/planning/iteracion3-sprint-velocity.PNG)
 
 Se incluye la vista de la evolución de la cantidad de work items realizados a lo largo del tiempo como referencia adicional de productividad.
 
-![Sprint3 items productivity](img/iteracion4/planning/iteracion4-sprint-productivity.PNG)
+![Sprint3 items productivity](img/planning/iteracion4-sprint-productivity.PNG)
 
 ### Objetivos de la iteración
 
@@ -59,15 +59,15 @@ Se estiman las User Stories nuevas (las que provienen sugerencias de usuarios), 
 
 La técnica de estimación utilizada fué la de Story Points utilizando números de Fibnoacci.
 
-![Sprint Backlog](img/iteracion4/planning/iteracion4-sprint-backlog.PNG) 
+![Sprint Backlog](img/planning/iteracion4-sprint-backlog.PNG) 
 
 Se incluye la planilla con las estimaciones del equipo y cuales fueron las finalmente consensuadas.
 
-![Estimacion de User Stories en story points](img/iteracion4/planning/iteracion4-sprint-backlog-estimations.PNG)
+![Estimacion de User Stories en story points](img/planning/iteracion4-sprint-backlog-estimations.PNG)
 
 
 ### Sprint backlog final
 
 Luego de hacer el breakdown en tareas de cada User Story y estimarlas, se incluyen la captura de las Task y User Stories que quedaron para el Sprint, una vez asignadas.
 
-![Tasks sprint 4](img/iteracion4/planning/iteracion4-sprint-backlog-tasks.PNG)
+![Tasks sprint 4](img/planning/iteracion4-sprint-backlog-tasks.PNG)

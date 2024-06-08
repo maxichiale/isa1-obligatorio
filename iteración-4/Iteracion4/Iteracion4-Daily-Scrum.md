@@ -2,13 +2,13 @@
 
 Como ejemplo se incluye ejemplo de la asistencia de los integrantes del equipo a las reuniones virtuales por Teams.
 
-![asistencia daily](img/iteracion3/2024-05-23-iteracion3-daily.PNG)
+![asistencia daily](img/seguimiento/2024-05-23-iteracion3-daily.PNG)
 
-![asistencia daily](img/iteracion3/2024-05-25-iteracion3-daily.PNG)
+![asistencia daily](img/seguimiento/2024-05-25-iteracion3-daily.PNG)
 
-![asistencia daily](img/iteracion3/2024-05-28-iteracion3-daily.PNG)
+![asistencia daily](img/seguimiento/2024-05-28-iteracion3-daily.PNG)
 
-![asistencia daily](img/iteracion3/2024-06-01-iteracion3-daily.PNG)
+![asistencia daily](img/seguimiento/2024-06-01-iteracion3-daily.PNG)
 
 Temas tratados:
 
@@ -23,7 +23,7 @@ Temas tratados:
 
 Se observa el cumplimiento al final del sprint de la realizacion de todas las US planificadas.
 
-![Sprint4 Burndown chart](img/iteracion4/seguimiento/BurndownChart.PNG)
+![Sprint4 Burndown chart](img/seguimiento/BurndownChart.PNG)
 
 También se puede ver el progreso de la productividad del equipo.
 Si bien el gráfico de Azure hace un promedio con el primer Sprint donde no hubo trabajo en UserStories, podemos ver que se realizaron 115 Story Points en comparacion con los 50 del sprint anterior.
