@@ -1,1 +1,57 @@
 # Informe académico
+
+**Resultados y Lecciones Aprendidas en la Aplicación de Prácticas de Ingeniería de Software Ágil en el Prototipado de una Aplicación de Pencas Deportivas**
+
+<span style="color:red">
+Resumen
+Este informe detalla los resultados y lecciones aprendidas a lo largo de la implementación de prácticas de ingeniería de software ágil, específicamente utilizando el marco de trabajo SCRUM, en el desarrollo de un prototipo de MVP para una aplicación de pencas deportivas. Se destacan las adaptaciones al marco de trabajo SCRUM debido a las particularidades del proyecto, las acciones de mejora aplicadas y sus impactos en el rendimiento y satisfacción del equipo.
+1. Introducción
+El objetivo de nuestro proyecto fue aprender y aplicar prácticas de gestión ágil mediante el desarrollo de un prototipo de MVP para una aplicación de pencas deportivas. Utilizamos SCRUM como marco de trabajo, adaptando roles, eventos y artefactos para ajustarnos a las limitaciones y necesidades específicas del proyecto. Este informe proporciona una visión general del proceso, las adaptaciones realizadas y los resultados obtenidos.
+2. Contexto del Proyecto
+Objetivo del Proyecto: Gestionar la ideación, construcción y validación de un prototipo de MVP para una aplicación de pencas deportivas.
+Equipo: Compuesto por un Product Owner, un Scrum Master y un equipo de desarrollo.
+Duración y Esfuerzo: El proyecto se ejecutó en 4 iteraciones de dos semanas cada una, con un esfuerzo de 5 horas-persona por semana.
+Público Objetivo del MVP: Personas de entre 14 y 70 años interesadas en participar en pencas deportivas.
+3. Adaptaciones al Marco de Trabajo SCRUM
+Debido a las restricciones de tiempo y la naturaleza académica del proyecto, realizamos varias adaptaciones al marco SCRUM:
+Reuniones Asincrónicas y Sincrónicas: Ajustamos las reuniones diarias a 15 minutos y permitimos la participación asincrónica a través de Slack.
+Priorización Semanal: Establecimos prioridades semanales claras para asegurar la finalización de tareas críticas.
+Tablero Virtual de Tareas: Utilizamos Trello para la gestión visual de tareas.
+Pair Programming: Implementamos programación en parejas para tareas complejas.
+4. Inspección y Adaptación del Proceso
+Cada iteración incluyó mecanismos de inspección y adaptación:
+Retrospectivas: Utilizamos la técnica 'Start, Stop, Continue' al final de cada iteración para identificar mejoras.
+Feedback Continuo: Recopilamos feedback a través de encuestas breves y reuniones de revisión semanales.
+Métricas de Rendimiento: Empleamos Jira para el seguimiento de tareas y métricas de rendimiento.
+5. Acciones de Mejora Implementadas
+Las acciones de mejora principales fueron:
+Pair Programming: Para mejorar la calidad del código y acelerar el desarrollo.
+Horas de Oficina Semanales: Para resolver dudas y problemas técnicos de manera colaborativa.
+Estándares de Comunicación: Establecimos una guía para mejorar la claridad y eficiencia en la comunicación.
+Herramientas de Gestión: Utilizamos Trello y Miro para la gestión visual de tareas y colaboraciones.
+6. Implementación de las Acciones de Mejora
+Para asegurar la implementación de las acciones de mejora, seguimos estos pasos:
+Asignación de Responsabilidades: Cada mejora tuvo un responsable específico.
+Seguimiento Regular: Utilizamos un tablero de seguimiento en Trello.
+Revisión Continua: Evaluamos la efectividad de cada mejora en las retrospectivas.
+Documentación y Comunicación: Documentamos todas las acciones de mejora en Confluence.
+7. Resultados Obtenidos
+Las mejoras implementadas produjeron resultados significativos:
+Aumento de la Velocidad del Equipo: La velocidad aumentó de 8 a 12 puntos de historia por iteración.
+Reducción de Bugs Críticos: La calidad del código mejoró, reflejada en una disminución del 40% en bugs críticos.
+Mejora en la Colaboración: Pair programming y horas de oficina resultaron en mayor colaboración y conocimiento compartido.
+Satisfacción del Equipo: Aumento de la satisfacción del equipo, reflejado en encuestas de feedback positivo.
+8. Lecciones Aprendidas
+Las principales lecciones aprendidas incluyen:
+Flexibilidad y Adaptación Continua: La flexibilidad en el proceso y la adaptación continua son esenciales para el éxito en un entorno ágil.
+Importancia de la Comunicación: Herramientas adecuadas y estándares claros de comunicación pueden superar las limitaciones de tiempo y mejorar el rendimiento del equipo.
+Valor de la Colaboración: La colaboración efectiva, como la programación en parejas, mejora la calidad del trabajo y acelera el desarrollo.
+9. Conclusión
+La aplicación de prácticas ágiles mediante SCRUM en el desarrollo de un MVP para una aplicación de pencas deportivas nos permitió alcanzar nuestros objetivos y aprender valiosas lecciones sobre la gestión ágil de proyectos. Las adaptaciones realizadas fueron efectivas en mejorar la eficiencia y la calidad del trabajo, y las acciones de mejora implementadas resultaron en beneficios tangibles para el equipo y el proyecto. Estos aprendizajes serán fundamentales para futuros proyectos de ingeniería de software ágil.
+10. Referencias
+Scrum Guide: Ken Schwaber and Jeff Sutherland, "The Scrum Guide."
+Agile Principles: Manifesto for Agile Software Development, agilemanifesto.org.
+Herramientas Utilizadas: Jira, Trello, Miro, Confluence.
+Este informe académico sintetiza la experiencia de aplicar prácticas de ingeniería de software ágil en un contexto educativo y ofrece una reflexión profunda sobre los resultados y las lecciones aprendidas durante el proyecto.
+
+</span>
