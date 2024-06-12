@@ -22,7 +22,15 @@ Para el desarrollo del proyecto se deberá utilizar el marco de trabajo SCRUM. E
 
 # Integrantes del equipo
 
-_[Enumerar los integrantes del equipo con sus números de estudiantes y rol dentro del proyecto.]_
+Nro. Estudiante | Nombre | Rol
+--- | --- | --- 
+224179 | Maximiliano Chiale | Development Team
+276280 | Santiago Ezequiel Alfonso Ferraro | Development Team
+276763 | Santiago Federico Lopez Langenhin | Development Team
+296955 | Bruno Berois | Development Team
+223694 | Ana Belén Martínez | Development Team
+173507 | Gabriel Lutz | Scrum Master y Development Team (parcial)
+109606 | Germán Correa | Product Owner y Development Team (parcial)
 
 # Iteraciones y esfuerzo
 
@@ -41,8 +49,12 @@ Las siguientes carpetas deberán tener la entrega de cada iteración siguiendo l
 
 _[Con el desarrollo del proyecto se pueden ir encontrando mejoras a los entregables ya realizados de cada iteración. Enumerar en esta sección las principales mejoras realizadas posterior a cada entrega. Esto puede incluir la implementación de las sugerencias realizadas por los docentes durante el proyecto.]_
 
-Se aplicaron todas las mejoras en la documentacion del Sprint 3.
+## Sprint 3
+Se aplicaron todas las mejoras en la documentacion del Sprint 3 en base a correccion recibida.
 Entendemos no se puede alterar la documentacion ya entregada.
+
+## Sprint 4
+Agregamos capturas con todas las historias que se desarrollo en cada sprint correspondiente con su descripcion, criterios de aceptación e imagenes del prototipo. 
 
 # Reflexiones y aprendizajes finales de los resultados del proyecto
 
