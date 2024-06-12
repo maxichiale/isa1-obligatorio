@@ -73,3 +73,18 @@ Revisión de nuestra APP:
 - **Revisión de nuestra APP**
     - **¿Opinión general?** Me gustó como quedó todo, el que tengan en cuenta lo que les comenté en la entrevista anterior me dejó muy contenta. 
     - **¿Qué le parece las mejoras que se introdujeron?** El chat quedó muy bien logrado y va a permitir que la gente participe e interactúe en todo momento. Después los idiomas quedaron fáciles de usar y cambiar. Los felicito por el trabajo  
+
+
+#### Adolfo Lutz
+
+![Cita](./img/review/reviews/AdolfoLutz.png)
+
+- **Edad**: 70
+- **Sexo**: Masculino
+- **Profesión o actividad de la persona**: Jubilado
+- **Hobbies**: Leer y Cine.
+- **Vinculo con pencas**: Usuario ocasional de penca Ovación. 
+- **Revisión de nuestra APP**
+    - **¿Opinión general?** Me gustó mucho. No me había dado cuenta lo del uso de favoritos, y con lo de leer noticias está muy bueno, porque te mantiene informado y no solo para hacer apuestas.  
+    - **¿Qué le parece las mejoras que se introdujeron?** Yo les había comentado lo del modo oscuro y me gustó como quedo, además es fácil de poner y sacar. Ahora si la uso mucho tiempo no me van a molestar los ojos.  
+    En una siguiente etapa podría ser automático sin tener que modificarlo, como pasa con una aplicación que uso que se llama Waze, que te lo cambia directamente despues de las 19 hs. 
