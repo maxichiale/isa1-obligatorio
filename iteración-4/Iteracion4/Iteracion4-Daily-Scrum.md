@@ -2,19 +2,21 @@
 
 Como ejemplo se incluye ejemplo de la asistencia de los integrantes del equipo a las reuniones virtuales por Teams.
 
-![asistencia daily](img/seguimiento/2024-05-23-iteracion3-daily.PNG)
+![asistencia daily](img/seguimiento/2024-06-04-iteracion4-daily.PNG)
 
-![asistencia daily](img/seguimiento/2024-05-25-iteracion3-daily.PNG)
+![asistencia daily](img/seguimiento/2024-06-07-iteracion4-daily.PNG)
 
-![asistencia daily](img/seguimiento/2024-05-28-iteracion3-daily.PNG)
+![asistencia daily](img/seguimiento/2024-06-08-iteracion4-daily.PNG)
 
-![asistencia daily](img/seguimiento/2024-06-01-iteracion3-daily.PNG)
+![asistencia daily](img/seguimiento/2024-06-21-iteracion4-daily.PNG)
 
 Temas tratados:
 
-  - ¿Que logramos hacer?
-  - ¿Qué planificamos hacer?
-  - ¿Qué impedimentos tenemos?
+  - ¿Que logramos hacer? Avances, US y Tasks que se terminaron. Dependencias que se terminaron y que habilitan que otras cosas que dependen de ellas puedan avanzar.
+
+  - ¿Qué planificamos hacer? Tareas hasta la próxima Daily Scrum en las que se va a trabajar.
+
+  - ¿Qué impedimentos tenemos? Si hay algo que nos bloquea el avance, recoordinar tareas, tal vez que otro integrante del equipo pueda ayudar a destrabar el problema. Identificar lo antes posible, dependencias de recursos externos al equipo, para poder resolverlas y que no se transformen en elementos bloqueantes.
 
 
   ## Seguimiento de la iteración
@@ -26,9 +28,10 @@ Se observa el cumplimiento al final del sprint de la realizacion de todas las US
 ![Sprint4 Burndown chart](img/seguimiento/BurndownChart.PNG)
 
 También se puede ver el progreso de la productividad del equipo.
-Si bien el gráfico de Azure hace un promedio con el primer Sprint donde no hubo trabajo en UserStories, podemos ver que se realizaron 115 Story Points en comparacion con los 50 del sprint anterior.
 
-![Sprint3 Burndown chart](img/iteracion3/velocity.PNG)
+Ya en la segunda semana del sprint todas las US están implementadas, y se puede obtener la Velocity.
+
+![Sprint4 Burndown chart](img/seguimiento/velocity.PNG)
 
 ### Dedicacion horaria
 
