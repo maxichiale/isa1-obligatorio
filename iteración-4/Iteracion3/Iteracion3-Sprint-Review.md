@@ -1,8 +1,7 @@
 # Sprint Review
 
 ### Cita
-
-![Cita](img/iteracion3/iteracion3-sprint-review-asistencia.PNG)
+![Cita](./img/review/iteracion3-sprint-review-asistencia.PNG)
 
 ## Pruebas con usuarios finales
 
@@ -15,8 +14,7 @@ El resultado de estas pruebas fue altamente satisfactorio. La gran mayoría de l
 ### Contenido generado con usuarios y análisis sobre el mismo
 
 #### Carlos Fernández
-
-![Cita](img/iteracion3/reviews/CarlosFernandez.png)
+![Cita](./img/review/reviews/CarlosFernandez.png)
 
 - **Edad**: 53
 - **Sexo**: Masculino
@@ -31,7 +29,7 @@ El resultado de estas pruebas fue altamente satisfactorio. La gran mayoría de l
 
 #### Rodrigo Urán
 
-![Cita](img/iteracion3/reviews/RodrigoUran.png)
+![Cita](./img/review/reviews/RodrigoUran.png)
 
 - **Edad**: 38
 - **Sexo**: Masculino
@@ -46,7 +44,7 @@ El resultado de estas pruebas fue altamente satisfactorio. La gran mayoría de l
 
 #### Felipe Carranza
 
-![Cita](img/iteracion3/reviews/FelipeCarranza.png)
+![Cita](./img/review/reviews/FelipeCarranza.png)
 
 - **Edad**: 35
 - **Sexo**: Masculino
@@ -60,7 +58,7 @@ El resultado de estas pruebas fue altamente satisfactorio. La gran mayoría de l
 
 #### Yuly Goycoechea
 
-![Cita](img/iteracion3/reviews/YulyGoycochea.png)
+![Cita](./img/review/reviews/YulyGoycochea.png)
 
 - **Edad**: 47
 - **Sexo**: Femenino
