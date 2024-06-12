@@ -70,6 +70,20 @@ El resultado de estas pruebas fue altamente satisfactorio. La gran mayoría de l
     - **¿Qué le parece que se debería mejorar?** Tener la aplicación con mas idiomas. Vivo en Frontera y allí se habla mucho portugués, por ejemplo. Tener esa accesibilidad y posibilidad de cambiar idioma o tamaño de letras seria de ayuda.
     - **¿Alguna característica que le parece que le falta?** Le agregaría un chat para comentar en el grupo, no solo durante la penca, sino que se pueda usar para interactuar siempre. 
 
+#### Adolfo Lutz
+
+![Cita](./img/review/reviews/AdolfoLutz.png)
+
+- **Edad**: 70
+- **Sexo**: Masculino
+- **Profesión o actividad de la persona**: Jubilado
+- **Hobbies**: Leer y Cine.
+- **Vinculo con pencas**: Usuario ocasional de penca Ovación. 
+- **Revisión de nuestra APP**
+    - **¿Opinión general?** Me gustó mucho, es fácil de manejar. Tienes mucha información sobre el los equipos que van a jugar y eso es bueno para dar un pronóstico. Haber puesto las apuestas oficiales y un enlace para hacerlas pareció acertado, ya que fue lo que había pedido cuando me entrevistaron anteriormente. 
+    - **¿Qué le parece que se debería mejorar?** Me parece que está muy bien como está.  
+    - **¿Alguna característica que le parece que le falta?** Me gustaría que tenga un modo nocturno, ya que a mi edad los brillos del móvil me molestan mucho con fondo blanco. 
+
 ### Adrián 
 
 - **Edad**: 52
