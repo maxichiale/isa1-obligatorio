@@ -2,16 +2,27 @@
 
 **Resultados y Lecciones Aprendidas en la Aplicación de Prácticas de Ingeniería de Software Ágil en el Prototipado de una Aplicación de Pencas Deportivas**
 
-<span style="color:red">
-Resumen
+## Resumen
+
 Este informe detalla los resultados y lecciones aprendidas a lo largo de la implementación de prácticas de ingeniería de software ágil, específicamente utilizando el marco de trabajo SCRUM, en el desarrollo de un prototipo de MVP para una aplicación de pencas deportivas. Se destacan las adaptaciones al marco de trabajo SCRUM debido a las particularidades del proyecto, las acciones de mejora aplicadas y sus impactos en el rendimiento y satisfacción del equipo.
-1. Introducción
-El objetivo de nuestro proyecto fue aprender y aplicar prácticas de gestión ágil mediante el desarrollo de un prototipo de MVP para una aplicación de pencas deportivas. Utilizamos SCRUM como marco de trabajo, adaptando roles, eventos y artefactos para ajustarnos a las limitaciones y necesidades específicas del proyecto. Este informe proporciona una visión general del proceso, las adaptaciones realizadas y los resultados obtenidos.
-2. Contexto del Proyecto
-Objetivo del Proyecto: Gestionar la ideación, construcción y validación de un prototipo de MVP para una aplicación de pencas deportivas.
-Equipo: Compuesto por un Product Owner, un Scrum Master y un equipo de desarrollo.
-Duración y Esfuerzo: El proyecto se ejecutó en 4 iteraciones de dos semanas cada una, con un esfuerzo de 5 horas-persona por semana.
-Público Objetivo del MVP: Personas de entre 14 y 70 años interesadas en participar en pencas deportivas.
+
+## 1. Introducción
+El objetivo de nuestro proyecto fue aprender y aplicar prácticas de gestión ágil mediante el desarrollo de un prototipo de MVP para una aplicación de pencas deportivas. Utilizamos SCRUM como marco de trabajo, adaptando roles, eventos y artefactos para ajustarnos de acuerdo al contexto y características del proyecto. Este informe proporciona una visión general del proceso, las adaptaciones realizadas y los resultados obtenidos.
+
+## 2. Contexto del Proyecto
+- Objetivo del Proyecto: descubrir, idear y prototipar un de MVP para una aplicación de pencas deportivas.
+- Equipo: un Product Owner, un Scrum Master y un equipo de desarrollo.
+- Duración y Esfuerzo: el proyecto se ejecutó en 4 iteraciones de dos semanas cada una, con un esfuerzo de 5 horas-persona por semana.
+- Público Objetivo del MVP: Personas de entre 14 y 70 años interesadas en participar en pencas deportivas.
+
+
+## 8. Lecciones Aprendidas
+Sin duda, aprendimos cómo debería funcionar SCRUM a través de un proceso que se asemeja mucho a la realidad. Aunque hicimos adaptaciones propias para el contexto de este proyecto, que no se alineaban al 100% con la guía de SCRUM, entendemos que es algo común en la práctica. Esto se basa en la experiencia de algunos de nosotros que trabajamos con SCRUM en el ámbito laboral, donde siempre se realizan ajustes, ya sea en la forma de realizar las reuniones, en las prioridades, en las métricas, etc.
+
+Este proyecto nos permitió comprender las responsabilidades de cada rol y la importancia de cada artefacto, lo que nos facilita llevar estos conocimientos a nuestro trabajo y aplicarlos para mejorar nuestras prácticas. Queremos también destacar la importancia de la colaboración dentro del equipo y de mantener una comunicación efectiva. Esto, sin duda, mejora la calidad y acelera el desarrollo del producto, así como también fomenta la flexibilidad y adaptación en todo momento, lo cual nos lleva al éxito en un entorno ágil.
+
+
+<span style="color:red">
 3. Adaptaciones al Marco de Trabajo SCRUM
 Debido a las restricciones de tiempo y la naturaleza académica del proyecto, realizamos varias adaptaciones al marco SCRUM:
 Reuniones Asincrónicas y Sincrónicas: Ajustamos las reuniones diarias a 15 minutos y permitimos la participación asincrónica a través de Slack.
@@ -41,11 +52,6 @@ Aumento de la Velocidad del Equipo: La velocidad aumentó de 8 a 12 puntos de hi
 Reducción de Bugs Críticos: La calidad del código mejoró, reflejada en una disminución del 40% en bugs críticos.
 Mejora en la Colaboración: Pair programming y horas de oficina resultaron en mayor colaboración y conocimiento compartido.
 Satisfacción del Equipo: Aumento de la satisfacción del equipo, reflejado en encuestas de feedback positivo.
-8. Lecciones Aprendidas
-Las principales lecciones aprendidas incluyen:
-Flexibilidad y Adaptación Continua: La flexibilidad en el proceso y la adaptación continua son esenciales para el éxito en un entorno ágil.
-Importancia de la Comunicación: Herramientas adecuadas y estándares claros de comunicación pueden superar las limitaciones de tiempo y mejorar el rendimiento del equipo.
-Valor de la Colaboración: La colaboración efectiva, como la programación en parejas, mejora la calidad del trabajo y acelera el desarrollo.
 9. Conclusión
 La aplicación de prácticas ágiles mediante SCRUM en el desarrollo de un MVP para una aplicación de pencas deportivas nos permitió alcanzar nuestros objetivos y aprender valiosas lecciones sobre la gestión ágil de proyectos. Las adaptaciones realizadas fueron efectivas en mejorar la eficiencia y la calidad del trabajo, y las acciones de mejora implementadas resultaron en beneficios tangibles para el equipo y el proyecto. Estos aprendizajes serán fundamentales para futuros proyectos de ingeniería de software ágil.
 10. Referencias
