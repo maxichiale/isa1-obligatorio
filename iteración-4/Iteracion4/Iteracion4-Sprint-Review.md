@@ -30,6 +30,9 @@ Revisión de nuestra APP:
     El tema de las apuestas es una propuesta que nos habían dado pero quedó fuera del alcance, lo que se va a tener en cuenta para el siguiente reléase. 
     - **¿Qué le parece las mejoras que se introdujeron?** Perfecto, era lo que me parecía a mi y está muy bien. 
 
+
+- Review Final: [Review Final Carlos](https://fi365-my.sharepoint.com/:v:/g/personal/gl173507_fi365_ort_edu_uy/EeJBlwQdfLBPl4biwPwZsoEB5MXegFWQZMCBeM3DGmKJVA?e=FWEx3V)
+
 #### Rodrigo Urán
 
 ![Cita](./img/review/reviews/RodrigoUran.png)
@@ -46,6 +49,8 @@ Revisión de nuestra APP:
     Muchas gracias, muy bueno y que tengan mucha suerte 
 
 
+- Review Final: [Review Final Rodrigo](https://fi365-my.sharepoint.com/:v:/g/personal/gl173507_fi365_ort_edu_uy/EezKh0oyHpNNkkHTbv264g0BcaOpzRFAfxGCt4s3mNyXIA?e=HMmsHK)
+
 #### Felipe Carranza
 
 ![Cita](./img/review/reviews/FelipeCarranza.png)
@@ -61,6 +66,9 @@ Revisión de nuestra APP:
     - **No lo hicimos porque quedó fuera del alcance, si bien lo contemplamos porque nos puede dar mucho valor y quedará para el siguiente release.** 
     Perfecto, ya la quiero descargar. 
 
+
+- Review Final: [Review Final Felipe](https://fi365-my.sharepoint.com/:v:/g/personal/gl173507_fi365_ort_edu_uy/EQqcUrQJ2FBOrgAeBKEle4ABGVb-UZgx8OnPXGMHe1M6TQ?e=a3u4fs)
+
 #### Yuly Goycoechea
 
 ![Cita](./img/review/reviews/YulyGoycochea.png)
@@ -75,6 +83,8 @@ Revisión de nuestra APP:
     - **¿Qué le parece las mejoras que se introdujeron?** El chat quedó muy bien logrado y va a permitir que la gente participe e interactúe en todo momento. Después los idiomas quedaron fáciles de usar y cambiar. Los felicito por el trabajo  
 
 
+- Review Final: [Review Final Yuly](https://fi365-my.sharepoint.com/:v:/g/personal/gl173507_fi365_ort_edu_uy/EYXJRCK39ytDrOtj_-IGnroBPwAVQ7RkHb9--musLzYjzQ?e=LI4qqr)
+
 #### Adolfo Lutz
 
 ![Cita](./img/review/reviews/AdolfoLutz.png)
@@ -88,3 +98,6 @@ Revisión de nuestra APP:
     - **¿Opinión general?** Me gustó mucho. No me había dado cuenta lo del uso de favoritos, y con lo de leer noticias está muy bueno, porque te mantiene informado y no solo para hacer apuestas.  
     - **¿Qué le parece las mejoras que se introdujeron?** Yo les había comentado lo del modo oscuro y me gustó como quedo, además es fácil de poner y sacar. Ahora si la uso mucho tiempo no me van a molestar los ojos.  
     En una siguiente etapa podría ser automático sin tener que modificarlo, como pasa con una aplicación que uso que se llama Waze, que te lo cambia directamente despues de las 19 hs. 
+
+
+- Review Final: [Review Final Adolfo](https://fi365-my.sharepoint.com/:v:/g/personal/gl173507_fi365_ort_edu_uy/Ed06lwUiSBFMrMtvwSOKdeQBFl3obk-WWvTPwKHzX0jTFw?e=OyWhM1)
