@@ -9,20 +9,24 @@ Este informe detalla los resultados y lecciones aprendidas a lo largo de la impl
 ## Resultados del proyecto
 
 ### 1. Introducción
-El presente informe detalla los resultados obtenidos y las lecciones aprendidas durante la implementación de prácticas de ingeniería de software ágil en el desarrollo de un prototipo de MVP para una aplicación de pencas deportivas. Se utilizó el marco de trabajo SCRUM, adaptando roles, eventos y artefactos según el contexto del proyecto. 
-Dado el contexto particular de nuestro proyecto y la disponibilidad de dedicación al mismo que tenía cada integrante, a lo largo del proceso, se realizaron diversas adaptaciones y acciones de mejora para optimizar el rendimiento y la satisfacción del equipo. 
+Dado el contexto particular de nuestro proyecto y la disponibilidad de dedicación al mismo que tenía cada integrante, a lo largo del proceso, se realizaron diversas adaptaciones de roles, eventos y artefactos, y también acciones de mejora para optimizar el rendimiento y la satisfacción del equipo. 
 Sin duda, aprendimos cómo debería funcionar SCRUM a través de un proceso que se asemeja mucho a la realidad. Aunque hicimos adaptaciones propias para el contexto de este proyecto, que no se alineaban al 100% con la guía de SCRUM, entendemos que es algo común en la práctica. Esto se basa en la experiencia de algunos de nosotros que trabajamos con SCRUM en el ámbito laboral, donde siempre se realizan ajustes, ya sea en la forma de realizar las reuniones, en las prioridades, en las métricas, etc.
 
 ### 2. Contexto del Proyecto
 - Objetivo del Proyecto: descubrir, idear y prototipar un de MVP para una aplicación de pencas deportivas.
 - Equipo: un Product Owner, un Scrum Master y un equipo de desarrollo.
-- Duración y Esfuerzo: el proyecto se ejecutó en 4 iteraciones de dos semanas cada una, con un esfuerzo de 5 horas-persona por semana.
+- Duración y Esfuerzo: el proyecto se ejecutó en 4 iteraciones de dos semanas cada una, con un esfuerzo mínimo de 5 horas-persona por semana.
 - Público Objetivo del MVP: Personas de entre 14 y 70 años interesadas en participar en pencas deportivas.
 
 ### 3. Inspección y Adaptación del Proceso
 Cada iteración incluyó los siguientes mecanismos de inspección y adaptación:
-- Retrospectivas: Al final de cada iteración, realizamos retrospectivas para identificar lo que funcionó, lo que debía mejorarse y lo que debíamos seguir haciendo. Esto nos permitió obtener feedback directo del equipo y ajustar nuestras prácticas de inmediato.
-- Feedback Continuo: Recopilamos feedback a través de encuestas breves y reuniones de revisión semanales. Los resultados se discutían y se tomaban acciones inmediatas para implementar mejoras.
+- **Retrospectivas**: Al final de cada iteración, realizamos retrospectivas para identificar lo que funcionó, lo que debía mejorarse y lo que debíamos seguir haciendo. Esto nos permitió obtener feedback directo del equipo y ajustar nuestras prácticas de inmediato.
+- **Feedback Continuo**: Una vez que se empezó a entregar incrementos, recopilamos feedback sobre los incrementos o avances realizados en cada Sprint a través de:
+  - Encuestas breves
+  - Demostraciones y enetrevistas en video/audio
+  - Reuniones de revisión semanales
+
+  Los resultados se discutieron y se tomaron acciones a partir de ellos, ya sea para la mejora del proceso ágil como para la mejora del producto.
 
 ### 4. Adaptaciones al Marco de Trabajo SCRUM
 Dado el contexto particular de nuestro proyecto, donde el objetivo era aprender prácticas de gestión ágil mediante la creación de un prototipo de MVP para una aplicación de pencas deportivas y con el equipo con una limitante de horas libres para participar activamente, realizamos las siguientes adaptaciones al marco SCRUM:
@@ -52,6 +56,7 @@ Durante el desarrollo del proyecto, se identificaron y aplicaron diversas leccio
 4.	Implementación de Acciones de Mejora: La asignación de responsabilidades, el seguimiento regular y la revisión continua de las acciones de mejora fueron clave para garantizar su efectividad y continuidad.
 Este proyecto nos permitió comprender las responsabilidades de cada rol y la importancia de cada artefacto, lo que nos facilita llevar estos conocimientos a nuestro trabajo y aplicarlos para mejorar nuestras prácticas. 
 Queremos también destacar la importancia de la colaboración dentro del equipo y de mantener una comunicación efectiva. Esto, sin duda, mejora la calidad y acelera el desarrollo del producto, así como también fomenta la flexibilidad y adaptación en todo momento, lo cual nos lleva al éxito en un entorno ágil.
+
 Principales Artefactos del Proyecto
 1.	Minuta de Sprint Planning con su agenda, actividades y resultados.
 2.	Objetivos de la iteración.
@@ -102,7 +107,3 @@ La aplicación de prácticas ágiles mediante SCRUM en el desarrollo de un MVP p
 
 Scrum Guide: Ken Schwaber and Jeff Sutherland, "The Scrum Guide."
 Agile Principles: Manifesto for Agile Software Development, agilemanifesto.org.
-Herramientas Utilizadas: Jira, Trello, Miro, Confluence.
-Este informe académico sintetiza la experiencia de aplicar prácticas de ingeniería de software ágil en un contexto educativo y ofrece una reflexión profunda sobre los resultados y las lecciones aprendidas durante el proyecto.
-
-
