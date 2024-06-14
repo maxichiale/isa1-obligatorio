@@ -24,11 +24,12 @@ Este proyecto nos permitió comprender las responsabilidades de cada rol y la im
 
 <span style="color:red">
 3. Adaptaciones al Marco de Trabajo SCRUM
-Dado el contexto particular de nuestro proyecto, donde el objetivo era aprender prácticas de gestión ágil mediante la creación de un prototipo de MVP para una aplicación de pencas deportivas y con el equipo con una limitante de horas libres para participar activamente, realizamos las siguientes adaptaciones:varias adaptaciones al marco SCRUM:
-Reuniones Asincrónicas y Sincrónicas: A través de un grupo de Whatsapp estuvimos en permanente contacto por dudas, sobre lo que se debía hacer y los avances realizados.
-Priorización Semanal: Establecimos prioridades semanales claras para asegurar la finalización de tareas críticas, de manera que no nos quede mucha carga de trabajo acumulada para el final del Sprint.
-Tablero Virtual de Tareas: Utilizamos Azure para la gestión visual de tareas en su Board, utilizando los Items New, Active, Resolve, Close. De esta manera mejoramos la comunicación y colaboración del equipo, priorizando y gestionando mejor las tareas asignadas. 
-Pair Programming: Cuando un integrante del equipo tenía una tarea compleja, solicitaba al Scrum Master apoyo para resolver la misma de manera conjunta y así mejorar la calidad (visual) y unificación de los Frames.
+Dado el contexto particular de nuestro proyecto, donde el objetivo era aprender prácticas de gestión ágil mediante la creación de un prototipo de MVP para una aplicación de pencas deportivas y con el equipo con una limitante de horas libres para participar activamente, realizamos las siguientes adaptaciones al marco SCRUM:
+  
+- Reuniones Asincrónicas y Sincrónicas: A través de un grupo de Whatsapp estuvimos en permanente contacto por dudas, sobre lo que se debía hacer y los avances realizados.
+- Priorización Semanal: Establecimos prioridades semanales claras para asegurar la finalización de tareas críticas, de manera que no nos quede mucha carga de trabajo acumulada para el final del Sprint.
+- Tablero Virtual de Tareas: Utilizamos Azure para la gestión visual de tareas en su Board, utilizando los Items New, Active, Resolve, Close. De esta manera mejoramos la comunicación y colaboración del equipo, priorizando y gestionando mejor las tareas asignadas. 
+- Pair Programming: Cuando un integrante del equipo tenía una tarea compleja, solicitaba al Scrum Master apoyo para resolver la misma de manera conjunta y así mejorar la calidad (visual) y unificación de los Frames.
 
   4. Inspección y Adaptación del Proceso
 Cada iteración incluyó mecanismos de inspección y adaptación:
