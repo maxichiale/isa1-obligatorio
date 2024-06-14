@@ -50,6 +50,44 @@ El punto de mejorar en la colaboración a su vez incide en la mejoría de la vel
 Además, mejorar la colaboración nos brindó una mejor organización, evitando posponer mucho trabajo para los días finales de las iteraciones, y distribuir mejor la carga de tareas para cada integrante.
 Finalmente, en la satisfacción del equipo es el caso más claro, debido a que al comienzo de las iteraciones se plantea una forma de trabajo, y luego se va ajustando la metodología para la mayor comodidad de los integrantes, por lo que este aspecto con los ajustes correspondientes mejora rápidamente la satisfacción.
 
+También logramos la correcta identificación y priorización de las funcionalidades que generaban valor para 
+la aplicación, algunas de ellas no llegaron a implementarse o fueron descartadas desde el inicio.
+
+
+A continuación, mostraremos en detalle las principales funcionalidades que fueron descartadas, junto con su historia de usuario asociada y una breve justificación de por qué no se implementaron.
+
+- Agregar estados: 
+
+![](iteración-4/Iteracion4/img/funcionalidades-no-Implementadas/Agregar-estados.png)
+
+En cierto momento se consideró la idea de añadir funcionalidades parecidas a las de las redes sociales como permitir a los usuarios subir historias y fotos en la 
+aplicación, pero decidimos no implementarlas. Nuestra aplicación está centrada en pronósticos deportivos, y agregar estas funciones podría desviar el enfoque 
+principal y sobrecargar la experiencia del usuario. Estos requerimientos fueron solicitados por el público juvenil, que tiene una inclinación natural hacia el uso 
+de este tipo de funcionalidades, sin ser demandantes. 
+
+Además, la implementación de estas características podría complicar el desarrollo y mantenimiento de la app, desviando recursos y atención de nuestro objetivo 
+principal. La inclusión de funciones de redes sociales también podría diluir la propuesta de valor única de la aplicación y hacerla menos atractiva para los 
+usuarios que buscan una plataforma dedicada exclusivamente a los pronósticos deportivos. Por estas razones, optamos por mantenernos enfocados en mejorar y optimizar 
+las funciones centrales relacionadas con los pronósticos, asegurando así una experiencia de usuario más coherente y efectiva. 
+
+- Automatización de modo oscuro:
+
+![](iteración-4/Iteracion4/img/funcionalidades-no-Implementadas/Automatizacion-modo-oscuro.png)
+
+Un usuario también solicito el modo oscuro automático, pero al ya tener implementado el modo oscuro manual funcionando adecuadamente y satisfaciendo las necesidades de los usuarios, implementar un modo oscuro automático no nos pareció relevante o prioritario en términos de beneficio adicional. 
+
+- Creación de un muro: 
+
+![](iteración-4/Iteracion4/img/funcionalidades-no-Implementadas/Creacion-muro.png)
+
+También consideramos la idea de permitir a los usuarios publicar e interactuar en muros dentro de la aplicación. Sin embargo, debido a las limitaciones de tiempo y la priorización de otras funcionalidades que aportaban mayor valor, decidimos no implementar esta característica. Aunque probablemente habría sido interesante y beneficioso para fomentar la interacción entre los usuarios y enriquecer la experiencia de la comunidad. 
+
+- Pencas de pago:
+ 
+![](iteración-4/Iteracion4/img/funcionalidades-no-Implementadas/Pencas-pagas.png)
+
+Otra funcionalidad no agregada fue la de tener pencas pagas, en las que se debería pagar antes para acceder a ella. Decidimos mantener las pencas gratuitas ya que de esta forma nos alineamos con una estrategia de crecimiento y validación del producto antes de introducir cualquier componente de pago, lo cual es una decisión estratégica para establecer una base sólida y preparar el terreno para futuras expansiones y monetización. 
+
 
 ## Lecciones Aprendidas
 Durante el desarrollo del proyecto, se identificaron y aplicaron diversas lecciones que resultaron fundamentales para el éxito del mismo:
