@@ -13,20 +13,6 @@ El resultado de estas pruebas fue altamente satisfactorio. La gran mayoría de l
 
 ### Contenido generado con usuarios y análisis sobre el mismo
 
-#### Carlos Fernández
-![Cita](./img/review/reviews/CarlosFernandez.png)
-
-- **Edad**: 53
-- **Sexo**: Masculino
-- **Profesión o actividad de la persona**: Empleado estatal
-- **Hobbies**: Jardinería
-- **Vinculo con pencas**: Usuario ocasional de Penca Ovación. No participa de apuestas deportivas.
-- **Revisión de nuestra APP**
-    - **¿Opinión general?** Muy amigable la forma de manejarse en la aplicación. Los gráficos están bien. 
-    - **¿Qué le parece que se debería mejorar?** En la pantalla de inicio algo más relacionado con deportes (pelotas, raquetas, etc.)
-    - **¿Alguna característica que le parece que le falta?** Los favoritos solo se eligen y no se hace nada con ellos, por lo que estaría bueno anexarle algo que de información acerca de ellos (Noticias importantes de cada club, jugador o partido). 
-    - **Analisis con el usuario**: Con esto te puede tener enganchado a la aplicación sin necesidad de estar participando en una penca, ya que te mantiene notificando y teniendo presente la app.
-
 #### Rodrigo Urán
 
 ![Cita](./img/review/reviews/RodrigoUran.png)
@@ -42,6 +28,8 @@ El resultado de estas pruebas fue altamente satisfactorio. La gran mayoría de l
     - **¿Alguna característica que le parece que le falta?** Monetizar la aplicación, sería más entretenida para el usuario ganar un premio material. Para todo aquel que quiera participar. La aplicación se queda con un porcentaje y el resto es de premios. 
 
 
+- Primer Demostración: [Primer Demostración Rodrigo](https://fi365-my.sharepoint.com/:v:/g/personal/gl173507_fi365_ort_edu_uy/EdAYFvrtCANHuis5BlJeRaoByOQUKVct6FDOC0XDMYiE7Q?e=RYjZPX)
+
 #### Felipe Carranza
 
 ![Cita](./img/review/reviews/FelipeCarranza.png)
@@ -55,6 +43,9 @@ El resultado de estas pruebas fue altamente satisfactorio. La gran mayoría de l
     - **¿Opinión general?** Es muy intuitiva y cualquiera que esté familiarizado con aplicaciones la podría manejarla y entenderla, sabiendo como invitar, crear grupos y pencas, etc. Es fácil para el usuario.
     - **¿Qué le parece que se debería mejorar?** Cambiaría cosas de diseño, colores, logo, tipografías, etc. Si se entra a una penca, podría ser gratuita o de pago, y que la aplicación tenga plataforma de pagos conectada a mercado pago o entidades bancarias y que los premios se dividan entre los 3 primeros puestos.
     - **¿Alguna característica que le parece que le falta?** Que tenga una especie de interacción entre los participantes (grupo de amigos o público) en el que cada uno pueda hacer comentarios y el resto leerlos y el usuario se sienta parte de la aplicación, y que genere un sentido de pertenencia y familiaridad con la aplicación, generando la posibilidad de tener debates. 
+
+
+- Primer Demostración: [Primer Demostración Felipe](https://fi365-my.sharepoint.com/:v:/g/personal/gl173507_fi365_ort_edu_uy/EdspmK8B3xxKrYO_WeQk1mcBEc4Nu6qU9qAd84-KwvFZnw?e=hDedrJ)
 
 #### Yuly Goycoechea
 
@@ -70,6 +61,9 @@ El resultado de estas pruebas fue altamente satisfactorio. La gran mayoría de l
     - **¿Qué le parece que se debería mejorar?** Tener la aplicación con mas idiomas. Vivo en Frontera y allí se habla mucho portugués, por ejemplo. Tener esa accesibilidad y posibilidad de cambiar idioma o tamaño de letras seria de ayuda.
     - **¿Alguna característica que le parece que le falta?** Le agregaría un chat para comentar en el grupo, no solo durante la penca, sino que se pueda usar para interactuar siempre. 
 
+
+- Primer Demostración: [Primer Demostración Yuly](https://fi365-my.sharepoint.com/:v:/g/personal/gl173507_fi365_ort_edu_uy/EfXCYuPFTiVIlZZXkS7gyWMBe7WotQHpQWHNSq5jyt9YNg?e=kn936n)
+
 #### Adolfo Lutz
 
 ![Cita](./img/review/reviews/AdolfoLutz.png)
@@ -84,6 +78,9 @@ El resultado de estas pruebas fue altamente satisfactorio. La gran mayoría de l
     - **¿Qué le parece que se debería mejorar?** Me parece que está muy bien como está.  
     - **¿Alguna característica que le parece que le falta?** Me gustaría que tenga un modo nocturno, ya que a mi edad los brillos del móvil me molestan mucho con fondo blanco. 
 
+
+- Primer Demostración: [Primer Demostración Adolfo](https://fi365-my.sharepoint.com/:v:/g/personal/gl173507_fi365_ort_edu_uy/EU9VgkJ23Q5CtuCJPgyePzcBFBU9gQM08gp6qgGIoj1Q1A?e=IxWTdY)
+
 ### Adrián 
 
 - **Edad**: 52
@@ -96,8 +93,24 @@ El resultado de estas pruebas fue altamente satisfactorio. La gran mayoría de l
     - **Funcionalidades favoritas** La posibilidad de competir con mis amigos dentro de la aplicación añade un elemento de diversión y motivación adicional. La función de competición no solo me permite medir mi progreso en comparación con el de mis amigos, sino que también crea un ambiente de diversión y sana competencia que impulsa mi compromiso con la aplicación. 
     - **Funcionalidades que no le gustaron** No hubo ninguna funcionalidad en particular que no me gustara, creo que incluso le podría dar uso al de apuesta, aunque no suelo recurrir a las mismas.
     - **¿Qué le parece que se debería mejorar?** Creo que no hubo puntos bajos en cuanto a su uso o su visualización, me molesta un poco que tenga colores muy claros, pero es algo más personal. 
-    - **¿Alguna característica que le parece que le falta?** Yo creo que le faltaría un foro para poder interactuar con otros usuarios sobre algún partido en específico o similares. 
+    - **¿Alguna característica que le parece que le falta?** Yo creo que le faltaría un foro para poder interactuar con otros usuarios sobre algún partido en específico o similares.
 
+#### Carlos Fernández
+![Cita](./img/review/reviews/CarlosFernandez.png)
+
+- **Edad**: 53
+- **Sexo**: Masculino
+- **Profesión o actividad de la persona**: Empleado estatal
+- **Hobbies**: Jardinería
+- **Vinculo con pencas**: Usuario ocasional de Penca Ovación. No participa de apuestas deportivas.
+- **Revisión de nuestra APP**
+  - **¿Opinión general?** Muy amigable la forma de manejarse en la aplicación. Los gráficos están bien.
+  - **¿Qué le parece que se debería mejorar?** En la pantalla de inicio algo más relacionado con deportes (pelotas, raquetas, etc.)
+  - **¿Alguna característica que le parece que le falta?** Los favoritos solo se eligen y no se hace nada con ellos, por lo que estaría bueno anexarle algo que de información acerca de ellos (Noticias importantes de cada club, jugador o partido).
+  - **Analisis con el usuario**: Con esto te puede tener enganchado a la aplicación sin necesidad de estar participando en una penca, ya que te mantiene notificando y teniendo presente la app.
+
+
+- Primer Demostración: [Primer Demostración Carlos](https://fi365-my.sharepoint.com/:u:/g/personal/gl173507_fi365_ort_edu_uy/EY2hOGhwpR5Jgnena6ta2qoBAmOzVU8PtBrwy1Xr4VTwzQ?e=a9UrSd)
 
 ### Antonella 
 
@@ -126,7 +139,7 @@ El resultado de estas pruebas fue altamente satisfactorio. La gran mayoría de l
     - **Funcionalidades favoritas** Me llamo mucho la atención la parte de ver estadísticas, pero a lo que le daría más uso es a ver el ranking y los pronósticos que hizo cada persona en el grupo de penca, se ve muy divertido.
     - **Funcionalidades que no le gustaron** No hubo cosas que no me gustaran, pero mi madre no estaría tan de acuerdo con que use una aplicación que está conectada con sitios de apuesta, aunque entiendo que la aplicación en si no se relaciona directamente con las mismas, sino que solo muestra información. 
     - **¿Qué le parece que se debería mejorar?** Yo creo que debería de enfocarse un poco más en generar una especie de comunidad para postear y hablar
-    - **¿Alguna característica que le parece que le falta?** Como mencione antes capaz que faltaría un chat entre usuarios o un post grande algo parecido a Twitter o como Instagram que subís historias y fotos. 
+    - **¿Alguna característica que le parece que le falta?** Como mencione antes capaz que faltaría un chat entre usuarios o un post grande algo parecido a Twitter o como Instagram que subís historias y fotos.
 
 
 ### Martin 
