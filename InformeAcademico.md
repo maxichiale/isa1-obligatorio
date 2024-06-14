@@ -35,6 +35,9 @@ Dado el contexto particular de nuestro proyecto, donde el objetivo era aprender 
 - Priorización Semanal: Establecimos prioridades semanales claras para asegurar la finalización de tareas críticas, de manera que no nos quede mucha carga de trabajo acumulada para el final del Sprint.
 - Tablero Virtual de Tareas: Utilizamos Azure para la gestión visual de tareas en su Board, utilizando los Items New, Active, Resolve, Close. De esta manera mejoramos la comunicación y colaboración del equipo, priorizando y gestionando mejor las tareas asignadas.
 - Pair Programming: Cuando un integrante del equipo tenía una tarea compleja, solicitaba al Scrum Master apoyo para resolver la misma de manera conjunta y así mejorar la calidad (visual) y unificación de los Frames.
+- Reducir la duración de cada Sprint de 4 a 2 semanas, con excepción del primer Sprint. Esto es debido al calendario del semestre, para poder tener mayor cantidad de Sprints, y por ende, más feedback para hacer ajustes.
+- En vez de estar entregando un producto funcional, las entregas son de prototipos únicamente.
+- Debido a la disponibilidad horaria de los integrantes del grupo, las Daily Scrums no son realizadas todos los días, en vez de ello, se hacen 3 veces a la semana.
 
 ### 5. Resultados Obtenidos
 Durante la ejecución del proyecto, se implementaron diversas prácticas ágiles, como la utilización de SCRUM, reuniones de Grooming, Sprint Planning, Daily Scrum, Sprint Retro, entre otras. Se destacan los siguientes resultados principales:
