@@ -31,16 +31,16 @@ Cada iteración incluyó los siguientes mecanismos de inspección y adaptación:
 ### 4. Adaptaciones al Marco de Trabajo SCRUM
 Dado el contexto particular de nuestro proyecto, donde el objetivo era aprender prácticas de gestión ágil mediante la creación de un prototipo de MVP para una aplicación de pencas deportivas y con el equipo con una limitante de horas libres para participar activamente, realizamos las siguientes adaptaciones al marco SCRUM:
 
-- Reuniones Asincrónicas y Sincrónicas: A través de un grupo de Whatsapp estuvimos en permanente contacto por dudas, sobre lo que se debía hacer y los avances realizados.
-- Priorización Semanal: Establecimos prioridades semanales claras para asegurar la finalización de tareas críticas, de manera que no nos quede mucha carga de trabajo acumulada para el final del Sprint.
-- Tablero Virtual de Tareas: Utilizamos Azure para la gestión visual de tareas en su Board, utilizando los Items New, Active, Resolve, Close. De esta manera mejoramos la comunicación y colaboración del equipo, priorizando y gestionando mejor las tareas asignadas.
-- Pair Programming: Cuando un integrante del equipo tenía una tarea compleja, solicitaba al Scrum Master apoyo para resolver la misma de manera conjunta y así mejorar la calidad (visual) y unificación de los Frames.
-- Reducir la duración de cada Sprint de 4 a 2 semanas, con excepción del primer Sprint. Esto es debido al calendario del semestre, para poder tener mayor cantidad de Sprints, y por ende, más feedback para hacer ajustes.
-- En vez de estar entregando un producto funcional, las entregas son de prototipos únicamente.
-- Debido a la disponibilidad horaria de los integrantes del grupo, las Daily Scrums no son realizadas todos los días, en vez de ello, se hacen 3 veces a la semana.
+- **Reuniones Asincrónicas y Sincrónicas**: A través de un grupo de Whatsapp estuvimos en permanente contacto por dudas, sobre lo que se debía hacer y los avances realizados.
+- **Priorización Semanal**: Establecimos prioridades semanales claras para asegurar la finalización de tareas críticas, de manera que no nos quede mucha carga de trabajo acumulada para el final del Sprint.
+- **Tablero Virtual de Tareas**: Utilizamos Azure para la gestión visual de tareas en su Board, utilizando los Items New, Active, Resolve, Close. De esta manera mejoramos la comunicación y colaboración del equipo, priorizando y gestionando mejor las tareas asignadas.
+- **Pair Programming**: Cuando un integrante del equipo tenía una tarea compleja, solicitaba al Scrum Master apoyo para resolver la misma de manera conjunta y así mejorar la calidad (visual) y unificación de los Frames.
+- **Duración de los Sprint**: Se redujo de 4 a 2 semanas, con excepción del primer Sprint. Esto es debido al calendario del semestre, para poder tener mayor cantidad de Sprints, y por ende, más feedback para hacer ajustes.
+- **Tipo de producto**: En vez de estar entregando un producto funcional, las entregas son de prototipos únicamente.
+- **Daily Scrums**: Debido a la disponibilidad horaria de los integrantes del grupo, las Daily Scrums no son realizadas todos los días, en vez de ello, se hacen 3 veces a la semana.
 
 ### 5. Resultados Obtenidos
-Durante la ejecución del proyecto, se implementaron diversas prácticas ágiles, como la utilización de SCRUM, reuniones de Grooming, Sprint Planning, Daily Scrum, Sprint Retro, entre otras. Se destacan los siguientes resultados principales:
+Durante la ejecución del proyecto, se implementaron diversas prácticas ágiles dentro del marco SCRUM como ser: las reuniones de Grooming, Sprint Planning, Daily Scrum, Sprint Retro, entre otras. Se destacan los siguientes resultados principales:
 1.	Aumento de la Velocidad del Equipo: Se observó un incremento significativo en la velocidad del equipo.
 2.	Mejora en la Colaboración: Cuando un integrante del equipo tenía una tarea compleja, solicitaba al Scrum Master o un compañero de desarrollo, apoyo para resolver la misma de manera conjunta y así mejorar la calidad (visual) y unificación de los Frames. Esto resultó en una mayor colaboración y conocimiento compartido entre los miembros del equipo. A través de un grupo de Whatsapp estuvimos en permanente contacto por dudas, sobre lo que se debía hacer y los avances realizados y establecimos prioridades semanales claras para asegurar la finalización de tareas críticas, de manera que no nos quede mucha carga de trabajo acumulada para el final del Sprint.
 3.	Satisfacción del Equipo: Se registró un aumento en la satisfacción del equipo, evidenciado en encuestas de feedback positivo.
