@@ -58,7 +58,7 @@ A continuación, mostraremos en detalle las principales funcionalidades que fuer
 
 - Agregar estados: 
 
-![AgregarEstados](./iteración-4/Iteracion4/img/funcionalidades-no-Implementadas/Agregar-estados.png)
+![AgregarEstados](iteración-4/Iteracion4/img/funcionalidades-no-implementadas/Agregar-estados.png)
 
 En cierto momento se consideró la idea de añadir funcionalidades parecidas a las de las redes sociales como permitir a los usuarios subir historias y fotos en la 
 aplicación, pero decidimos no implementarlas. Nuestra aplicación está centrada en pronósticos deportivos, y agregar estas funciones podría desviar el enfoque 
