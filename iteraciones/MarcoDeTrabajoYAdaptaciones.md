@@ -108,7 +108,9 @@ En el marco del proyecto las UserStory estarán especificadas bajo estos lineami
 #### Definition of Done
 
 Establece las condiciones que deben cumplirse para determinar si un elemento de trabajo (historia de usuario, tarea, funcionalidad, entre otros) está completamente terminado y listo para ser entregado.
-Los elementos del Backlog completados durante el Sprint deben cumplir con los criterios de aceptación especificados, con las pruebas realizadas en forma exitosa (es decir llegando al resultado esperado según lo especificado). También debe estar en condición de ser liberado a los usuarios finales (listo para instalar o hacer deploy).
+Los elementos del Backlog completados durante el Sprint deben cumplir con los criterios de aceptación especificados, con las pruebas realizadas en forma exitosa (es decir llegando al resultado esperado según lo especificado en el Acceptance Criteria). Esto se puede verificar, revisando que el resultado coincide con el esperado según lo especificado en BDD.
+También debe estar en condición de ser liberado a los usuarios finales (listo para instalar o hacer deploy).
+Se hace una revisión con el Product Owner y se graba un video demostrando el resultado esperado, esto se incluye como un link adjunto en la documentación de la User Story. 
 
 ## Repositorio
 

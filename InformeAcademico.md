@@ -114,6 +114,10 @@ la aplicación, algunas de ellas no llegaron a implementarse o fueron descartada
 #### 6.1. Product Backlog. 
 Definición y prototipos navegables que demuestran la funcionalidad de las User Stories implementadas.
 
+Se incluye para tener una visión global, la vista de Story Map con todas las User Story por iteración.
+
+![Story map](img/StoryMap.png)
+
 Las mismas podemos apreciarlas en los MVPs de las iteraciones:
 - [Iteración 2](iteraciones/iteración2/Iteracion2-MVPconPrototipos.md#user-stories-incluidas-en-el-sprint)
 - [Iteración 3](iteraciones/iteración3/Iteracion3-MVPconPrototipos.md#user-stories-incluidas-en-el-sprint)
