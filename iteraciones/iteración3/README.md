@@ -17,7 +17,7 @@ _[Definición del marco de trabajo SCRUM con los acuerdos principales del equipo
 
 Se define el marco de trabajo a utilizar, asi como las adaptaciones al contexto del proyecto. Ver el siguiente enlace.
 
-[Marco de trabajo y adaptaciones](MarcoDeTrabajoYAdaptaciones.md)
+[Marco de trabajo y adaptaciones](../MarcoDeTrabajoYAdaptaciones.md)
 
 ### Calendario de eventos y adaptación
 

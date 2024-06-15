@@ -21,7 +21,7 @@ Este proyecto entonces cubre solamente lo que sería el Ciclo de Discovery en lo
 
 Para mayor referencia se incluye el siguiente diagrama
 
-![dual track scrum](img/dual-track-scrum.png)
+![dual track scrum](img/proceso/dual-track-scrum.png)
 
 ### Sprints
 

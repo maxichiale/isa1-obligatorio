@@ -136,22 +136,23 @@ Por otro lado, otro aspecto en el que se mejoró considerablemente fue en el tra
 
 ## Prototipos con posibles soluciones
 
+_[Existen diferentes propuestas de solución para entregar valor y resolver el problema identificado implementado a través de prototipos. Los prototipos deberán ser exportados en algún formato de imagen (como png o jpg) a efectos de poder ser visualizados fácilmente dentro del propio repo de github.]_
+
 ### Artefactos principales
 
-- Prototipos interactivos para ser navegados.
-[Framer](https://framer.com/projects/ISA1-Grupo2--FG5QPtFysJqFRPHoCGpA-4XUYI?node=t5V1sOLQ7)
-
-- Prototipos asociados como bocetos a las historias de usuario.
+- Prototipos interactivos para ser navegados. ([link](Iteracion2-MVPconPrototipos.md#prototipo-navegable))
+- Prototipos asociados como bocetos a las historias de usuario. ([link](Iteracion2-MVPconPrototipos.md#user-stories-incluidas-en-el-sprint))
 
 ## Inspección y adaptación del producto
 
-- Se incluye evidencia de la revisión realizada en el siguiente enlace:
-[Sprint Review](Sprint-Review.md)
+_[Existe evidencia de instancias de inspección y validación del producto con usuarios y la recolección de su feedback con ajustes finales a los prototipos.]_
 
 ### Artefactos principales
 
-- Se incluyen resultados del Sprint Review en el siguiente enlace:
-[Sprint Review](Sprint-Review.md)
+- Minutas de sprint review.
+- Evidencia de los usability testing con usuarios finales.
+  - Descripción de las tareas propuestas a los usuarios finales.
+  - Cobertura obtenida de validación de los usuarios de la aplicación.
 
-- Se incluyen resultados del Sprint Retrospective en el siguiente enlace:
-[Sprint Retrospective](Sprint-Retrospective.md) 
+Se incluyen estos datos en el siguiente enlace:
+[Sprint Review](Sprint-Review.md)
