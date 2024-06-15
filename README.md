@@ -40,10 +40,10 @@ El esfuerzo esperado del equipo durante el proyecto es: 5 horas-persona / semana
 
 Las siguientes carpetas deberán tener la entrega de cada iteración siguiendo la rúbrica propuesta en la letra del obligatorio y cada README:
 
-- [Iteración 1](./iteración-1/README.md)
-- [Iteración 2](./iteración-2/README.md)
-- [Iteración 3](./iteración-3/README.md)
-- [Iteración 4](./iteración-4/README.md)
+- [Iteración 1](./iteraciones/iteración-1/README.md)
+- [Iteración 2](./iteraciones/iteración-2/README.md)
+- [Iteración 3](./iteraciones/iteración-3/README.md)
+- [Iteración 4](./iteraciones/iteración-4/README.md)
 
 # Mejoras y ajustes principales a los entregables de cada iteración
 

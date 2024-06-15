@@ -43,33 +43,39 @@ Se detallan a continuación, los roles y las responsabilidades en el marco de Sc
 
 _[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener las historias de usuario priorizadas y las tareas planificadas basadas en la capacidad y velocidad disponible del equipo.]_
 
+[Sprint planning](Iteracion4-Sprint-Planning.md#Agenda)
+
 ### Artefactos principales
 
-- Minuta de la sprint planning con su agenda, actividades y resultados.
-- Objetivos de la iteración.
-- Sprint backlog con historias de usuarios y tareas asociadas.
-- Planificación de acuerdo a la capacidad del equipo.
-- Técnicas de priorización y estimación utilizadas.
-- Uso de métricas relevantes para la planificación como la velocidad y productividad.
+- Minuta de la sprint planning con su agenda, actividades y resultados. ([link](Iteracion4-Sprint-Planning.md#Agenda))
+- Objetivos de la iteración. ([link](Iteracion4-Sprint-Planning.md#Objetivos-de-la-iteración))
+- Sprint backlog con historias de usuarios y tareas asociadas.([link](Iteracion4-Sprint-Planning.md#Sprint-backlog-final))
+- Planificación de acuerdo a la capacidad del equipo. ([link](Iteracion4-Sprint-Planning.md#Capacidad-del-equipo))
+- Técnicas de priorización y estimación utilizadas. ([link](Iteracion4-Sprint-Planning.md#User-Stories-seleccionadas-para-incluir-en-el-Sprint))
+- Uso de métricas relevantes para la planificación como la velocidad y productividad. ([link](Iteracion4-Sprint-Planning.md#Velocity-de-sprints-anteriores))
 
 ## Seguimiento de la iteración
 
 _[Existe evidencia sobre el registro de actividades y horas de cada integrante del equipo con el seguimiento general de cada iteración del proyecto sobre lo planificado inicialmente.]_
 
+[Daily Scrum y Seguimiento](Iteracion4-Daily-Scrum.md)
+
 ### Artefactos principales
 
-- Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
+- Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo. ([link](Iteracion4-Daily-Scrum.md#minuta-de-cada-daily-scrum))
   - ¿Que logramos hacer?
   - ¿Qué planificamos hacer?
   - ¿Qué impedimentos tenemos?
-- Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
-- Seguimiento visual de la iteración con burndown y/o burnup charts.
+- Registro y reporte de horas de cada integrante del equipo con sus actividades principales. ([link](Iteracion4-Daily-Scrum.md#dedicacion-horaria))
+- Seguimiento visual de la iteración con burndown y/o burnup charts. ([link](Iteracion4-Daily-Scrum.md#burndown-chart))
 
 ## Inspección y adaptación del proceso
 
 _[Existe evidencia sobre la inspección del proceso con aprendizajes principales y acciones de mejora implementadas durante el desarrollo del proyecto.]_
 
 ### Artefactos principales
+
+[Sprint Retrospective](Iteracion4-Sprint-Retrospective.md)
 
 - Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
 - Planificación y seguimiento de las acciones de mejora.
@@ -82,7 +88,10 @@ _[Se evidencian los prototipos finales con las validaciones de los usuarios. Los
 
 ### Artefactos principales
 
-- Prototipos interactivos finales con el feedback de las validaciones.
-- Prototipos asociados como bocetos a las historias de usuario.
-- Lista de mejoras sugeridas de las validaciones con usuarios finales.
-  - Se explicita que mejoras fueron implementadas en los prototipos y cuales quedaron fuera del alcance del proyecto.
+- Prototipos interactivos finales con el feedback de las validaciones. 
+  - [Prototipos interactivos](Iteracion4-MVPconPrototipos.md#Prototipo-navegable)
+  - [Feedback de las validaciones](./Iteracion4/Iteracion4-Sprint-Review.md#pruebas-con-usuarios-finales) 
+- Prototipos asociados como bocetos a las historias de usuario. ([link](Iteracion4-MVPconPrototipos.md#User-stories-incluidas-en-el-Sprint))
+- Lista de mejoras sugeridas de las validaciones con usuarios finales. ([link](MejorasSugeridasPorUsuarios.md))
+  - Que mejoras fueron implementadas en los prototipos. ([link](MejorasSugeridasPorUsuarios.md#mejoras-si-implementadas))
+  - Cuales quedaron fuera del alcance del proyecto. ([link](MejorasSugeridasPorUsuarios.md#mejoras-no-implementadas))

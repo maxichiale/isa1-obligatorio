@@ -48,6 +48,10 @@ Se redujo de 4 a 2 semanas la duración de los Sprints debido al calendario prop
 
 Si bien en cada Sprint posterior al inicial se hicieron avances en el producto, solo se relaizó un release al final, por lo que dado que había funcionalidades bastante fijas dadas por letra, y una fecha final fija por calendario ORT, la planificación realizada fué mas bien **Date Driven**, priorizando las épicas solicitadas por letra para cumplir el mínimo requerido y luego las que aportaran mayor valor a los usuarios, dejando otras por el camino que no se llegaron a implementar.
 
+#### Roles multifunción
+
+En nuestro caso, los roles de Product Owner y Scrum Master, también participan del desarrollo, aunque en menor medida. Por esto también se da la particularidad de que el Product Owner esta presente en todas las ceremonias, inclusive en las Daily Scrum lo que permite un feedback mas temprano, y si es necesario tomar decisiones de priorización poder hacerlo en ese mismo momento.
+
 #### Distribución de la carga de trabajo
 
 Se estableció una carga de trabajo, no constante a lo largo del proyecto, porque al hacer la planificación inicial el equipo identificó que no se iba a poder contar con una capacidad constante en el tiempo dado que hay entregas y otros eventos externos que afectan la disponibilidad de tiempo de los integrantes del equipo. En base a eso se definió planificar una capacidad mayor en las etapas iniciales, para luego ir descendiendo la misma en las etapas finales, de forma de poder mantener un promedio que nos permita cumplir los objetivos. El mismo principio se utilizó al planificar los Sprints, en base a los objetivos del mismo, establecimos prioridades semanales claras para asegurar la finalización de tareas críticas, de manera que no nos quede mucha carga de trabajo acumulada para el final del Sprint.
@@ -111,9 +115,12 @@ la aplicación, algunas de ellas no llegaron a implementarse o fueron descartada
 Definición y prototipos navegables que demuestran la funcionalidad de las User Stories implementadas.
 
 Traer casos de uso para aca   ######### COMPLETAR ##################
-##
 
-#### 6.2. User stories NO implementadas
+#### 6.2. User stories SI implementadas a raiz de sugerencias de usuarios
+
+######### COMPLETAR ##################
+
+#### 6.3. User stories NO implementadas
 
 A continuación, mostraremos en detalle las principales funcionalidades que fueron descartadas, junto con su historia de usuario asociada y una breve justificación de por qué no se implementaron.
 
