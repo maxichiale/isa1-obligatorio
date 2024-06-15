@@ -179,13 +179,13 @@ Los puntos a mejorar fueron:
 - **Confusión en roles y responsabilidades**: Hubo incertidumbre sobre las responsabilidades específicas de cada rol dentro del equipo SCRUM.
 
 #### Las acciones de mejora principales fueron:
+
 - **Pair Programming**:  Implementamos sesiones de programación en pareja para abordar tareas complejas de manera más eficiente y mejorar la calidad de los resultados.
 - **Herramientas de Comunicación Instantánea**: Utilizamos WhatsApp para mantener un canal abierto y constante de comunicación. Esto permitió resolver dudas rápidas y mantener a todos informados sobre el progreso y los problemas en tiempo real.
 - **Tablero Virtual de Tareas (Azure Boards)**: Azure Boards nos ayudo mucho en este punto para la gestión visual de tareas, facilitando que todos los miembros del equipo vieran el estado actual de las tareas y los avances en tiempo real.
 - **Priorización Semanal**: Establecimos prioridades semanales claras para asegurar la finalización de tareas críticas y evitar la acumulación de trabajo al final del sprint.
 - **Agregar más días de reuniones y trabajo colaborativo**: Inicialmente, solo teníamos reuniones diarias los viernes y los sábados (día de la entrega), lo que aumentaba la carga de trabajo en esos dos días y reducía los resultados obtenidos. Esto ocurría porque, antes del viernes, había tareas que no se habían identificado o realizado correctamente, lo que provocaba un retraso continuo en el planificado para esos dos días.
   Por esta razón, decidimos agregar una reunión diaria los martes (de corta duración) para coordinar y mejorar la comunicación antes del tiempo límite de la iteración.
-
 - **Mentoría Continua**: Los miembros con experiencia en SCRUM proporcionaron mentoría y apoyo continuo, ayudando a resolver dudas y guiar en la correcta aplicación de las prácticas.
   Algunos desarrolladores se adaptaron rápidamente al uso de Framer, destacándose por su habilidad para dominar la herramienta. Estos miembros no solo trabajaron con mayor eficacia, sino que también proporcionaron un valioso apoyo al resto del equipo, facilitando el uso de Framer y compartiendo sus conocimientos para mejorar la productividad general.
 
@@ -202,7 +202,6 @@ A continuación, se amplía la discusión sobre las principales lecciones aprend
 Las lecciones aprendidas durante el proyecto fueron fundamentales para el éxito del mismo. La colaboración, la flexibilidad, la inspección y mejora continua, así como la implementación efectiva de acciones de mejora, son aspectos clave que el equipo pudo aplicar y que serán valiosos para futuros proyectos de ingeniería de software ágil. Estas lecciones no solo impactaron en el desarrollo del producto, sino que también en el crecimiento y la mejora del equipo en su conjunto, fortaleciendo su capacidad para enfrentar desafíos y alcanzar objetivos de manera eficiente y efectiva en entornos ágiles de desarrollo de software.
 
 Además, este proyecto nos permitió comprender las responsabilidades de cada rol y la importancia de cada artefacto, lo que nos facilita llevar estos conocimientos a nuestro trabajo y aplicarlos para mejorar nuestras prácticas. 
-
 
 
 ## Conclusión

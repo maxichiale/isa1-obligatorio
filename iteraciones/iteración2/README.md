@@ -33,6 +33,7 @@ Se detallan a continuación, los roles y las responsabilidades en el marco de Sc
 
 ### Artefactos principales
 
+- Justificación de las adaptaciones principales del marco de trabajo al contexto del proyecto. ([link](../MarcoDeTrabajoYAdaptaciones.md))
 - Definición del calendario de eventos con justificación de su adaptación al contexto de la iteración. ([link](../CalendarioDeEventos.md))
 - Roles y responsabilidades definidos para cada integrante del equipo. ([link](../RolesYResponsabilidades.md))
 - Políticas de trabajo del equipo ([link](../MarcoDeTrabajoYAdaptaciones.md)):

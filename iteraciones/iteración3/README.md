@@ -23,22 +23,22 @@ Se define el marco de trabajo a utilizar, asi como las adaptaciones al contexto 
 
 Se define el calendario de eventos correspondientes al marco de trabajo, su adaptación al proyecto, asi como su justificación.
 
-[Calendario de eventos](CalendarioDeEventos.md)
+[Calendario de eventos](../CalendarioDeEventos.md)
 
 ### Descripción de los roles y responsabilidades
 
 Se detallan a continuación, los roles y las responsabilidades en el marco de Scrum, los acuerdos y adaptaciones al proyecto. También los integrantes del equipo de proyecto, y su asignación a dichos roles.
 
-[Definición de roles y responsabilidades](RolesYResponsabilidades.md)
+[Definición de roles y responsabilidades](../RolesYResponsabilidades.md)
 
 ### Artefactos principales
 
-- Justificación de las adaptaciones principales del marco de trabajo al contexto del proyecto. ([link](MarcoDeTrabajoYAdaptaciones.md))
+- Justificación de las adaptaciones principales del marco de trabajo al contexto del proyecto. ([link](../MarcoDeTrabajoYAdaptaciones.md))
 - Definición del calendario de eventos con justificación de su adaptación al contexto de la iteración. ([link](CalendarioDeEventos.md))
-- Roles y responsabilidades definidos para cada integrante del equipo. ([link](RolesYResponsabilidades.md))
-- Políticas de trabajo del equipo ([link](MarcoDeTrabajoYAdaptaciones.md)):
-  - Definition of Done. ([link](MarcoDeTrabajoYAdaptaciones.md#Definition-of-Done))
-  - Definition of Ready. ([link](MarcoDeTrabajoYAdaptaciones.md#Definition-of-Ready))
+- Roles y responsabilidades definidos para cada integrante del equipo. ([link](../RolesYResponsabilidades.md))
+- Políticas de trabajo del equipo ([link](../MarcoDeTrabajoYAdaptaciones.md)):
+  - Definition of Done. ([link](../MarcoDeTrabajoYAdaptaciones.md#Definition-of-Done))
+  - Definition of Ready. ([link](../MarcoDeTrabajoYAdaptaciones.md#Definition-of-Ready))
 
 
 ## Planificación de la iteración
@@ -47,12 +47,12 @@ _[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener la
 
 ### Artefactos principales
 
-- Minuta de la sprint planning con su agenda, actividades y resultados. ([link](Iteracion3-Sprint-Planning.md#Agenda))
-- Objetivos de la iteración. ([link](Iteracion3-Sprint-Planning.md#Objetivos-de-la-iteración))
-- Sprint backlog con historias de usuarios y tareas asociadas.([link](Iteracion3-Sprint-Planning.md#Sprint-backlog-final))
-- Planificación de acuerdo a la capacidad del equipo. ([link](Iteracion3-Sprint-Planning.md#Capacidad-del-equipo))
-- Técnicas de priorización y estimación utilizadas. ([link](Iteracion3-Sprint-Planning.md#User-Stories-seleccionadas-para-incluir-en-el-Sprint))
-- Uso de métricas relevantes para la planificación como la velocidad y productividad. ([link](Iteracion3-Sprint-Planning.md#Velocity-de-sprints-anteriores))
+- Minuta de la sprint planning con su agenda, actividades y resultados. ([link](Iteracion3-Sprint-Planning.md#agenda))
+- Objetivos de la iteración. ([link](Iteracion3-Sprint-Planning.md#objetivos-de-la-iteración))
+- Sprint backlog con historias de usuarios y tareas asociadas.([link](Iteracion3-Sprint-Planning.md#sprint-backlog-final))
+- Planificación de acuerdo a la capacidad del equipo. ([link](Iteracion3-Sprint-Planning.md#capacidad-del-equipo))
+- Técnicas de priorización y estimación utilizadas. ([link](Iteracion3-Sprint-Planning.md#user-stories-seleccionadas-para-incluir-en-el-sprint))
+- Uso de métricas relevantes para la planificación como la velocidad y productividad. ([link](Iteracion3-Sprint-Planning.md#velocity-de-sprints-anteriores))
 
 ## Seguimiento de la iteración
 
