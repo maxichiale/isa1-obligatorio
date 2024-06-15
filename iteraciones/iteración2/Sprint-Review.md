@@ -29,8 +29,8 @@
 
 **Feedback sobre el backlog construido**
 
-- Se entiende que el comportamiento especificado fué alcanzado.
-- En los prototipos de Framer, se fué un poco mas allá de lo indicado en la User Story. Eso es bueno, pero habrá que validarlo con usuarios, si lo adicionado es lo deseado.
+- Se entiende que el comportamiento especificado fué alcanzado y que el Definition of Done fue cumplido.
+- En los prototipos de Framer, se fué un poco mas allá de lo indicado en la User Story. Eso es bueno, pero habrá que validarlo con usuarios.
 
 
 **Feedback sobre el proceso llevado a acabo**

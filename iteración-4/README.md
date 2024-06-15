@@ -36,23 +36,23 @@ Se detallan a continuación, los roles y las responsabilidades en el marco de Sc
 - Definición del calendario de eventos con justificación de su adaptación al contexto de la iteración. ([link](CalendarioDeEventos.md))
 - Roles y responsabilidades definidos para cada integrante del equipo. ([link](RolesYResponsabilidades.md))
 - Políticas de trabajo del equipo ([link](MarcoDeTrabajoYAdaptaciones.md)):
-  - Definition of Done. ([link](MarcoDeTrabajoYAdaptaciones.md#Definition-of-Done))
-  - Definition of Ready. ([link](MarcoDeTrabajoYAdaptaciones.md#Definition-of-Ready))
+  - Definition of Done. ([link](MarcoDeTrabajoYAdaptaciones.md#definition-of-done))
+  - Definition of Ready. ([link](MarcoDeTrabajoYAdaptaciones.md#definition-of-ready))
 
 ## Planificación de la iteración
 
 _[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener las historias de usuario priorizadas y las tareas planificadas basadas en la capacidad y velocidad disponible del equipo.]_
 
-[Sprint planning](Iteracion4-Sprint-Planning.md#Agenda)
+[Sprint planning](Iteracion4-Sprint-Planning.md)
 
 ### Artefactos principales
 
 - Minuta de la sprint planning con su agenda, actividades y resultados. ([link](Iteracion4-Sprint-Planning.md#Agenda))
-- Objetivos de la iteración. ([link](Iteracion4-Sprint-Planning.md#Objetivos-de-la-iteración))
-- Sprint backlog con historias de usuarios y tareas asociadas.([link](Iteracion4-Sprint-Planning.md#Sprint-backlog-final))
-- Planificación de acuerdo a la capacidad del equipo. ([link](Iteracion4-Sprint-Planning.md#Capacidad-del-equipo))
-- Técnicas de priorización y estimación utilizadas. ([link](Iteracion4-Sprint-Planning.md#User-Stories-seleccionadas-para-incluir-en-el-Sprint))
-- Uso de métricas relevantes para la planificación como la velocidad y productividad. ([link](Iteracion4-Sprint-Planning.md#Velocity-de-sprints-anteriores))
+- Objetivos de la iteración. ([link](Iteracion4-Sprint-Planning.md#objetivos-de-la-iteración))
+- Sprint backlog con historias de usuarios y tareas asociadas.([link](Iteracion4-Sprint-Planning.md#sprint-backlog-final))
+- Planificación de acuerdo a la capacidad del equipo. ([link](Iteracion4-Sprint-Planning.md#capacidad-del-equipo))
+- Técnicas de priorización y estimación utilizadas. ([link](Iteracion4-Sprint-Planning.md#user-stories-seleccionadas-para-incluir-en-el-sprint))
+- Uso de métricas relevantes para la planificación como la velocidad y productividad. ([link](Iteracion4-Sprint-Planning.md#velocity-de-sprints-anteriores))
 
 ## Seguimiento de la iteración
 
@@ -89,9 +89,9 @@ _[Se evidencian los prototipos finales con las validaciones de los usuarios. Los
 ### Artefactos principales
 
 - Prototipos interactivos finales con el feedback de las validaciones. 
-  - [Prototipos interactivos](Iteracion4-MVPconPrototipos.md#Prototipo-navegable)
-  - [Feedback de las validaciones](./Iteracion4/Iteracion4-Sprint-Review.md#pruebas-con-usuarios-finales) 
-- Prototipos asociados como bocetos a las historias de usuario. ([link](Iteracion4-MVPconPrototipos.md#User-stories-incluidas-en-el-Sprint))
+  - [Prototipos interactivos](Iteracion4-MVPconPrototipos.md#prototipo-navegable)
+  - [Feedback de las validaciones](Iteracion4-Sprint-Review.md#pruebas-con-usuarios-finales) 
+- Prototipos asociados como bocetos a las historias de usuario. ([link](Iteracion4-MVPconPrototipos.md#user-stories-con-bocetos-incluidas-en-el-sprint))
 - Lista de mejoras sugeridas de las validaciones con usuarios finales. ([link](MejorasSugeridasPorUsuarios.md))
   - Que mejoras fueron implementadas en los prototipos. ([link](MejorasSugeridasPorUsuarios.md#mejoras-si-implementadas))
   - Cuales quedaron fuera del alcance del proyecto. ([link](MejorasSugeridasPorUsuarios.md#mejoras-no-implementadas))

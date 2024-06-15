@@ -40,21 +40,21 @@ El esfuerzo esperado del equipo durante el proyecto es: 5 horas-persona / semana
 
 Las siguientes carpetas deberán tener la entrega de cada iteración siguiendo la rúbrica propuesta en la letra del obligatorio y cada README:
 
-- [Iteración 1](./iteraciones/iteración-1/README.md)
-- [Iteración 2](./iteraciones/iteración-2/README.md)
-- [Iteración 3](./iteraciones/iteración-3/README.md)
-- [Iteración 4](./iteraciones/iteración-4/README.md)
+- [Iteración 1](./iteraciones/iteración1/README.md)
+- [Iteración 2](./iteraciones/iteración2/README.md)
+- [Iteración 3](./iteraciones/iteración3/README.md)
+- [Iteración 4](./iteraciones/iteración4/README.md)
 
 # Mejoras y ajustes principales a los entregables de cada iteración
 
 _[Con el desarrollo del proyecto se pueden ir encontrando mejoras a los entregables ya realizados de cada iteración. Enumerar en esta sección las principales mejoras realizadas posterior a cada entrega. Esto puede incluir la implementación de las sugerencias realizadas por los docentes durante el proyecto.]_
 
-## Sprint 3
-Se aplicaron todas las mejoras en la documentacion del Sprint 3 en base a correccion recibida.
-Entendemos no se puede alterar la documentacion ya entregada.
+### Sprint 3
+Se aplicaron todas las mejoras en la documentacion del Sprint 3 en base a corrección y feedback docente recibido para el Sprint 2.
+Entendemos no se puede alterar la documentacion ya entregada de las iteraciones anteriores.
 
-## Sprint 4
-Agregamos capturas con todas las historias que se desarrollo en cada sprint correspondiente con su descripcion, criterios de aceptación e imagenes del prototipo. 
+### Sprint 4
+Agregamos capturas con todas las historias que se desarrollaron en cada sprint correspondiente con su descripcion, criterios de aceptación e imagenes del prototipo. 
 
 # Reflexiones y aprendizajes finales de los resultados del proyecto
 
@@ -62,10 +62,12 @@ Agregamos capturas con todas las historias que se desarrollo en cada sprint corr
 
 _[Existe la elaboración de un informe académico que resume los resultados y reflexiona sobre las lecciones aprendidas sobre las prácticas de ingeniería de software ágil. El informe académico deberá ser implementado como un archivo de markdown en el propio repositorio de github.]_
 
+[Informe académico](InformeAcademico.md)
+
 ### Artefactos principales
 
-- Informe académico resumiendo resultados principales del proyecto.
-- Reflexiones y aprendizajes del proyecto.
+- Informe académico resumiendo resultados principales del proyecto. ([link](InformeAcademico.md))
+- Reflexiones y aprendizajes del proyecto. ([link](InformeAcademico.md#lecciones-aprendidas))
 
 ## Video demo
 

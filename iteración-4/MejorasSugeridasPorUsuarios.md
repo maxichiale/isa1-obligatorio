@@ -101,7 +101,7 @@ El resultado de estas pruebas fue altamente satisfactorio. La gran mayoría de l
 
 
 
-## Mejoras NO implementadas
+## Mejoras NO implementadas (quedaron fuera del alcance del proyecto)
 
 A continuación, mostraremos en detalle las principales funcionalidades que fueron descartadas, junto con su historia de usuario asociada y una breve justificación de por qué no se implementaron.
 

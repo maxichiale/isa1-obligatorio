@@ -163,7 +163,7 @@ Otra funcionalidad no agregada fue la de tener pencas pagas, en las que se deber
 
 Durante el desarrollo del proyecto de aplicación de pencas deportivas utilizando prácticas de ingeniería de software ágil, se obtuvieron importantes lecciones que impactaron positivamente en el rendimiento del equipo y en la calidad del producto final. Estas lecciones aprendidas no solo fueron aplicables al contexto específico del proyecto, sino que también son transferibles a futuros proyectos de ingeniería de software ágil. 
 
-## Lecciones Aprendidas
+## Reflecciones y Lecciones Aprendidas
 Punto 1 a 4 repetido ???
 
 A continuación, se amplía la discusión sobre las principales lecciones aprendidas:
