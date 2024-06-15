@@ -21,38 +21,75 @@ Sin duda, aprendimos cómo debería funcionar SCRUM a través de un proceso que 
 ### 3. Inspección y Adaptación del Proceso
 Cada iteración incluyó los siguientes mecanismos de inspección y adaptación:
 - **Retrospectivas**: Al final de cada iteración, realizamos retrospectivas para identificar lo que funcionó, lo que debía mejorarse y lo que debíamos seguir haciendo. Esto nos permitió obtener feedback directo del equipo y ajustar nuestras prácticas de inmediato.
-- **Feedback Continuo**: Una vez que se empezó a entregar incrementos, recopilamos feedback sobre los incrementos o avances realizados en cada Sprint a través de:
-  - Encuestas breves
-  - Demostraciones y enetrevistas en video/audio
-  - Reuniones de revisión semanales
+- **Feedback Continuo**: Por parte de los miembros del equipo durante las ceremonias, o en cualquier otra comunicación informal.
 
   Los resultados se discutieron y se tomaron acciones a partir de ellos, ya sea para la mejora del proceso ágil como para la mejora del producto.
 
 ### 4. Adaptaciones al Marco de Trabajo SCRUM
 Dado el contexto particular de nuestro proyecto, donde el objetivo era aprender prácticas de gestión ágil y dado que el equipo tenía con fuerte limitante de horas libres para participar activamente, y que la duración total del proyecto debeía ajustarse al calednario del semestre, realizamos las siguientes adaptaciones al marco SCRUM:
 
-- **Reuniones Asincrónicas y Sincrónicas**: A través de un grupo de Whatsapp estuvimos en permanente contacto por dudas, sobre lo que se debía hacer y los avances realizados.
+#### Marco SCRUM
 
-- **Priorización Semanal**: Establecimos prioridades semanales claras para asegurar la finalización de tareas críticas, de manera que no nos quede mucha carga de trabajo acumulada para el final del Sprint.
+Este proyecto entonces cubre solamente lo que sería el Ciclo de Discovery en lo que seria **Dual Track SCRUM** de un proyecto completo produciendo como resultado un prototipo con User Stories validadas por usuarios. Por lo que aplicamos SCRUM a este ciclo, simulando que el Ciclo de Discovery es el Ciclo de Delivery, y esto implica que tenemos que traducir los elementos de uno a otro. Por ejemplo:
+  - Cuando hablamos de producto e incrementos, en vez de estar entregando un producto funcional listo para ser usado por los usuarios, los incrementos son prototipos de funcionalidades que son una aproximación a lo que seria el producto final.
+  - El backlog de ideas propias y surgidas del relevamiento con usuarios, será nuestro Product backlog
+  - Los incrementos serán validados por el Prodct Owner y algunos usuarios que propusieron ideas, en lugar de que usuarios reales utilicen un produco real.
+  - El equipo de desarrollo en lugar de estar codificando estará diseñando los prototipos como si fueran diseñadores.
 
-- **Tablero Virtual de Tareas**: Utilizamos Azure para la gestión visual de tareas en su Board, utilizando los Items New, Active, Resolve, Close. De esta manera mejoramos la comunicación y colaboración del equipo, priorizando y gestionando mejor las tareas asignadas.
+Para mayor referencia se incluye el siguiente diagrama
 
-- **Pair Programming**: Cuando un integrante del equipo tenía una tarea compleja, solicitaba al Scrum Master apoyo para resolver la misma de manera conjunta y así mejorar la calidad (visual) y unificación de los Frames.
+![dual track scrum](img/dual-track-scrum.png)
 
-- **Duración de los Sprint**: Se redujo de 4 a 2 semanas, con excepción del primer Sprint. Esto es debido al calendario del semestre, para poder tener mayor cantidad de Sprints, y por ende, más feedback para hacer ajustes.
+#### Sprints
 
-- **Tipo de producto**: En vez de estar entregando un producto funcional, las entregas son de prototipos únicamente.
+Se redujo de 4 a 2 semanas la duración de los Sprints debido al calendario propuesto por letra (requerimiento), y también para poder tener mayor cantidad de Sprints, y por ende, más feedback para hacer ajustes. También utilizamos un sprint "0" o inicial dedicado a realizar tareas de Discovery de ideas, relevamiento, y arquitectura del producto a desarrollar. Esto se hizo asi porque no teniamos claro un alcance concreto dado, sino que debiamos determinarlo en base a posibles usuarios del producto.
 
-- **Frecuencia de Daily Scrums**: Debido a la disponibilidad horaria de los integrantes del grupo, las Daily Scrums no son realizadas todos los días, en vez de ello, se hacen 3 veces a la semana.
+#### Planificación y Release
 
-- **Virtualizacion de eventos y artefactos de comunicación**: Dada la dispersión de los integrantes del equipo, y la dificultad de coincidir en un mismo lugar se decidió que todas las ceremonias de SCRUM se realizarán en forma virtual, salvo algunas revisiones con stakeholders puntuales. Por otra parte se utilizarón las herramientas como Azure, MetroRetro, Planning Poker y Git entre otras, para generar los tableros y otros elementos que facilitan la comunicación con el equipo.
+Si bien en cada Sprint posterior al inicial se hicieron avances en el producto, solo se relaizó un release al final, por lo que dado que había funcionalidades bastante fijas dadas por letra, y una fecha final fija por calendario ORT, la planificación realizada fué mas bien **Date Driven**, priorizando las épicas solicitadas por letra para cumplir el mínimo requerido y luego las que aportaran mayor valor a los usuarios, dejando otras por el camino que no se llegaron a implementar.
 
-- **Canales de comunicación**: Si bien SCRUM propone determinados eventos en forma regular, y dado que las ceremonias se realizarían en forma virtual, perdiendo parte del contacto cercano, y que uno de los principios del manifiesto ágil es favorecer la comunicación sobre la documentación, se decidió sacar el mayor provecho posible de las citas virtuales, aumentando su duración, para tener tiempo de trabajar en conjunto y solucionar temas que requieran cierta coordinación. 
+#### Distribución de la carga de trabajo
 
-- **Duracion de Citas para Daily Scrums**: En vez de duraciones del entorno de 15 minutos las citas fueron considerablemente mas largas, porque se aprovechaba el tiempo luego de la daily para trbajar en conjunto con todos los participantes.
+Se estableció una carga de trabajo, no constante a lo largo del proyecto, porque al hacer la planificación inicial el equipo identificó que no se iba a poder contar con una capacidad constante en el tiempo dado que hay entregas y otros eventos externos que afectan la disponibilidad de tiempo de los integrantes del equipo. En base a eso se definió planificar una capacidad mayor en las etapas iniciales, para luego ir descendiendo la misma en las etapas finales, de forma de poder mantener un promedio que nos permita cumplir los objetivos. El mismo principio se utilizó al planificar los Sprints, en base a los objetivos del mismo, establecimos prioridades semanales claras para asegurar la finalización de tareas críticas, de manera que no nos quede mucha carga de trabajo acumulada para el final del Sprint.
 
-### 5. Resultados Obtenidos
-Durante la ejecución del proyecto, se implementaron diversas prácticas ágiles dentro del marco SCRUM como ser: las reuniones de Grooming, Sprint Planning, Daily Scrum, Sprint Retro, entre otras. Se destacan los siguientes resultados principales:
+#### Virtualizacion de eventos
+
+Dada la dispersión de los integrantes del equipo, y la dificultad de coincidir en un mismo lugar se decidió que todas las ceremonias de SCRUM se realizarán en forma virtual, salvo algunas revisiones con stakeholders puntuales.
+
+#### Virtualizacion de artefactos de comunicación
+
+Dado la misma imposibilidad de tener reunido el equipo físicamente en un lugar como para tener espacios colaborativos e irradiadores de información físicos, utilizamos Azure DevOps para la gestión visual de algunos artefactos como ser el Product Backlog, Sprint Backlog, Burndown y Velocity charts, y Taskboards. De esta manera mejoramos la comunicación y colaboración del equipo, priorizando y gestionando mejor las tareas asignadas. 
+
+  También utilizamos Framer para la gestión del entregable, lo que facilita el acceso simultaneo para poder trabajar en la elaboración del mismo.
+
+  Otras herramientas como MetroRetro, Planning Poker entre otras, se utilizaron como irradiadores de información que facilitan la comunicación con el equipo.
+
+  Además se incorporó un grupo de Whatsapp para poder agilizar la comunicación y estar en permanente contacto y por ejemplo resolver dudas, plantear dificulades, ajustar prioridades, reportar avances, etc.
+
+#### Frecuencia de Daily Scrums
+
+Debido a la disponibilidad horaria de los integrantes del grupo, las Daily Scrums no son realizadas todos los días, en vez de ello, se hacen 3 veces a la semana, y se acepta que puedan tener hasta 30 minutos de duracion.
+
+
+#### Duracion de Citas para ceremonias Scrum
+
+Las citas fueron considerablemente mas larga que lo propuesto por SCRUM ya que por ejemplo se anexó tiempo para trabajo en conjunto luego de los 15 minutos aprox de duracion de la daily, algo similar con las demas. Esto para facilitar tareas de coordinacion entre las tareas que vienen realizando distintos integrantes que tienen cierta relación, solucionar bloqueos o dudas que algun miembro del equipo haya manifestado en la daily o la ceremonia que se haya realizao, o hacer cualquier ajuste que ayude a lograr el objetivo del Sprint.
+
+#### Definición de User Stories
+
+Se utilizó la técnica de **Card-Conversation-Confirmation** para la definición de las mismas, y BDD utilizando la sintaxis **Dado-Cuando-Entonces** para escribir los diferentes escenarios de los criterios de aceptación. Ser requirió que todas las User Stories cumplieran el criterio de **Definition of Ready** antes de su implementación, y cumplir con cada uno de los escenarios en **BDD** de los criterios de aceptación para alcanzar el **Definition of Done** para poder darla por finalizada.
+
+#### "Pair Programming"
+
+Se hizo bastante uso de esta técnica dado que no teníamos mucho tiempo para hacer verificaciones, y ciclos de prueba y correcciones, precisábamos que lo que se entregara tuviera la mejor calidad posible y fuera correcto. Cuando un integrante del equipo tenía una tarea compleja, solicitaba al Scrum Master apoyo y este buscaba quien podría ayudar o el mismo lo hacía, para resolver el tema de manera conjunta. Esto es algo que no propone SCRUM pero que al equipo la resultó bueno agregar a las tareas que el Scrum Master y equipo de desarrollo normalmente si hace comom parte de SCRUM de ayudar a desbloquear las tareas que no logran avanzar.
+
+#### Reviews
+
+Dado que no se tenía un producto utilizable en forma autónoma por los usuarios, se hicieron sesiones de demostración con usuarios, sobre las que se pidió feedback mediante cuestionarios.
+También se hicieron videos demostrativos de cada funcionalidad entregada, para utilizar cuando no se podía agendar un encuentro.
+Además en las Sprint Reviews se analizo todo este material junto con la revisión del propio Product Owner.
+
+### 5. Algunos resultado obtenidos
 
 1.	Aumento de la Velocidad del Equipo: Se observó un incremento significativo en la velocidad del equipo.
 
@@ -68,6 +105,15 @@ Finalmente, en la satisfacción del equipo es el caso más claro, debido a que a
 También logramos la correcta identificación y priorización de las funcionalidades que generaban valor para 
 la aplicación, algunas de ellas no llegaron a implementarse o fueron descartadas desde el inicio.
 
+### 6. Principales artefactos obtenidos
+
+#### 6.1. Product Backlog. 
+Definición y prototipos navegables que demuestran la funcionalidad de las User Stories implementadas.
+
+Traer casos de uso para aca   ######### COMPLETAR ##################
+##
+
+#### 6.2. User stories NO implementadas
 
 A continuación, mostraremos en detalle las principales funcionalidades que fueron descartadas, junto con su historia de usuario asociada y una breve justificación de por qué no se implementaron.
 
@@ -103,8 +149,23 @@ También consideramos la idea de permitir a los usuarios publicar e interactuar 
 
 Otra funcionalidad no agregada fue la de tener pencas pagas, en las que se debería pagar antes para acceder a ella. Decidimos mantener las pencas gratuitas ya que de esta forma nos alineamos con una estrategia de crecimiento y validación del producto antes de introducir cualquier componente de pago, lo cual es una decisión estratégica para establecer una base sólida y preparar el terreno para futuras expansiones y monetización. 
 
+#### 6.3. Otros Artefactos del Proyecto   COMPLETAR -------------------------
+1.	Minuta de Sprint Planning con su agenda, actividades y resultados.
+2.	Objetivos del proyecto.
+3.	Review final de usuarios (###### COMPLETAR Juntar todas las reviews de todas las US #########)
+
+Durante el desarrollo del proyecto de aplicación de pencas deportivas utilizando prácticas de ingeniería de software ágil, se obtuvieron importantes lecciones que impactaron positivamente en el rendimiento del equipo y en la calidad del producto final. Estas lecciones aprendidas no solo fueron aplicables al contexto específico del proyecto, sino que también son transferibles a futuros proyectos de ingeniería de software ágil. 
 
 ## Lecciones Aprendidas
+Punto 1 a 4 repetido ???
+
+A continuación, se amplía la discusión sobre las principales lecciones aprendidas:
+1.	Importancia de la Colaboración y Comunicación Efectiva: Una de las lecciones clave fue la relevancia de fomentar la colaboración entre los miembros del equipo y mantener una comunicación efectiva. La apertura para compartir ideas, resolver problemas de manera conjunta y mantener una comunicación clara y constante contribuyó significativamente al éxito del proyecto. La colaboración permitió acelerar el desarrollo del producto y garantizar que todas las partes involucradas estuvieran alineadas en cuanto a los objetivos y las tareas a realizar.
+2.	Flexibilidad y Adaptación ante los Cambios: Otra lección importante fue la necesidad de ser flexibles y estar preparados para adaptarse a los cambios que surgieran durante el proyecto. En un entorno ágil, donde los requisitos y las circunstancias pueden evolucionar rápidamente, la capacidad de adaptación se vuelve fundamental para mantener la eficiencia y la efectividad en el desarrollo del producto. La flexibilidad permitió al equipo ajustar su enfoque, prioridades y estrategias según las necesidades del proyecto.
+3.	Inspección y Mejora Continua: La práctica de realizar retrospectivas al final de cada iteración fue fundamental para identificar áreas de mejora, analizar lo que funcionó bien y lo que se podría mejorar en el proceso de desarrollo. La inspección constante del trabajo realizado y la implementación de acciones de mejora permitieron al equipo optimizar sus prácticas, corregir posibles errores y avanzar de manera más eficiente en cada iteración del proyecto.
+4.	Implementación Efectiva de Acciones de Mejora: Una lección clave fue la importancia de implementar acciones de mejora de manera efectiva y sistemática. Asignar responsabilidades claras, hacer un seguimiento regular de las mejoras propuestas, evaluar su efectividad y documentar todo el proceso fueron pasos fundamentales para garantizar que las acciones de mejora tuvieran un impacto positivo en el proyecto. La implementación efectiva de acciones de mejora contribuyó a la optimización del rendimiento del equipo y al logro de los objetivos del proyecto.
+Las lecciones aprendidas durante el proyecto fueron fundamentales para el éxito del mismo. La colaboración, la flexibilidad, la inspección y mejora continua, así como la implementación efectiva de acciones de mejora, son aspectos clave que el equipo pudo aplicar y que serán valiosos para futuros proyectos de ingeniería de software ágil. Estas lecciones no solo impactaron en el desarrollo del producto, sino que también en el crecimiento y la mejora del equipo en su conjunto, fortaleciendo su capacidad para enfrentar desafíos y alcanzar objetivos de manera eficiente y efectiva en entornos ágiles de desarrollo de software.
+
 Durante el desarrollo del proyecto, se identificaron y aplicaron diversas lecciones que resultaron fundamentales para el éxito del mismo:
 1.	Importancia de la Colaboración: La comunicación efectiva y la colaboración entre los miembros del equipo son clave para acelerar el desarrollo del producto y mejorar su calidad.
 2.	Flexibilidad y Adaptación: En un entorno ágil, la flexibilidad y la capacidad de adaptación son fundamentales para enfrentar los cambios y desafíos que puedan surgir durante el proyecto.
@@ -113,24 +174,8 @@ Durante el desarrollo del proyecto, se identificaron y aplicaron diversas leccio
 Este proyecto nos permitió comprender las responsabilidades de cada rol y la importancia de cada artefacto, lo que nos facilita llevar estos conocimientos a nuestro trabajo y aplicarlos para mejorar nuestras prácticas. 
 Queremos también destacar la importancia de la colaboración dentro del equipo y de mantener una comunicación efectiva. Esto, sin duda, mejora la calidad y acelera el desarrollo del producto, así como también fomenta la flexibilidad y adaptación en todo momento, lo cual nos lleva al éxito en un entorno ágil.
 
-Principales Artefactos del Proyecto
-1.	Minuta de Sprint Planning con su agenda, actividades y resultados.
-2.	Objetivos de la iteración.
-3.	Sprint Backlog con historias de usuarios y tareas asociadas.
-4.	Prototipos interactivos para ser navegados.
-5.	Minutas de Sprint Review.
-6.	Evidencia de los usability testing con usuarios finales.
+### 1. Acciones de Mejora Implementadas (VA repetido ????????????)
 
-Durante el desarrollo del proyecto de aplicación de pencas deportivas utilizando prácticas de ingeniería de software ágil, se obtuvieron importantes lecciones que impactaron positivamente en el rendimiento del equipo y en la calidad del producto final. Estas lecciones aprendidas no solo fueron aplicables al contexto específico del proyecto, sino que también son transferibles a futuros proyectos de ingeniería de software ágil. A continuación, se amplía la discusión sobre las principales lecciones aprendidas:
-1.	Importancia de la Colaboración y Comunicación Efectiva: Una de las lecciones clave fue la relevancia de fomentar la colaboración entre los miembros del equipo y mantener una comunicación efectiva. La apertura para compartir ideas, resolver problemas de manera conjunta y mantener una comunicación clara y constante contribuyó significativamente al éxito del proyecto. La colaboración permitió acelerar el desarrollo del producto y garantizar que todas las partes involucradas estuvieran alineadas en cuanto a los objetivos y las tareas a realizar.
-2.	Flexibilidad y Adaptación ante los Cambios: Otra lección importante fue la necesidad de ser flexibles y estar preparados para adaptarse a los cambios que surgieran durante el proyecto. En un entorno ágil, donde los requisitos y las circunstancias pueden evolucionar rápidamente, la capacidad de adaptación se vuelve fundamental para mantener la eficiencia y la efectividad en el desarrollo del producto. La flexibilidad permitió al equipo ajustar su enfoque, prioridades y estrategias según las necesidades del proyecto.
-3.	Inspección y Mejora Continua: La práctica de realizar retrospectivas al final de cada iteración fue fundamental para identificar áreas de mejora, analizar lo que funcionó bien y lo que se podría mejorar en el proceso de desarrollo. La inspección constante del trabajo realizado y la implementación de acciones de mejora permitieron al equipo optimizar sus prácticas, corregir posibles errores y avanzar de manera más eficiente en cada iteración del proyecto.
-4.	Implementación Efectiva de Acciones de Mejora: Una lección clave fue la importancia de implementar acciones de mejora de manera efectiva y sistemática. Asignar responsabilidades claras, hacer un seguimiento regular de las mejoras propuestas, evaluar su efectividad y documentar todo el proceso fueron pasos fundamentales para garantizar que las acciones de mejora tuvieran un impacto positivo en el proyecto. La implementación efectiva de acciones de mejora contribuyó a la optimización del rendimiento del equipo y al logro de los objetivos del proyecto.
-Las lecciones aprendidas durante el proyecto fueron fundamentales para el éxito del mismo. La colaboración, la flexibilidad, la inspección y mejora continua, así como la implementación efectiva de acciones de mejora, son aspectos clave que el equipo pudo aplicar y que serán valiosos para futuros proyectos de ingeniería de software ágil. Estas lecciones no solo impactaron en el desarrollo del producto, sino que también en el crecimiento y la mejora del equipo en su conjunto, fortaleciendo su capacidad para enfrentar desafíos y alcanzar objetivos de manera eficiente y efectiva en entornos ágiles de desarrollo de software.
-
-
-
-### 1. Acciones de Mejora Implementadas
 En el correr de las iteraciones, hubieron varios puntos que se tuvieron que ir puliendo para mejorar tanto la calidad del desarrollo y en consecuencia el producto que se estaba diseñando, como a su vez mejorar nuestras prácticas para tener una mejor organización en el trabajo.
 Los puntos a mejorar fueron:
 - Desafíos en la comunicacion: Durante el desarrollo del proyecto, uno de los principales desafíos que enfrentamos fue mantener una comunicación clara y constante entre los miembros del equipo. Con horarios diferentes, coordinar reuniones sincrónicas resultaba complicado, y los malentendidos sobre las tareas y prioridades comenzaron a afectar el progreso del proyecto.
@@ -157,7 +202,13 @@ Algunos desarrolladores se adaptaron rápidamente al uso de Framer, destacándos
 
 
 ## Conclusión
-La aplicación de prácticas ágiles mediante SCRUM en el desarrollo de un MVP para una aplicación de pencas deportivas nos permitió alcanzar nuestros objetivos y aprender valiosas lecciones sobre la gestión ágil de proyectos. Las adaptaciones realizadas fueron efectivas en mejorar la eficiencia y la calidad del trabajo, y las acciones de mejora implementadas resultaron en beneficios tangibles para el equipo y el proyecto. Estos aprendizajes serán fundamentales para futuros proyectos de ingeniería de software ágil.
+La aplicación de prácticas ágiles mediante SCRUM en el desarrollo de un MVP para una aplicación de pencas deportivas nos permitió alcanzar nuestros objetivos y aprender valiosas lecciones sobre la gestión ágil de proyectos.
+
+Se pudo ver en la práctica la aplicación de lo que indica el marco de trabajo SCRUM y también como se convive con el proceso de mejora continua a partir del feedback, tanto a nivel de las User Stories como a nivel del proceso de desarrollo en si.
+
+Las adaptaciones realizadas fueron efectivas en mejorar la eficiencia y la calidad del trabajo, y las acciones de mejora implementadas resultaron en beneficios tangibles para el equipo y el proyecto. 
+
+Estos aprendizajes serán fundamentales para futuros proyectos de ingeniería de software ágil.
 
 ## Referencias
 

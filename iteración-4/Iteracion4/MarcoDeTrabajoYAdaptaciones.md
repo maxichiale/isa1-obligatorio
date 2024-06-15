@@ -13,8 +13,63 @@ Se utilizarán los roles, eventos, y artefactos que el marco SCRUM define, con a
 Se incluye mas detalles sobre esto en la sección de [roles y responsabilidades](RolesYResponsabilidades.md)
 
 
+Este proyecto entonces cubre solamente lo que sería el Ciclo de Discovery en lo que seria **Dual Track SCRUM** de un proyecto completo produciendo como resultado un prototipo con User Stories validadas por usuarios. Por lo que aplicamos SCRUM a este ciclo, simulando que el Ciclo de Discovery es el Ciclo de Delivery, y esto implica que tenemos que traducir los elementos de uno a otro. Por ejemplo:
+  - Cuando hablamos de producto e incrementos, en vez de estar entregando un producto funcional listo para ser usado por los usuarios, los incrementos son prototipos de funcionalidades que son una aproximación a lo que seria el producto final.
+  - El backlog de ideas propias y surgidas del relevamiento con usuarios, será nuestro Product backlog
+  - Los incrementos serán validados por el Prodct Owner y algunos usuarios que propusieron ideas, en lugar de que usuarios reales utilicen un produco real.
+  - El equipo de desarrollo en lugar de estar codificando estará diseñando los prototipos como si fueran diseñadores.
 
-## Proceso de Ingeniería de Requerimientos Ágil
+Para mayor referencia se incluye el siguiente diagrama
+
+![dual track scrum](img/dual-track-scrum.png)
+
+### Sprints
+
+Se redujo de 4 a 2 semanas la duración de los Sprints debido al calendario propuesto por letra (requerimiento), y también para poder tener mayor cantidad de Sprints, y por ende, más feedback para hacer ajustes. También utilizamos un sprint "0" o inicial dedicado a realizar tareas de Discovery de ideas, relevamiento, y arquitectura del producto a desarrollar. Esto se hizo asi porque no teniamos claro un alcance concreto dado, sino que debiamos determinarlo en base a posibles usuarios del producto.
+
+### Planificación y Release
+
+Si bien en cada Sprint posterior al inicial se hicieron avances en el producto, solo se relaizó un release al final, por lo que dado que había funcionalidades bastante fijas dadas por letra, y una fecha final fija por calendario ORT, la planificación realizada fué mas bien **Date Driven**, priorizando las épicas solicitadas por letra para cumplir el mínimo requerido y luego las que aportaran mayor valor a los usuarios, dejando otras por el camino que no se llegaron a implementar.
+
+### Distribución de la carga de trabajo
+
+Se estableció una carga de trabajo, no constante a lo largo del proyecto, porque al hacer la planificación inicial el equipo identificó que no se iba a poder contar con una capacidad constante en el tiempo dado que hay entregas y otros eventos externos que afectan la disponibilidad de tiempo de los integrantes del equipo. En base a eso se definió planificar una capacidad mayor en las etapas iniciales, para luego ir descendiendo la misma en las etapas finales, de forma de poder mantener un promedio que nos permita cumplir los objetivos. El mismo principio se utilizó al planificar los Sprints, en base a los objetivos del mismo, establecimos prioridades semanales claras para asegurar la finalización de tareas críticas, de manera que no nos quede mucha carga de trabajo acumulada para el final del Sprint.
+
+### Virtualizacion de eventos
+
+Dada la dispersión de los integrantes del equipo, y la dificultad de coincidir en un mismo lugar se decidió que todas las ceremonias de SCRUM se realizarán en forma virtual, salvo algunas revisiones con stakeholders puntuales.
+
+### Virtualizacion de artefactos de comunicación
+
+Dado la misma imposibilidad de tener reunido el equipo físicamente en un lugar como para tener espacios colaborativos e irradiadores de información físicos, utilizamos Azure DevOps para la gestión visual de algunos artefactos como ser el Product Backlog, Sprint Backlog, Burndown y Velocity charts, y Taskboards. De esta manera mejoramos la comunicación y colaboración del equipo, priorizando y gestionando mejor las tareas asignadas. 
+
+  También utilizamos Framer para la gestión del entregable, lo que facilita el acceso simultaneo para poder trabajar en la elaboración del mismo.
+
+  Otras herramientas como MetroRetro, Planning Poker entre otras, se utilizaron como irradiadores de información que facilitan la comunicación con el equipo.
+
+  Además se incorporó un grupo de Whatsapp para poder agilizar la comunicación y estar en permanente contacto y por ejemplo resolver dudas, plantear dificulades, ajustar prioridades, reportar avances, etc.
+
+### Frecuencia de Daily Scrums
+
+Debido a la disponibilidad horaria de los integrantes del grupo, las Daily Scrums no son realizadas todos los días, en vez de ello, se hacen 3 veces a la semana, y se acepta que puedan tener hasta 30 minutos de duracion.
+
+
+### Duracion de Citas para ceremonias Scrum
+
+Las citas fueron considerablemente mas larga que lo propuesto por SCRUM ya que por ejemplo se anexó tiempo para trabajo en conjunto luego de los 15 minutos aprox de duracion de la daily, algo similar con las demas. Esto para facilitar tareas de coordinacion entre las tareas que vienen realizando distintos integrantes que tienen cierta relación, solucionar bloqueos o dudas que algun miembro del equipo haya manifestado en la daily o la ceremonia que se haya realizao, o hacer cualquier ajuste que ayude a lograr el objetivo del Sprint.
+
+### "Pair Programming"
+
+Se hizo bastante uso de esta técnica dado que no teníamos mucho tiempo para hacer verificaciones, y ciclos de prueba y correcciones, precisábamos que lo que se entregara tuviera la mejor calidad posible y fuera correcto. Cuando un integrante del equipo tenía una tarea compleja, solicitaba al Scrum Master apoyo y este buscaba quien podría ayudar o el mismo lo hacía, para resolver el tema de manera conjunta. Esto es algo que no propone SCRUM pero que al equipo la resultó bueno agregar a las tareas que el Scrum Master y equipo de desarrollo normalmente si hace comom parte de SCRUM de ayudar a desbloquear las tareas que no logran avanzar.
+
+### Reviews
+
+Dado que no se tenía un producto utilizable en forma autónoma por los usuarios, se hicieron sesiones de demostración con usuarios, sobre las que se pidió feedback mediante cuestionarios.
+También se hicieron videos demostrativos de cada funcionalidad entregada, para utilizar cuando no se podía agendar un encuentro.
+Además en las Sprint Reviews se analizo todo este material junto con la revisión del propio Product Owner.
+
+
+### Proceso de Ingeniería de Requerimientos Ágil
 
 Como input para esta parte del proceso se toman los resultados del trabajo de [relevamiento de aplicaciones, y feedback de usuarios de pencas](AnalisisInicial.md).
 
@@ -31,7 +86,7 @@ En el proyecto se escriben los criterios de aceptación, escritos en BDD con **D
 
 ### User stories
 
-### Definition of Ready
+#### Definition of Ready
 
 Las User Story deben cumplir con lo siguiente, antes de ser seleccionados para su inclusión en el Sprint:
 - Ser claras y completas siguiendo los criterios INVEST, a saber:
@@ -44,9 +99,9 @@ Las User Story deben cumplir con lo siguiente, antes de ser seleccionados para s
 - Tener criterios de aceptación bien definidos y verificables
 - Estar priorizadas. Dicha priorización se realizará en general según el valor que aporte dicha UserStory (según lo manifieste el Product Owner), pero también teniendo en cuenta los criterios técnicos (como por ejemplo la factibilidad de poder ser incluidas dentro de los releases que se planifiquen) dados por el Equipo de Desarrollo. 
 
-En el marco del proyecto las UserStory estarán especificadas bajo estos lineamientos en la herramienta [Azure DevOps](https://dev.azure.com/) con criterios de aceptación escritos en BDD, especificados como escenarios en lenguaje Gherkin. Las mismas se agruparán en Epicas indicando las funcionalidades de alto nivel que tendrá la aplicación.
+En el marco del proyecto las UserStory estarán especificadas bajo estos lineamientos en la herramienta [Azure DevOps](https://dev.azure.com/) con criterios de aceptación escritos en **BDD**, especificados como escenarios en lenguaje Gherkin. Las mismas se agruparán en Epicas indicando las funcionalidades de alto nivel que tendrá la aplicación.
 
-### Definition of Done
+#### Definition of Done
 
 Establece las condiciones que deben cumplirse para determinar si un elemento de trabajo (historia de usuario, tarea, funcionalidad, entre otros) está completamente terminado y listo para ser entregado.
 Los elementos del Backlog completados durante el Sprint deben cumplir con los criterios de aceptación especificados, con las pruebas realizadas en forma exitosa (es decir llegando al resultado esperado según lo especificado). También debe estar en condición de ser liberado a los usuarios finales (listo para instalar o hacer deploy).
