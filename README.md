@@ -22,7 +22,15 @@ Para el desarrollo del proyecto se deberá utilizar el marco de trabajo SCRUM. E
 
 # Integrantes del equipo
 
-_[Enumerar los integrantes del equipo con sus números de estudiantes y rol dentro del proyecto.]_
+Nro. Estudiante | Nombre | Rol
+--- | --- | --- 
+224179 | Maximiliano Chiale | Development Team
+276280 | Santiago Ezequiel Alfonso Ferraro | Development Team
+276763 | Santiago Federico Lopez Langenhin | Development Team
+296955 | Bruno Berois | Development Team
+223694 | Ana Belén Martínez | Development Team
+173507 | Gabriel Lutz | Scrum Master y Development Team (parcial)
+109606 | Germán Correa | Product Owner y Development Team (parcial)
 
 # Iteraciones y esfuerzo
 
@@ -32,17 +40,21 @@ El esfuerzo esperado del equipo durante el proyecto es: 5 horas-persona / semana
 
 Las siguientes carpetas deberán tener la entrega de cada iteración siguiendo la rúbrica propuesta en la letra del obligatorio y cada README:
 
-- [Iteración 1](./iteración-1/README.md)
-- [Iteración 2](./iteración-2/README.md)
-- [Iteración 3](./iteración-3/README.md)
-- [Iteración 4](./iteración-4/README.md)
+- [Iteración 1](./iteraciones/iteración1/README.md)
+- [Iteración 2](./iteraciones/iteración2/README.md)
+- [Iteración 3](./iteraciones/iteración3/README.md)
+- [Iteración 4](./iteraciones/iteración4/README.md)
 
 # Mejoras y ajustes principales a los entregables de cada iteración
 
 _[Con el desarrollo del proyecto se pueden ir encontrando mejoras a los entregables ya realizados de cada iteración. Enumerar en esta sección las principales mejoras realizadas posterior a cada entrega. Esto puede incluir la implementación de las sugerencias realizadas por los docentes durante el proyecto.]_
 
-Se aplicaron todas las mejoras en la documentacion del Sprint 3.
-Entendemos no se puede alterar la documentacion ya entregada.
+### Sprint 3
+Se aplicaron todas las mejoras en la documentacion del Sprint 3 en base a corrección y feedback docente recibido para el Sprint 2.
+Entendemos no se puede alterar la documentacion ya entregada de las iteraciones anteriores.
+
+### Sprint 4
+Agregamos capturas con todas las historias que se desarrollaron en cada sprint correspondiente con su descripcion, criterios de aceptación e imagenes del prototipo. 
 
 # Reflexiones y aprendizajes finales de los resultados del proyecto
 
@@ -50,10 +62,12 @@ Entendemos no se puede alterar la documentacion ya entregada.
 
 _[Existe la elaboración de un informe académico que resume los resultados y reflexiona sobre las lecciones aprendidas sobre las prácticas de ingeniería de software ágil. El informe académico deberá ser implementado como un archivo de markdown en el propio repositorio de github.]_
 
+[Informe académico](InformeAcademico.md)
+
 ### Artefactos principales
 
-- Informe académico resumiendo resultados principales del proyecto.
-- Reflexiones y aprendizajes del proyecto.
+- Informe académico resumiendo resultados principales del proyecto. ([link](InformeAcademico.md))
+- Reflexiones y aprendizajes del proyecto. ([link](InformeAcademico.md#lecciones-aprendidas))
 
 ## Video demo
 
@@ -62,3 +76,7 @@ _[Debe existir un video (de 6 minutos máximo) demostrando el flujo principal de
 ### Artefactos principales
 
 - Video de 6 minutos demostrando el flujo de la aplicación y explicando la propuesta de valor.
+
+[Video demostrativo](https://fi365-my.sharepoint.com/:v:/g/personal/gl173507_fi365_ort_edu_uy/Ed1LvwSQvSNEhGMxkG7PMRYB4zx7EvQpU6T-R7QMLQUpDA?e=5Pd2Nx)
+
+[Edicion en Loom](https://www.loom.com/share/1bd2f41cb1dd44629353fce29b5bd62b?sid=eb1e031d-f7a5-4be0-8fbd-01a2ff79b322)
