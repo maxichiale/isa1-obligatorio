@@ -37,7 +37,7 @@ Cada integrante del equipo responde:
   - ¿Qué impedimentos tiene?
     - Si hay algo que nos bloquea el avance, reportarlo para conseguir ayuda.
 
-  ## Seguimiento de la iteración
+## Seguimiento de la iteración
 
 ### Burndown chart
 
