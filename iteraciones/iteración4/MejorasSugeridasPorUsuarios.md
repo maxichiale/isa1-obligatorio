@@ -135,7 +135,7 @@ Video explicativo: [US #132](https://fi365-my.sharepoint.com/:v:/g/personal/sa27
 
 Video explicativo: [US #133](https://fi365-my.sharepoint.com/:v:/g/personal/sa276280_fi365_ort_edu_uy/EY4W7lw-_Q1JjmlYhQeyQBoBr0Ni19ZvJAPFob9D2v56Cw?e=37RgwX)
 
-![133-desc](img/user-stories/Mejoras%20de%20los%20favoritos/descripcion.png) ![133-criterios](img/user-stories/Mejoras%20de%20los%20favoritos/descripcion.png)
+![133-desc](img/user-stories/Mejoras%20de%20los%20favoritos/descripcion.png) ![133-criterios](img/user-stories/Mejoras%20de%20los%20favoritos/criterios.png)
 
 ![133-1](img/user-stories/Mejoras%20de%20los%20favoritos/1.PNG)![133-2](img/user-stories/Mejoras%20de%20los%20favoritos/2.PNG) ![133-3](img/user-stories/Mejoras%20de%20los%20favoritos/3.PNG)![133-4](img/user-stories/Mejoras%20de%20los%20favoritos/4.PNG)![133-5](img/user-stories/Mejoras%20de%20los%20favoritos/5.PNG)![133-6](img/user-stories/Mejoras%20de%20los%20favoritos/6.PNG)![133-7](img/user-stories/Mejoras%20de%20los%20favoritos/7.PNG)
 
