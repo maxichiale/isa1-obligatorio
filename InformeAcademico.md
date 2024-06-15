@@ -72,19 +72,19 @@ las funciones centrales relacionadas con los pronósticos, asegurando así una e
 
 - Automatización de modo oscuro:
 
-![AutomModoOscuro](./iteración-4/Iteracion4/img/funcionalidades-no-Implementadas/Automatizacion-modo-oscuro.png)
+![AutomModoOscuro](iteración-4/Iteracion4/img/funcionalidades-no-implementadas/Automatizacion-modo-oscuro.png)
 
 Un usuario también solicito el modo oscuro automático, pero al ya tener implementado el modo oscuro manual funcionando adecuadamente y satisfaciendo las necesidades de los usuarios, implementar un modo oscuro automático no nos pareció relevante o prioritario en términos de beneficio adicional. 
 
 - Creación de un muro: 
 
-![CreacionMuro](./iteración-4/Iteracion4/img/funcionalidades-no-Implementadas/Creacion-muro.png)
+![CreacionMuro](iteración-4/Iteracion4/img/funcionalidades-no-implementadas/Creacion-muro.png)
 
 También consideramos la idea de permitir a los usuarios publicar e interactuar en muros dentro de la aplicación. Sin embargo, debido a las limitaciones de tiempo y la priorización de otras funcionalidades que aportaban mayor valor, decidimos no implementar esta característica. Aunque probablemente habría sido interesante y beneficioso para fomentar la interacción entre los usuarios y enriquecer la experiencia de la comunidad. 
 
 - Pencas de pago:
  
-![PencasPagas](./iteración-4/Iteracion4/img/funcionalidades-no-Implementadas/Pencas-pagas.png)
+![PencasPagas](iteración-4/Iteracion4/img/funcionalidades-no-implementadas/Pencas-pagas.png)
 
 Otra funcionalidad no agregada fue la de tener pencas pagas, en las que se debería pagar antes para acceder a ella. Decidimos mantener las pencas gratuitas ya que de esta forma nos alineamos con una estrategia de crecimiento y validación del producto antes de introducir cualquier componente de pago, lo cual es una decisión estratégica para establecer una base sólida y preparar el terreno para futuras expansiones y monetización. 
 
