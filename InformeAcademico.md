@@ -114,7 +114,10 @@ la aplicación, algunas de ellas no llegaron a implementarse o fueron descartada
 #### 6.1. Product Backlog. 
 Definición y prototipos navegables que demuestran la funcionalidad de las User Stories implementadas.
 
-Traer casos de uso para aca   ######### COMPLETAR ##################
+Las mismas podemos apreciarlas en los MVPs de las iteraciones:
+- [Iteración 2](iteraciones/iteración2/Iteracion2-MVPconPrototipos.md#user-stories-incluidas-en-el-sprint)
+- [Iteración 3](iteraciones/iteración3/Iteracion3-MVPconPrototipos.md#user-stories-incluidas-en-el-sprint)
+- [Iteración 4](iteraciones/iteración4/Iteracion4-MVPconPrototipos.md#user-stories-con-bocetos-incluidas-en-el-sprint)
 
 #### 6.2. User stories SI implementadas a raiz de sugerencias de usuarios
 
@@ -160,12 +163,12 @@ También consideramos la idea de permitir a los usuarios publicar e interactuar 
 
 Otra funcionalidad no agregada fue la de tener pencas pagas, en las que se debería pagar antes para acceder a ella. Decidimos mantener las pencas gratuitas ya que de esta forma nos alineamos con una estrategia de crecimiento y validación del producto antes de introducir cualquier componente de pago, lo cual es una decisión estratégica para establecer una base sólida y preparar el terreno para futuras expansiones y monetización. 
 
-#### 6.3. Otros Artefactos del Proyecto   COMPLETAR -------------------------
-1.	Minuta de Sprint Planning con su agenda, actividades y resultados.
-2.	Objetivos del proyecto.
-3.	Review final de usuarios (###### COMPLETAR Juntar todas las reviews de todas las US #########)
+#### 6.3. Feedback final de los usuarios
 
-Durante el desarrollo del proyecto de aplicación de pencas deportivas utilizando prácticas de ingeniería de software ágil, se obtuvieron importantes lecciones que impactaron positivamente en el rendimiento del equipo y en la calidad del producto final. Estas lecciones aprendidas no solo fueron aplicables al contexto específico del proyecto, sino que también son transferibles a futuros proyectos de ingeniería de software ágil. 
+Analizando el feedback de los usuarios proporcionado [aquí](iteraciones/iteración4), llegamos a la conclusión de que se logró desarrollar una aplicación de calidad, la cual brinda funcionalidades únicas que le agregan mucho valor a la aplicación.
+
+Estamos muy conformes con lo intuitiva que resultó ser la aplicación para los usuarios, y la accesibilidad que se brinda.
+De todos modos, vemos que todavía hay margen de mejora en la aplicación, añadiendo las funcionalidades que no se lograron implementar, y probablemente al tener feedback de una mayor cantidad de usuarios se planteen buenas ideas de mejoras.
 
 ## Reflecciones y Lecciones Aprendidas
 
