@@ -10,11 +10,15 @@ El mismo se encuentra accesible en el siguiente link:
 
 ### #2 Aceptar o rechazar invitación a una penca  
 
-#### Aceptar invitación
+#### #1 Aceptar invitación
+
+Video explicativo: [US #1](https://teams.microsoft.com/l/message/19:meeting_YzEyMzNkYWItNTE0Zi00YjQ5LWIyY2EtMDhmY2ZlZTgyNjZm@thread.v2/1717284693003?context=%7B%22contextType%22%3A%22chat%22%7D)
 
 ![2-1-1](/iteración-4/Iteracion2/img/user-stories/Aceptar%20o%20rechazar%20invitación%20a%20una%20penca/Aceptar%20invitación/1.png) ![2-1-2](/iteración-4/Iteracion2/img/user-stories/Aceptar%20o%20rechazar%20invitación%20a%20una%20penca/Aceptar%20invitación/2.png) ![2-1-3](/iteración-4/Iteracion2/img/user-stories/Aceptar%20o%20rechazar%20invitación%20a%20una%20penca/Aceptar%20invitación/3.png) ![2-1-4](/iteración-4/Iteracion2/img/user-stories/Aceptar%20o%20rechazar%20invitación%20a%20una%20penca/Aceptar%20invitación/4.png) 
 
-#### Rechazar invitación
+#### #2 Rechazar invitación
+
+Video explicativo: [US #2](https://teams.microsoft.com/l/message/19:meeting_YzEyMzNkYWItNTE0Zi00YjQ5LWIyY2EtMDhmY2ZlZTgyNjZm@thread.v2/1717284693003?context=%7B%22contextType%22%3A%22chat%22%7D)
 
 ![2-2-1](/iteración-4/Iteracion2/img/user-stories/Aceptar%20o%20rechazar%20invitación%20a%20una%20penca/Rechazar%20invitación/1.png) ![2-2-2](/iteración-4/Iteracion2/img/user-stories/Aceptar%20o%20rechazar%20invitación%20a%20una%20penca/Rechazar%20invitación/2.png) ![2-2-3](/iteración-4/Iteracion2/img/user-stories/Aceptar%20o%20rechazar%20invitación%20a%20una%20penca/Rechazar%20invitación/3.png)
 

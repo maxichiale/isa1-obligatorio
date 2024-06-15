@@ -34,16 +34,18 @@ Se detallan a continuación, los roles y las responsabilidades en el marco de Sc
 ### Artefactos principales
 
 - Justificación de las adaptaciones principales del marco de trabajo al contexto del proyecto. ([link](../MarcoDeTrabajoYAdaptaciones.md))
-- Definición del calendario de eventos con justificación de su adaptación al contexto de la iteración. ([link](CalendarioDeEventos.md))
+- Definición del calendario de eventos con justificación de su adaptación al contexto de la iteración. ([link](../CalendarioDeEventos.md))
 - Roles y responsabilidades definidos para cada integrante del equipo. ([link](../RolesYResponsabilidades.md))
 - Políticas de trabajo del equipo ([link](../MarcoDeTrabajoYAdaptaciones.md)):
-  - Definition of Done. ([link](../MarcoDeTrabajoYAdaptaciones.md#Definition-of-Done))
-  - Definition of Ready. ([link](../MarcoDeTrabajoYAdaptaciones.md#Definition-of-Ready))
+  - Definition of Done. ([link](../MarcoDeTrabajoYAdaptaciones.md#definition-of-done))
+  - Definition of Ready. ([link](../MarcoDeTrabajoYAdaptaciones.md#definition-of-ready))
 
 
 ## Planificación de la iteración
 
 _[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener las historias de usuario priorizadas y las tareas planificadas basadas en la capacidad y velocidad disponible del equipo.]_
+
+[Sprint planning](Iteracion3-Sprint-Planning.md)
 
 ### Artefactos principales
 
@@ -62,12 +64,12 @@ _[Existe evidencia sobre el registro de actividades y horas de cada integrante d
 
 [Daily Scrum](Iteracion3-Daily-Scrum.md)
 
-- Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
+- Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo. ([link](Iteracion3-Daily-Scrum.md#minuta-de-cada-daily-scrum))
   - ¿Que logramos hacer?
   - ¿Qué planificamos hacer?
   - ¿Qué impedimentos tenemos?
-- Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
-- Seguimiento visual de la iteración con burndown y/o burnup charts.
+- Registro y reporte de horas de cada integrante del equipo con sus actividades principales. ([link](Iteracion3-Daily-Scrum.md#dedicacion-horaria))
+- Seguimiento visual de la iteración con burndown y/o burnup charts. ([link](Iteracion3-Daily-Scrum.md#burndown-chart))
 
 ## Inspección y adaptación del proceso
 
@@ -88,8 +90,8 @@ _[Existen diferentes propuestas de solución para entregar valor y resolver el p
 
 ### Artefactos principales
 
-- Prototipos interactivos para ser navegados. ([link](Iteracion3-MVPconPrototipos.md#Prototipo-navegable))
-- Prototipos asociados como bocetos a las historias de usuario. ([link](Iteracion3-MVPconPrototipos.md#User-stories-incluidas-en-el-Sprint))
+- Prototipos interactivos para ser navegados. ([link](Iteracion3-MVPconPrototipos.md#prototipo-navegable))
+- Prototipos asociados como bocetos a las historias de usuario. ([link](Iteracion3-MVPconPrototipos.md#user-stories-incluidas-en-el-sprint))
 
 ## Inspección y adaptación del producto
 
