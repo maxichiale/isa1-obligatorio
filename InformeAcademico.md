@@ -73,7 +73,7 @@ A continuación, mostraremos en detalle las principales funcionalidades que fuer
 
 - Agregar estados: 
 
-![](iteración-4/Iteracion4/img/funcionalidades-no-Implementadas/Agregar-estados.png)
+![AgregarEstados](iteración-4/Iteracion4/img/funcionalidades-no-implementadas/Agregar-estados.png)
 
 En cierto momento se consideró la idea de añadir funcionalidades parecidas a las de las redes sociales como permitir a los usuarios subir historias y fotos en la 
 aplicación, pero decidimos no implementarlas. Nuestra aplicación está centrada en pronósticos deportivos, y agregar estas funciones podría desviar el enfoque 
@@ -87,19 +87,19 @@ las funciones centrales relacionadas con los pronósticos, asegurando así una e
 
 - Automatización de modo oscuro:
 
-![](iteración-4/Iteracion4/img/funcionalidades-no-Implementadas/Automatizacion-modo-oscuro.png)
+![AutomModoOscuro](iteración-4/Iteracion4/img/funcionalidades-no-implementadas/Automatizacion-modo-oscuro.png)
 
 Un usuario también solicito el modo oscuro automático, pero al ya tener implementado el modo oscuro manual funcionando adecuadamente y satisfaciendo las necesidades de los usuarios, implementar un modo oscuro automático no nos pareció relevante o prioritario en términos de beneficio adicional. 
 
 - Creación de un muro: 
 
-![](iteración-4/Iteracion4/img/funcionalidades-no-Implementadas/Creacion-muro.png)
+![CreacionMuro](iteración-4/Iteracion4/img/funcionalidades-no-implementadas/Creacion-muro.png)
 
 También consideramos la idea de permitir a los usuarios publicar e interactuar en muros dentro de la aplicación. Sin embargo, debido a las limitaciones de tiempo y la priorización de otras funcionalidades que aportaban mayor valor, decidimos no implementar esta característica. Aunque probablemente habría sido interesante y beneficioso para fomentar la interacción entre los usuarios y enriquecer la experiencia de la comunidad. 
 
 - Pencas de pago:
  
-![](iteración-4/Iteracion4/img/funcionalidades-no-Implementadas/Pencas-pagas.png)
+![PencasPagas](iteración-4/Iteracion4/img/funcionalidades-no-implementadas/Pencas-pagas.png)
 
 Otra funcionalidad no agregada fue la de tener pencas pagas, en las que se debería pagar antes para acceder a ella. Decidimos mantener las pencas gratuitas ya que de esta forma nos alineamos con una estrategia de crecimiento y validación del producto antes de introducir cualquier componente de pago, lo cual es una decisión estratégica para establecer una base sólida y preparar el terreno para futuras expansiones y monetización. 
 
