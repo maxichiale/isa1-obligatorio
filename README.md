@@ -77,4 +77,6 @@ _[Debe existir un video (de 6 minutos máximo) demostrando el flujo principal de
 
 - Video de 6 minutos demostrando el flujo de la aplicación y explicando la propuesta de valor.
 
-[Video demostrativo](https://www.loom.com/share/1bd2f41cb1dd44629353fce29b5bd62b?sid=eb1e031d-f7a5-4be0-8fbd-01a2ff79b322)
+[Video demostrativo](https://fi365-my.sharepoint.com/:v:/g/personal/gl173507_fi365_ort_edu_uy/Ed1LvwSQvSNEhGMxkG7PMRYB4zx7EvQpU6T-R7QMLQUpDA?e=5Pd2Nx)
+
+[Edicion en Loom](https://www.loom.com/share/1bd2f41cb1dd44629353fce29b5bd62b?sid=eb1e031d-f7a5-4be0-8fbd-01a2ff79b322)

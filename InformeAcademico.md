@@ -165,7 +165,7 @@ Otra funcionalidad no agregada fue la de tener pencas pagas, en las que se deber
 
 #### 6.3. Feedback final de los usuarios
 
-Analizando el feedback de los usuarios proporcionado [aquí](iteraciones/iteración4), llegamos a la conclusión de que se logró desarrollar una aplicación de calidad, la cual brinda funcionalidades únicas que le agregan mucho valor a la aplicación.
+Analizando el feedback de los usuarios proporcionado [aquí](iteraciones/iteración4/MejorasSugeridasPorUsuarios.md#feedback-luego-de-los-cambios), llegamos a la conclusión de que se logró desarrollar una aplicación de calidad, la cual brinda funcionalidades únicas que le agregan mucho valor a la aplicación.
 
 Estamos muy conformes con lo intuitiva que resultó ser la aplicación para los usuarios, y la accesibilidad que se brinda.
 De todos modos, vemos que todavía hay margen de mejora en la aplicación, añadiendo las funcionalidades que no se lograron implementar, y probablemente al tener feedback de una mayor cantidad de usuarios se planteen buenas ideas de mejoras.
