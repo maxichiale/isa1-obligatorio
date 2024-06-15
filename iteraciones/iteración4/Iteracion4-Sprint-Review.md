@@ -101,3 +101,113 @@ Revisión de nuestra APP:
 
 
 - Audio Review Final: [Review Final Adolfo](https://fi365-my.sharepoint.com/:v:/g/personal/gl173507_fi365_ort_edu_uy/Ed06lwUiSBFMrMtvwSOKdeQBFl3obk-WWvTPwKHzX0jTFw?e=OyWhM1)
+
+#### Adrián
+
+- **Edad**: 52
+- **Sexo**: Masculino
+- **Profesión o actividad de la persona**: Electricista
+- **Hobbies**: Mirar futbol y jugar videojuegos.
+- **Vinculo con pencas**: No es usuario de Pencas. No participa de apuestas deportivas.
+- **Revisión de nuestra APP**
+    - **¿Opinión general?** La nueva actualización de la app está muy buena. Todo sigue siendo fácil de encontrar y usar. Me encanta lo claro que está todo y lo sencillo que es seguir los pasos.
+    - **¿Qué le parece las mejoras que se introdujeron?** Me gusta mucho que se haya implementado el modo oscuro, ya que como dije antes, los colores claros me molestaban un poco. También se agregó un chat para interactuar, 
+	que fue una de las cosas que sugerí. Quedé muy contento con los cambios.
+	
+
+### Antonella 
+
+- **Edad**: 35
+- **Sexo**: Femenino
+- **Profesión o actividad de la persona**: Contadora
+- **Hobbies**: Repostería.
+- **Vinculo con pencas**: No es usuario de Pencas. No participa de apuestas deportivas.
+- **Revisión de nuestra APP**
+    - **¿Opinión general?** Me encantó. Es muy completa, me parece que los cambios y modificaciones que hicieron fueron los correctos.
+    - **¿Qué le parece las mejoras que se introdujeron?** Se agrego un chat para interactuar y ya puedo legir usar la app en otro idioma asi que yo quede muy contenta con los cambios.
+	
+
+### Constanza 
+
+- **Edad**: 15
+- **Sexo**: Femenino
+- **Profesión o actividad de la persona**: Estudiante
+- **Hobbies**: Gimnasio y voleibol.
+- **Vinculo con pencas**: No es usuario de Pencas. No participa de apuestas deportivas.
+- **Revisión de nuestra APP**
+   - **¿Opinión general?** Me gusta mucho.
+   - **¿Qué le parece las mejoras que se introdujeron?** Me gusto mucho el modo oscuro, fue algo que no habia pensado pero que es super util.
+	
+
+### Martin 
+
+- **Edad**: 24
+- **Sexo**: Masculino
+- **Profesión o actividad de la persona**: Despachante de aduana
+- **Hobbies**: Gym y jugar videojuegos.
+- **Vinculo con pencas**: No es usuario de Pencas. No participa de apuestas deportivas.
+- **Revisión de nuestra APP**
+    - **¿Opinión general?** Seria una app que usaria, quedo completa y facil de usar.
+   - **¿Qué le parece las mejoras que se introdujeron?** Note que cambiaron el logo, ahora tiene mas que ver con la app.
+	
+
+### Julieta 
+
+- **Edad**: 32
+- **Sexo**: Femenino
+- **Profesión o actividad de la persona**: Chef
+- **Hobbies**: Leer y escuchar música.
+- **Vinculo con pencas**: No es usuario de Pencas. No participa de apuestas deportivas.
+- **Revisión de nuestra APP**
+    - **¿Opinión general?** La app ha mejorado significativamente.
+    - **¿Qué le parece las mejoras que se introdujeron?** Aunque no se implementaron las mejoras que sugerí, me gusta como quedaron las que sí fueron agregadas.
+
+
+
+### Jorge 
+
+- **Edad**: 45
+- **Sexo**: Masculino
+- **Profesión o actividad de la persona**: Profesor
+- **Hobbies**: Andar en bicicleta.
+- **Vinculo con pencas**: No es usuario de Pencas. Si participa de apuestas deportivas.
+- **Revisión de nuestra APP**
+    - **¿Opinión general?** Aplicación completa.
+    - **¿Qué le parece las mejoras que se introdujeron?** Se agrego el chat que fue una de las cosas que pedí y otros cambios que quedaron muy bien.
+	
+
+### Martina 
+
+- **Edad**: 28
+- **Sexo**: Femenino
+- **Profesión o actividad de la persona**: Empleada
+- **Hobbies**: Fotografía.
+- **Vinculo con pencas**: No es usuario de Pencas. No participa de apuestas deportivas.
+- **Revisión de nuestra APP**
+    - **¿Opinión general?** Una app que usaria.
+    - **¿Qué le parece las mejoras que se introdujeron?** Me gusta que ahora se pueda personalizar la interfaz cambiándola al modo oscuro y seleccionando el idioma fácilmente.
+	Estos cambios han hecho que la aplicación sea más accesible y agradable de usar.
+	
+	
+### Tomas 
+
+- **Edad**: 17
+- **Sexo**: Masculino
+- **Profesión o actividad de la persona**: Estudiante
+- **Hobbies**: Jugar al Fútbol.
+- **Vinculo con pencas**: No es usuario de Pencas. No participa de apuestas deportivas.
+- **Revisión de nuestra APP**
+    - **¿Opinión general?** Me gusta.
+    - **¿Qué le parece las mejoras que se introdujeron?** Se agrego el chat para poder hablar con mis amigos, asi que contento con el pedido.
+
+
+
+### Alváro 
+
+- **Edad**: 32
+- **Sexo**: Masculino
+- **Profesión o actividad de la persona**: Empresario
+- **Hobbies**: Jugar al Padel.
+- **Vinculo con pencas**: No es usuario de Pencas. No participa de apuestas deportivas pero le gustan las apuestas.
+- **Revisión de nuestra APP**
+    - **¿Qué le parece las mejoras que se introdujeron?** Se mejoro el logo, quedo mas entendible de que se trata, me parece que todos los cambios fueron importantes y mejoran la experiencia del usuario.
